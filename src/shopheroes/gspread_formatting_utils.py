@@ -31,7 +31,6 @@ def get_effective_formats(worksheet):
     for row in resp['sheets'][0]['data'][0]['rowData']:
         result_row = []
         for cell in row['values']:
-            print(cell)
             props = cell.get('effectiveFormat')
             result_row.append(CellFormat.from_props(props) if props else None)
         result.append(result_row)

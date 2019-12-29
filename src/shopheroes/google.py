@@ -4,9 +4,13 @@ from oauth2client.service_account import ServiceAccountCredentials
 import gspread
 
 from shopheroes.gspread_formatting_utils import get_effective_formats
+from shopheroes.definitions import Quality
 from shopheroes.definitions import ItemDef
 from shopheroes.definitions import HeroDef
 from shopheroes.definitions import EqDef
+
+
+libdir = os.path.dirname(os.path.realpath(__file__))
 
 
 def number2int(power):
@@ -35,7 +39,6 @@ class ShopHeroesDataSpreadsheet:
     SHEET_URL = 'https://docs.google.com/spreadsheets/d/1yOLklDGX2LmndWKvQuRYkAOO0WqHsudv8kvEhLWx_so/edit#gid=0'
 
     def __init__(self):
-        libdir = os.path.dirname(os.path.realpath(__file__))
         keyfile = os.path.join(libdir, 'resources', self.KEYFILE)
         self.credentials = ServiceAccountCredentials.from_json_keyfile_name(keyfile, self.SCOPES)
         self.gc = None
@@ -59,16 +62,19 @@ class ShopHeroesDataSpreadsheet:
 
         result = []
         for row in values[1:]:
+            name = row[1]
+            level = int(row[2])
+            klass = row[4]
             power = {
-                'base': number2int(row[3]),
-                'good': number2int(row[45]),
-                'great': number2int(row[46]),
-                'flawless': number2int(row[47]),
-                'epic': number2int(row[48]),
-                'legendary': number2int(row[49]),
-                'mythical': number2int(row[50])
+                Quality.base: number2int(row[3]),
+                Quality.good: number2int(row[45]),
+                Quality.great: number2int(row[46]),
+                Quality.flawless: number2int(row[47]),
+                Quality.epic: number2int(row[48]),
+                Quality.legendary: number2int(row[49]),
+                Quality.mythical: number2int(row[50])
             }
-            item_def = ItemDef(row[1], row[2], row[4], power)
+            item_def = ItemDef(name, level, klass, power)
             result.append(item_def)
 
         return result
@@ -137,5 +143,7 @@ class ShopHeroesDataSpreadsheet:
 
 if __name__ == '__main__':
     ts = ShopHeroesDataSpreadsheet()
-    print(jsons.dumps(ts.get_items(), jdkwargs={"indent": 4}))
-    print(jsons.dumps(ts.get_heroes(), jdkwargs={"indent": 4}))
+    with open(os.path.join(libdir, 'resources', 'items.json'), "w") as file:
+        file.write(jsons.dumps(ts.get_items(), jdkwargs={"indent": 2}))
+    with open(os.path.join(libdir, 'resources', 'heroes.json'), "w") as file:
+        file.write(jsons.dumps(ts.get_heroes(), jdkwargs={"indent": 2}))

@@ -1,0 +1,1826 @@
+[
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 30,
+    "name": "Karal",
+    "power_multi": 1.0,
+    "power_start": 100
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 35,
+    "name": "Theor",
+    "power_multi": 1.0,
+    "power_start": 50
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Clovis",
+    "power_multi": 1.0,
+    "power_start": 100
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Gauvin",
+    "power_multi": 1.5,
+    "power_start": 500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 45,
+    "name": "Lancaster",
+    "power_multi": 2.0,
+    "power_start": 1000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 50,
+    "name": "Fiora",
+    "power_multi": 3.0,
+    "power_start": 2500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 50,
+    "name": "Kurul",
+    "power_multi": 3.0,
+    "power_start": 2500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spells",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 55,
+    "name": "Edward",
+    "power_multi": 4.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 55,
+    "name": "Alicia",
+    "power_multi": 4.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 60,
+    "name": "Yue",
+    "power_multi": 5.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 35,
+    "name": "Garreth",
+    "power_multi": 1.0,
+    "power_start": 50
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Axes",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Palash",
+    "power_multi": 1.0,
+    "power_start": 100
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Mila",
+    "power_multi": 1.5,
+    "power_start": 500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 45,
+    "name": "Irene",
+    "power_multi": 1.5,
+    "power_start": 500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 45,
+    "name": "Darthos",
+    "power_multi": 2.0,
+    "power_start": 1000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 45,
+    "name": "Odette",
+    "power_multi": 2.0,
+    "power_start": 1000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Shields",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Remedies",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 55,
+    "name": "Louca",
+    "power_multi": 4.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 55,
+    "name": "Kuro Shobi",
+    "power_multi": 4.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Projectiles",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 60,
+    "name": "Lorelei",
+    "power_multi": 5.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 30,
+    "name": "Melina",
+    "power_multi": 1.0,
+    "power_start": 50
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Maces",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spells",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Minh",
+    "power_multi": 1.0,
+    "power_start": 50
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Albert",
+    "power_multi": 1.0,
+    "power_start": 100
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 40,
+    "name": "Nya",
+    "power_multi": 1.5,
+    "power_start": 500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 45,
+    "name": "Oneira",
+    "power_multi": 2.0,
+    "power_start": 1000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Daggers",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Rings",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Remedies",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 50,
+    "name": "Azula",
+    "power_multi": 3.0,
+    "power_start": 2500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Swords",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Spears",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 50,
+    "name": "Francesca",
+    "power_multi": 3.0,
+    "power_start": 2500
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Guns",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Armor",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Helmets",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Gauntlets",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Boots",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Pendants",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      },
+      {
+        "affinity": 0.0125,
+        "klass": "Potions",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 55,
+    "name": "Mojian",
+    "power_multi": 4.0,
+    "power_start": 5000
+  },
+  {
+    "eq_defs": [
+      {
+        "affinity": -0.025,
+        "klass": "Bows",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Staves",
+        "type": "Weapon"
+      },
+      {
+        "affinity": 0,
+        "klass": "Clothes",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Vests",
+        "type": "Chest"
+      },
+      {
+        "affinity": 0,
+        "klass": "Hats",
+        "type": "Head"
+      },
+      {
+        "affinity": 0,
+        "klass": "Bracers",
+        "type": "Arm"
+      },
+      {
+        "affinity": 0,
+        "klass": "Footwear",
+        "type": "Leg"
+      },
+      {
+        "affinity": 0,
+        "klass": "Instruments",
+        "type": "Accessory"
+      },
+      {
+        "affinity": 0,
+        "klass": "Spells",
+        "type": "Valuable"
+      }
+    ],
+    "lmax": 60,
+    "name": "Charles",
+    "power_multi": 5.0,
+    "power_start": 5000
+  }
+]
