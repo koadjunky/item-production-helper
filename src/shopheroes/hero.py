@@ -14,17 +14,32 @@ class Item:
         item_def = items_dict[name]
         return cls(item_def, quality)
 
+    def __str__(self):
+        return "{}({})".format(self.item_def.name, self.item_def.level)
+
     def __repr__(self):
         return "{}({})".format(self.__class__.__name__, ", ".join(["{}={}".format(k, v) for k, v in vars(self).items()]))
 
-    def break_chance(self, hero):
+    def break_chance(self, hero, **kwargs):
         if not hero.can_equip(self):
             return -1
-        level_difference = abs(hero.level - self.item_def.level)
+        level = kwargs.get('level', hero.level)
+        if level > hero.hero_def.lmax:
+            return -1
+        level_difference = abs(level - self.item_def.level)
         affinity_modifier = hero.affinity(self)
-        base_break_chance = 1.0 - (1.0 - 0.03 * level_difference - affinity_modifier)**0.85
+        if 1.0 - 0.03 * level_difference - affinity_modifier > 0:
+            base_break_chance = 1.0 - (1.0 - 0.03 * level_difference - affinity_modifier)**0.85
+        else:
+            base_break_chance = 1.0
         break_chance = self.quality.modifier() * max(base_break_chance, 0.03)
         return break_chance if break_chance >= 0.005 else 0.0
+
+    def number_of_levels_until_unbreakable(self, hero):
+        for i in range(60 - hero.level):
+            if self.break_chance(hero, level=hero.level+i) == 0.0:
+                return i
+        return -1
 
 
 class Hero:
@@ -41,6 +56,9 @@ class Hero:
     def new(cls, name, level):
         hero_def = heroes_dict[name]
         return cls(hero_def, level)
+
+    def __str__(self):
+        return "{}({})".format(self.hero_def.name, self.level)
 
     def __repr__(self):
         return "{}({})".format(self.__class__.__name__, ", ".join(["{}={}".format(k, v) for k, v in vars(self).items()]))
