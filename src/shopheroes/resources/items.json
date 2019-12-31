@@ -1,5 +1,6 @@
 [
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 2,
     "name": "Shortsword",
@@ -14,6 +15,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 3,
     "name": "Longsword",
@@ -28,6 +30,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 5,
     "name": "Broadsword",
@@ -42,6 +45,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 6,
     "name": "Midnight Sword",
@@ -56,6 +60,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 7,
     "name": "Rapier",
@@ -70,6 +75,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 8,
     "name": "Claymore",
@@ -84,6 +90,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 9,
     "name": "Jaded Blade",
@@ -98,6 +105,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 10,
     "name": "Fire Blade",
@@ -112,6 +120,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 12,
     "name": "Zweihander",
@@ -126,6 +135,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 13,
     "name": "Macuahuitl",
@@ -140,6 +150,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 14,
     "name": "Bastard Sword",
@@ -154,6 +165,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 16,
     "name": "Sabre",
@@ -168,6 +180,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 19,
     "name": "Wakizashi",
@@ -182,6 +195,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 20,
     "name": "Vorpal Sword",
@@ -196,6 +210,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 23,
     "name": "Scimitar",
@@ -210,6 +225,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 25,
     "name": "Coldsteel",
@@ -224,6 +240,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 26,
     "name": "Shinai",
@@ -238,6 +255,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 27,
     "name": "Masamune",
@@ -252,6 +270,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 29,
     "name": "Soul Eater",
@@ -266,6 +285,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 30,
     "name": "Relic Blade",
@@ -280,6 +300,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 30,
     "name": "Sawblade",
@@ -294,6 +315,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 31,
     "name": "Heaven's Will",
@@ -308,6 +330,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 32,
     "name": "Abyssal Brand",
@@ -322,6 +345,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 34,
     "name": "Bacon Blade",
@@ -336,6 +360,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 35,
     "name": "Slashing Tiger",
@@ -350,6 +375,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 37,
     "name": "Excalibur",
@@ -364,6 +390,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Swords",
     "level": 38,
     "name": "Stormbringer",
@@ -378,6 +405,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Swords",
     "level": 39,
     "name": "Twilight Scimitar",
@@ -392,6 +420,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 40,
     "name": "Balmung",
@@ -406,6 +435,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Swords",
     "level": 41,
     "name": "Dragonslayer",
@@ -420,6 +450,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Swords",
     "level": 43,
     "name": "Unholy Fangs",
@@ -434,6 +465,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Swords",
     "level": 46,
     "name": "Frostfire Blade",
@@ -448,6 +480,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Swords",
     "level": 47,
     "name": "Blade of Power",
@@ -462,6 +495,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 48,
     "name": "Naughty and Nice",
@@ -476,6 +510,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Swords",
     "level": 50,
     "name": "Durandal",
@@ -490,6 +525,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Swords",
     "level": 52,
     "name": "Subzero 3000",
@@ -504,6 +540,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Swords",
     "level": 55,
     "name": "Skofnung",
@@ -518,6 +555,7 @@
     }
   },
   {
+    "craft": 4,
     "klass": "Swords",
     "level": 60,
     "name": "Sinister Gaze",
@@ -532,6 +570,7 @@
     }
   },
   {
+    "craft": 4,
     "klass": "Swords",
     "level": 60,
     "name": "Sinister Gaze (2nd Skill)",
@@ -546,6 +585,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 1,
     "name": "Knife",
@@ -560,6 +600,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 2,
     "name": "Pocket Knife",
@@ -574,6 +615,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 3,
     "name": "Kris",
@@ -588,6 +630,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 3,
     "name": "Dirk",
@@ -602,6 +645,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 5,
     "name": "Parrying Dagger",
@@ -616,6 +660,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 7,
     "name": "Stiletto",
@@ -630,6 +675,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 8,
     "name": "Bronze Dagger",
@@ -644,6 +690,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 9,
     "name": "White Dagger",
@@ -658,6 +705,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 10,
     "name": "Broad Blade",
@@ -672,6 +720,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 12,
     "name": "Gutting Knife",
@@ -686,6 +735,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 13,
     "name": "Hunting Knife",
@@ -700,6 +750,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 14,
     "name": "Carver",
@@ -714,6 +765,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 15,
     "name": "Crimson Heart",
@@ -728,6 +780,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 16,
     "name": "Mail Breaker",
@@ -742,6 +795,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 18,
     "name": "Phantom Katar",
@@ -756,6 +810,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 18,
     "name": "Sweet Surprise",
@@ -770,6 +825,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 20,
     "name": "Switch Blade",
@@ -784,6 +840,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 22,
     "name": "Life Stealer",
@@ -798,6 +855,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 25,
     "name": "Night Shiv",
@@ -812,6 +870,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 27,
     "name": "Shadowripper",
@@ -826,6 +885,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 30,
     "name": "Wing Blade",
@@ -840,6 +900,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 33,
     "name": "Starfrost Impaler",
@@ -854,6 +915,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 35,
     "name": "Dark Hand",
@@ -868,6 +930,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 36,
     "name": "Betrayer",
@@ -882,6 +945,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 37,
     "name": "Royal Dirk",
@@ -896,6 +960,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Daggers",
     "level": 38,
     "name": "Seven Stars",
@@ -910,6 +975,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Daggers",
     "level": 39,
     "name": "Dragon Fang",
@@ -924,6 +990,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 41,
     "name": "Traitorous Blade",
@@ -938,6 +1005,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Daggers",
     "level": 44,
     "name": "Jagged Spike",
@@ -952,6 +1020,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 44,
     "name": "Tecpatl",
@@ -966,6 +1035,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Daggers",
     "level": 46,
     "name": "Obsidian Dagger",
@@ -980,6 +1050,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Daggers",
     "level": 49,
     "name": "Aphotic Shiv",
@@ -994,6 +1065,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 50,
     "name": "Primal Dagger",
@@ -1008,6 +1080,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 52,
     "name": "Kaiken",
@@ -1022,6 +1095,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Daggers",
     "level": 53,
     "name": "Vine Slasher",
@@ -1036,6 +1110,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Daggers",
     "level": 55,
     "name": "Mistilteinn",
@@ -1050,6 +1125,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 2,
     "name": "Hand Axe",
@@ -1064,6 +1140,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 3,
     "name": "Iron Axe",
@@ -1078,6 +1155,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 4,
     "name": "Broad Axe",
@@ -1092,6 +1170,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 5,
     "name": "Halberd",
@@ -1106,6 +1185,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 6,
     "name": "Druidic Axe",
@@ -1120,6 +1200,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 6,
     "name": "Hunting Axe",
@@ -1134,6 +1215,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 9,
     "name": "Pole Axe",
@@ -1148,6 +1230,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 10,
     "name": "Tiamat",
@@ -1162,6 +1245,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 12,
     "name": "Labrys",
@@ -1176,6 +1260,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 13,
     "name": "Hoe",
@@ -1190,6 +1275,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 14,
     "name": "Steel Axe",
@@ -1204,6 +1290,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 15,
     "name": "Challenger's Hatchet",
@@ -1218,6 +1305,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 16,
     "name": "Hawk",
@@ -1232,6 +1320,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 19,
     "name": "Initiate's Reaver",
@@ -1246,6 +1335,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 20,
     "name": "Lava Axe",
@@ -1260,6 +1350,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 21,
     "name": "Frenzy Axe",
@@ -1274,6 +1365,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 22,
     "name": "Reaper",
@@ -1288,6 +1380,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 23,
     "name": "Berserker's Axe",
@@ -1302,6 +1395,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 24,
     "name": "Bone Reaver",
@@ -1316,6 +1410,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 25,
     "name": "Sharp Tusk",
@@ -1330,6 +1425,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 26,
     "name": "Itztopilli",
@@ -1344,6 +1440,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 27,
     "name": "Dominator's Reaver",
@@ -1358,6 +1455,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 28,
     "name": "Crystal Asunder",
@@ -1372,6 +1470,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 31,
     "name": "Shining Axe",
@@ -1386,6 +1485,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 32,
     "name": "Widow Maker",
@@ -1400,6 +1500,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 33,
     "name": "Nocturne Axe",
@@ -1414,6 +1515,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 35,
     "name": "Tactician's Splitter",
@@ -1428,6 +1530,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 36,
     "name": "Storm Splitter",
@@ -1442,6 +1545,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 38,
     "name": "Infernal Rage",
@@ -1456,6 +1560,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 39,
     "name": "Eagle",
@@ -1470,6 +1575,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Axes",
     "level": 40,
     "name": "Ragnarok's Edge",
@@ -1484,6 +1590,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Axes",
     "level": 42,
     "name": "Retribution",
@@ -1498,6 +1605,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 44,
     "name": "Devastating Sunder",
@@ -1512,6 +1620,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Axes",
     "level": 45,
     "name": "Wyvern Axe",
@@ -1526,6 +1635,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 47,
     "name": "Heartstopper Axe",
@@ -1540,6 +1650,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Axes",
     "level": 48,
     "name": "Frenzied Axe",
@@ -1554,6 +1665,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Axes",
     "level": 50,
     "name": "Umbral Axe",
@@ -1568,6 +1680,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Axes",
     "level": 53,
     "name": "Forseti's Axe",
@@ -1582,6 +1695,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 54,
     "name": "Starfrost Divider",
@@ -1596,6 +1710,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Axes",
     "level": 57,
     "name": "Ruinous Tusk",
@@ -1610,6 +1725,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 1,
     "name": "Wooden Spear",
@@ -1624,6 +1740,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 3,
     "name": "Iron Spear",
@@ -1638,6 +1755,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 4,
     "name": "Half Pike",
@@ -1652,6 +1770,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 5,
     "name": "Trident",
@@ -1666,6 +1785,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 7,
     "name": "Maple Spear",
@@ -1680,6 +1800,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 8,
     "name": "Pike",
@@ -1694,6 +1815,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 9,
     "name": "Gaia's Javelin",
@@ -1708,6 +1830,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 10,
     "name": "Spade",
@@ -1722,6 +1845,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 11,
     "name": "Pitchfork",
@@ -1736,6 +1860,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 12,
     "name": "Seeking Tip",
@@ -1750,6 +1875,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 13,
     "name": "Lance",
@@ -1764,6 +1890,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 14,
     "name": "Champion's Javelin",
@@ -1778,6 +1905,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 15,
     "name": "Knight's Lance",
@@ -1792,6 +1920,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 16,
     "name": "Challenger's Spear",
@@ -1806,6 +1935,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 18,
     "name": "Valkyrie",
@@ -1820,6 +1950,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 19,
     "name": "Poison Tip",
@@ -1834,6 +1965,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 21,
     "name": "Bone Spear",
@@ -1848,6 +1980,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 22,
     "name": "Fishing Spear",
@@ -1862,6 +1995,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 23,
     "name": "Frenzy Tip",
@@ -1876,6 +2010,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 23,
     "name": "Initiate's Lance",
@@ -1890,6 +2025,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 25,
     "name": "Winged Spear",
@@ -1904,6 +2040,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spears",
     "level": 26,
     "name": "Silver Fork",
@@ -1918,6 +2055,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 28,
     "name": "Dominator's Impaler",
@@ -1932,6 +2070,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 29,
     "name": "Lion's Tail",
@@ -1946,6 +2085,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 30,
     "name": "Moon Voulge",
@@ -1960,6 +2100,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 30,
     "name": "Tepoztopilli",
@@ -1974,6 +2115,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 32,
     "name": "Impaler",
@@ -1988,6 +2130,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 32,
     "name": "Obsidian Spear",
@@ -2002,6 +2145,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 34,
     "name": "Twisted Pike",
@@ -2016,6 +2160,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 36,
     "name": "Titanic Lance",
@@ -2030,6 +2175,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 37,
     "name": "Tactician's Voulge",
@@ -2044,6 +2190,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 38,
     "name": "Night Spike",
@@ -2058,6 +2205,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spears",
     "level": 39,
     "name": "Divine Ray",
@@ -2072,6 +2220,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 40,
     "name": "Mystic Spear",
@@ -2086,6 +2235,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 42,
     "name": "Umbrella Demon",
@@ -2100,6 +2250,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Spears",
     "level": 43,
     "name": "Twilight Spear",
@@ -2114,6 +2265,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 44,
     "name": "Fangtian Pike",
@@ -2128,6 +2280,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Spears",
     "level": 45,
     "name": "Ascalon",
@@ -2142,6 +2295,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 46,
     "name": "Devastating Pike",
@@ -2156,6 +2310,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spears",
     "level": 47,
     "name": "Obsidian Voulge",
@@ -2170,6 +2325,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 48,
     "name": "Green Dragon",
@@ -2184,6 +2340,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spears",
     "level": 50,
     "name": "Primordial Trident",
@@ -2198,6 +2355,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spears",
     "level": 52,
     "name": "Gungnir",
@@ -2212,6 +2370,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 54,
     "name": "Rebellion",
@@ -2226,6 +2385,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 57,
     "name": "Ruinous Lance",
@@ -2240,6 +2400,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spears",
     "level": 57,
     "name": "Scorpion Tail",
@@ -2254,6 +2415,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spears",
     "level": 60,
     "name": "Rising Tempest",
@@ -2268,6 +2430,7 @@
     }
   },
   {
+    "craft": 4,
     "klass": "Spears",
     "level": 60,
     "name": "Rising Tempest (2nd Skill)",
@@ -2282,6 +2445,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 1,
     "name": "Club",
@@ -2296,6 +2460,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 2,
     "name": "Spiked Club",
@@ -2310,6 +2475,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 3,
     "name": "Shieldbreaker",
@@ -2324,6 +2490,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 4,
     "name": "Maul",
@@ -2338,6 +2505,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 5,
     "name": "Sledgehammer",
@@ -2352,6 +2520,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 7,
     "name": "Mace",
@@ -2366,6 +2535,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 8,
     "name": "Morning Star",
@@ -2380,6 +2550,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 9,
     "name": "Heavy Mace",
@@ -2394,6 +2565,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 10,
     "name": "Challenger's Maul",
@@ -2408,6 +2580,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 11,
     "name": "Battle Mace",
@@ -2422,6 +2595,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 13,
     "name": "Pumpkin Smasher",
@@ -2436,6 +2610,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 14,
     "name": "Steeled Club",
@@ -2450,6 +2625,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 15,
     "name": "Tree Trunk",
@@ -2464,6 +2640,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 17,
     "name": "War Gavel",
@@ -2478,6 +2655,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 21,
     "name": "Journey Mace",
@@ -2492,6 +2670,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 22,
     "name": "Hammer Fist",
@@ -2506,6 +2685,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 23,
     "name": "Dominator's Mace",
@@ -2520,6 +2700,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 24,
     "name": "Initiate's Smasher",
@@ -2534,6 +2715,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 25,
     "name": "Demolisher",
@@ -2548,6 +2730,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 25,
     "name": "Giant's Hammer",
@@ -2562,6 +2745,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 26,
     "name": "Frenzy Club",
@@ -2576,6 +2760,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 27,
     "name": "Royal Scepter",
@@ -2590,6 +2775,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 28,
     "name": "Fury Club",
@@ -2604,6 +2790,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 30,
     "name": "Relic Hammer",
@@ -2618,6 +2805,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 31,
     "name": "Earthquake",
@@ -2632,6 +2820,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 32,
     "name": "Apocalyptus",
@@ -2646,6 +2835,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 35,
     "name": "Pulverizer",
@@ -2660,6 +2850,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 36,
     "name": "Tactician's Gavel",
@@ -2674,6 +2865,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 37,
     "name": "Tide Maker",
@@ -2688,6 +2880,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Maces",
     "level": 38,
     "name": "Evening Star",
@@ -2702,6 +2895,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 39,
     "name": "Destroyer",
@@ -2716,6 +2910,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Maces",
     "level": 40,
     "name": "Hundred Ton",
@@ -2730,6 +2925,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Maces",
     "level": 43,
     "name": "Storm Basher",
@@ -2744,6 +2940,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 45,
     "name": "Devastating Basher",
@@ -2758,6 +2955,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Maces",
     "level": 48,
     "name": "Crusher",
@@ -2772,6 +2970,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 48,
     "name": "Lion Mace",
@@ -2786,6 +2985,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Maces",
     "level": 49,
     "name": "Primal Smasher",
@@ -2800,6 +3000,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Maces",
     "level": 50,
     "name": "Tenderizer",
@@ -2814,6 +3015,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Maces",
     "level": 54,
     "name": "Shattering Core",
@@ -2828,6 +3030,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 55,
     "name": "Pharaoh Flail",
@@ -2842,6 +3045,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Maces",
     "level": 57,
     "name": "Ruinous Crusher",
@@ -2856,6 +3060,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 1,
     "name": "Walking Stick",
@@ -2870,6 +3075,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 3,
     "name": "Crow Stick",
@@ -2884,6 +3090,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 5,
     "name": "Druidic Rod",
@@ -2898,6 +3105,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 6,
     "name": "Battle Staff",
@@ -2912,6 +3120,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 7,
     "name": "Deception Staff",
@@ -2926,6 +3135,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 8,
     "name": "Muted Caster",
@@ -2940,6 +3150,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 9,
     "name": "Bishop Staff",
@@ -2954,6 +3165,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 9,
     "name": "Sprout Staff",
@@ -2968,6 +3180,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 10,
     "name": "Healing Rod",
@@ -2982,6 +3195,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 11,
     "name": "Challenger's Rod",
@@ -2996,6 +3210,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 12,
     "name": "Forest Wand",
@@ -3010,6 +3225,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 13,
     "name": "Fire Rod",
@@ -3024,6 +3240,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 14,
     "name": "Mystic Staff",
@@ -3038,6 +3255,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 15,
     "name": "Blood Staff",
@@ -3052,6 +3270,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 16,
     "name": "Pharaoh Crook",
@@ -3066,6 +3285,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 17,
     "name": "Luna Rod",
@@ -3080,6 +3300,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 18,
     "name": "Initiate's Staff",
@@ -3094,6 +3315,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 19,
     "name": "Whispering Wand",
@@ -3108,6 +3330,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 20,
     "name": "Spatula",
@@ -3122,6 +3345,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 23,
     "name": "Rebirth Rod",
@@ -3136,6 +3360,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 24,
     "name": "Dominator's Wand",
@@ -3150,6 +3375,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 26,
     "name": "Ice Staff",
@@ -3164,6 +3390,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 27,
     "name": "Death Stick",
@@ -3178,6 +3405,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 28,
     "name": "Sacred Scepter",
@@ -3192,6 +3420,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 28,
     "name": "Candy Cane Staff",
@@ -3206,6 +3435,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 29,
     "name": "Frenzy Wand",
@@ -3220,6 +3450,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 30,
     "name": "Soul Stealer",
@@ -3234,6 +3465,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 32,
     "name": "Champion's Torch",
@@ -3248,6 +3480,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 33,
     "name": "Staff of Ages",
@@ -3262,6 +3495,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 34,
     "name": "Maple Staff",
@@ -3276,6 +3510,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 35,
     "name": "Star Wand",
@@ -3290,6 +3525,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 36,
     "name": "Eagle Rod",
@@ -3304,6 +3540,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 37,
     "name": "Tactician's Caster",
@@ -3318,6 +3555,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 38,
     "name": "Emperor Wand",
@@ -3332,6 +3570,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 39,
     "name": "Cultist Staff",
@@ -3346,6 +3585,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 40,
     "name": "Valkyrie's Wisdom",
@@ -3360,6 +3600,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 41,
     "name": "Sun King",
@@ -3374,6 +3615,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Staves",
     "level": 42,
     "name": "Draconic Scepter",
@@ -3388,6 +3630,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 42,
     "name": "Fairy's Mount",
@@ -3402,6 +3645,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 44,
     "name": "Devastating Staff",
@@ -3416,6 +3660,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 45,
     "name": "Keeper of Souls",
@@ -3430,6 +3675,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 45,
     "name": "Affection",
@@ -3444,6 +3690,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Staves",
     "level": 50,
     "name": "Shattered Wand",
@@ -3458,6 +3705,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Staves",
     "level": 53,
     "name": "Necro Staff",
@@ -3472,6 +3720,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Staves",
     "level": 57,
     "name": "Ruinous Scepter",
@@ -3486,6 +3735,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 2,
     "name": "Short Bow",
@@ -3500,6 +3750,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 3,
     "name": "Long Bow",
@@ -3514,6 +3765,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 5,
     "name": "Faery's String",
@@ -3528,6 +3780,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 6,
     "name": "Sunsetter",
@@ -3542,6 +3795,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 7,
     "name": "Double String",
@@ -3556,6 +3810,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 8,
     "name": "Falcon Eye",
@@ -3570,6 +3825,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 9,
     "name": "Composite Bow",
@@ -3584,6 +3840,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 11,
     "name": "Crossbow",
@@ -3598,6 +3855,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 13,
     "name": "Hallowed Striker",
@@ -3612,6 +3870,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 14,
     "name": "Recurved Bow",
@@ -3626,6 +3885,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 17,
     "name": "Heavy Crossbow",
@@ -3640,6 +3900,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 18,
     "name": "Self-Loader",
@@ -3654,6 +3915,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 20,
     "name": "Forester",
@@ -3668,6 +3930,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 21,
     "name": "Eagle Eye",
@@ -3682,6 +3945,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 23,
     "name": "Transfixer",
@@ -3696,6 +3960,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 25,
     "name": "Silent Arbalest",
@@ -3710,6 +3975,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 27,
     "name": "Wind Striker",
@@ -3724,6 +3990,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 29,
     "name": "Bow of Light",
@@ -3738,6 +4005,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 30,
     "name": "Valkyrie's Touch",
@@ -3752,6 +4020,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 31,
     "name": "Spider",
@@ -3766,6 +4035,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 32,
     "name": "Harvester Bow",
@@ -3780,6 +4050,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 34,
     "name": "Chimera Wings",
@@ -3794,6 +4065,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 35,
     "name": "Evelyn",
@@ -3808,6 +4080,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 37,
     "name": "Dragon Eye",
@@ -3822,6 +4095,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 38,
     "name": "Lovestruck",
@@ -3836,6 +4110,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 38,
     "name": "Griffin Wings",
@@ -3850,6 +4125,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bows",
     "level": 39,
     "name": "Adamantium Crossbow",
@@ -3864,6 +4140,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Bows",
     "level": 40,
     "name": "Twilight Shot",
@@ -3878,6 +4155,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bows",
     "level": 42,
     "name": "Repeater Crossbow",
@@ -3892,6 +4170,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bows",
     "level": 43,
     "name": "Elven Bow",
@@ -3906,6 +4185,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Bows",
     "level": 44,
     "name": "Serpentshooter",
@@ -3920,6 +4200,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 48,
     "name": "Wind Piercer",
@@ -3934,6 +4215,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bows",
     "level": 50,
     "name": "Lycan Slayer",
@@ -3948,6 +4230,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bows",
     "level": 54,
     "name": "Artemis' Bow",
@@ -3962,6 +4245,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 5,
     "name": "Pistol",
@@ -3976,6 +4260,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 6,
     "name": "Musket",
@@ -3990,6 +4275,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 7,
     "name": "Arquebuse",
@@ -4004,6 +4290,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 8,
     "name": "Pocket Pistol",
@@ -4018,6 +4305,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 9,
     "name": "Long Musket",
@@ -4032,6 +4320,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 11,
     "name": "Falconer",
@@ -4046,6 +4335,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 12,
     "name": "Six Shooter",
@@ -4060,6 +4350,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 13,
     "name": "Rifle",
@@ -4074,6 +4365,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 14,
     "name": "Axe Pistol",
@@ -4088,6 +4380,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 17,
     "name": "Flintlock",
@@ -4102,6 +4395,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 18,
     "name": "Black Stock",
@@ -4116,6 +4410,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 18,
     "name": "Tribarrel",
@@ -4130,6 +4425,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 19,
     "name": "Double Barrel",
@@ -4144,6 +4440,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 21,
     "name": "Fire Gun",
@@ -4158,6 +4455,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 22,
     "name": "Conqueror",
@@ -4172,6 +4470,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 24,
     "name": "War Axe Pistol",
@@ -4186,6 +4485,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 26,
     "name": "Thunder Shot",
@@ -4200,6 +4500,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 27,
     "name": "Candy Cane Pistol",
@@ -4214,6 +4515,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 28,
     "name": "Dragon's Breath",
@@ -4228,6 +4530,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 29,
     "name": "Death Missive",
@@ -4242,6 +4545,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 30,
     "name": "Relic Arquebus",
@@ -4256,6 +4560,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 31,
     "name": "Heart Shooter",
@@ -4270,6 +4575,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 33,
     "name": "Rising Sun",
@@ -4284,6 +4590,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 33,
     "name": "Silent but Deadly",
@@ -4298,6 +4605,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 35,
     "name": "One-Shot",
@@ -4312,6 +4620,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 36,
     "name": "Judgement",
@@ -4326,6 +4635,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 37,
     "name": "Bomb Launcher",
@@ -4340,6 +4650,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 38,
     "name": "Solar Flare",
@@ -4354,6 +4665,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 39,
     "name": "Nordic Warfare",
@@ -4368,6 +4680,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 41,
     "name": "Harpoon Gun",
@@ -4382,6 +4695,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Guns",
     "level": 44,
     "name": "Blaster",
@@ -4396,6 +4710,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 47,
     "name": "Pirate Pistol",
@@ -4410,6 +4725,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 48,
     "name": "G.F.G.",
@@ -4424,6 +4740,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Guns",
     "level": 49,
     "name": "Stake Shooter",
@@ -4438,6 +4755,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 50,
     "name": "Demonic Blast",
@@ -4452,6 +4770,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Guns",
     "level": 53,
     "name": "Dragon Fire",
@@ -4466,6 +4785,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Guns",
     "level": 55,
     "name": "Pirate Gun",
@@ -4480,6 +4800,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 1,
     "name": "Cuirass",
@@ -4494,6 +4815,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 3,
     "name": "Banded Mail",
@@ -4508,6 +4830,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 4,
     "name": "Scale Mail",
@@ -4522,6 +4845,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 5,
     "name": "Ring Mail",
@@ -4536,6 +4860,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 8,
     "name": "Chainmail",
@@ -4550,6 +4875,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 9,
     "name": "Half Plate",
@@ -4564,6 +4890,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 10,
     "name": "Tlahuiztli",
@@ -4578,6 +4905,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 10,
     "name": "Moonplate",
@@ -4592,6 +4920,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 11,
     "name": "Steel Cuirass",
@@ -4606,6 +4935,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 14,
     "name": "Full Plate",
@@ -4620,6 +4950,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 17,
     "name": "Longmail",
@@ -4634,6 +4965,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 18,
     "name": "Noble Plate",
@@ -4648,6 +4980,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 19,
     "name": "Silvered Scales",
@@ -4662,6 +4995,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 22,
     "name": "Arcane Guard",
@@ -4676,6 +5010,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 23,
     "name": "Runic Mail",
@@ -4690,6 +5025,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 24,
     "name": "Honor Mail",
@@ -4704,6 +5040,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 25,
     "name": "Chaos Armor",
@@ -4718,6 +5055,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 27,
     "name": "Shining Armor",
@@ -4732,6 +5070,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 29,
     "name": "Starfrost Platemail",
@@ -4746,6 +5085,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 30,
     "name": "Valkyrie Armor",
@@ -4760,6 +5100,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 32,
     "name": "White Fullplate",
@@ -4774,6 +5115,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 35,
     "name": "Eldritch Mail",
@@ -4788,6 +5130,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 36,
     "name": "Golden Heart",
@@ -4802,6 +5145,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Armor",
     "level": 38,
     "name": "Gaia's Fortress",
@@ -4816,6 +5160,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Armor",
     "level": 39,
     "name": "Draconic Plate",
@@ -4830,6 +5175,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 40,
     "name": "Twilight Cuirass",
@@ -4844,6 +5190,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 42,
     "name": "Crimson Plate",
@@ -4858,6 +5205,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 44,
     "name": "Dark Silver Armor",
@@ -4872,6 +5220,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Armor",
     "level": 46,
     "name": "Earthen Mail",
@@ -4886,6 +5235,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 48,
     "name": "Hallowed Casket",
@@ -4900,6 +5250,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Armor",
     "level": 49,
     "name": "Oracle's Armor",
@@ -4914,6 +5265,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Armor",
     "level": 53,
     "name": "Black Mail",
@@ -4928,6 +5280,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Armor",
     "level": 58,
     "name": "Wyvern Plate",
@@ -4942,6 +5295,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 1,
     "name": "Leather Vest",
@@ -4956,6 +5310,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 2,
     "name": "Hide Armor",
@@ -4970,6 +5325,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 4,
     "name": "Boiled Leather",
@@ -4984,6 +5340,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 6,
     "name": "Brigandine",
@@ -4998,6 +5355,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 7,
     "name": "Merchant's Armor",
@@ -5012,6 +5370,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 8,
     "name": "Leather Cuirass",
@@ -5026,6 +5385,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 11,
     "name": "Studded Leather",
@@ -5040,6 +5400,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 12,
     "name": "Raccoon Ranger",
@@ -5054,6 +5415,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 13,
     "name": "Poison Studs",
@@ -5068,6 +5430,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 16,
     "name": "Strapped Leather",
@@ -5082,6 +5445,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 17,
     "name": "Plated Tunic",
@@ -5096,6 +5460,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 17,
     "name": "Jacket",
@@ -5110,6 +5475,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 18,
     "name": "Plated Leather",
@@ -5124,6 +5490,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 21,
     "name": "Bear Armor",
@@ -5138,6 +5505,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 24,
     "name": "Nightingale",
@@ -5152,6 +5520,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 26,
     "name": "Genji Armor",
@@ -5166,6 +5535,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 28,
     "name": "Oiled Leather",
@@ -5180,6 +5550,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 29,
     "name": "Layered Armor",
@@ -5194,6 +5565,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 30,
     "name": "Oriental Vest",
@@ -5208,6 +5580,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 32,
     "name": "Gold Stitch",
@@ -5222,6 +5595,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 33,
     "name": "Wyrm Hide",
@@ -5236,6 +5610,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 36,
     "name": "White Crow",
@@ -5250,6 +5625,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 37,
     "name": "Pirate Leathers",
@@ -5264,6 +5640,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 38,
     "name": "Shadow Lurker",
@@ -5278,6 +5655,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Vests",
     "level": 39,
     "name": "Moonscale Armor",
@@ -5292,6 +5670,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 40,
     "name": "Valkyrie's Embrace",
@@ -5306,6 +5685,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 41,
     "name": "Dragon Skin",
@@ -5320,6 +5700,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Vests",
     "level": 42,
     "name": "Pirate Armor",
@@ -5334,6 +5715,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 44,
     "name": "Vampire Hunter",
@@ -5348,6 +5730,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 45,
     "name": "Cow Hide Vest",
@@ -5362,6 +5745,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 47,
     "name": "Ocean Leather",
@@ -5376,6 +5760,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Vests",
     "level": 48,
     "name": "Primal Leather",
@@ -5390,6 +5775,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Vests",
     "level": 49,
     "name": "Mystic Vest",
@@ -5404,6 +5790,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 50,
     "name": "Black Crow",
@@ -5418,6 +5805,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Vests",
     "level": 55,
     "name": "Royal Cuirass",
@@ -5432,6 +5820,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 1,
     "name": "Hard Hat",
@@ -5446,6 +5835,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 2,
     "name": "Iron Cap",
@@ -5460,6 +5850,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 4,
     "name": "Iron Helmet",
@@ -5474,6 +5865,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 5,
     "name": "Horned Helm",
@@ -5488,6 +5880,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 6,
     "name": "Full Helm",
@@ -5502,6 +5895,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 9,
     "name": "Warrior's Helmet",
@@ -5516,6 +5910,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 10,
     "name": "Moonlight Cap",
@@ -5530,6 +5925,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 11,
     "name": "Spangenhelm",
@@ -5544,6 +5940,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 14,
     "name": "Scale Helmet",
@@ -5558,6 +5955,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 15,
     "name": "Heart Helmet",
@@ -5572,6 +5970,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 17,
     "name": "Knight's Helm",
@@ -5586,6 +5985,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 19,
     "name": "Paladin's Helmet",
@@ -5600,6 +6000,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 21,
     "name": "Great Helm",
@@ -5614,6 +6015,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 23,
     "name": "Frozen Helm",
@@ -5628,6 +6030,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 25,
     "name": "Silver Helm",
@@ -5642,6 +6045,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 27,
     "name": "Infantry Helmet",
@@ -5656,6 +6060,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 28,
     "name": "Dragoon's Casque",
@@ -5670,6 +6075,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 29,
     "name": "Bunny Helmet",
@@ -5684,6 +6090,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 31,
     "name": "Elir's Barbuta",
@@ -5698,6 +6105,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 32,
     "name": "Adventurer's Helm",
@@ -5712,6 +6120,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 33,
     "name": "Mercurial",
@@ -5726,6 +6135,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 34,
     "name": "Phoenix Helmet",
@@ -5740,6 +6150,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 35,
     "name": "Champion's Helm",
@@ -5754,6 +6165,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 36,
     "name": "Lu Bu's War Helmet",
@@ -5768,6 +6180,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 38,
     "name": "Dragonscale Helmet",
@@ -5782,6 +6195,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Helmets",
     "level": 39,
     "name": "Viking Helm",
@@ -5796,6 +6210,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Helmets",
     "level": 40,
     "name": "Adamantium Helm",
@@ -5810,6 +6225,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 41,
     "name": "Valkyrie Helm",
@@ -5824,6 +6240,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Helmets",
     "level": 42,
     "name": "Golden Helm",
@@ -5838,6 +6255,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Helmets",
     "level": 45,
     "name": "Frostfire Barbuta",
@@ -5852,6 +6270,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Helmets",
     "level": 46,
     "name": "Twilight Helm",
@@ -5866,6 +6285,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 47,
     "name": "Hallowed Skull",
@@ -5880,6 +6300,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Helmets",
     "level": 50,
     "name": "Jade Helm",
@@ -5894,6 +6315,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Helmets",
     "level": 54,
     "name": "Viper Headdress",
@@ -5908,6 +6330,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Helmets",
     "level": 55,
     "name": "Jagged Crown",
@@ -5922,6 +6345,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 2,
     "name": "Light Gauntlets",
@@ -5936,6 +6360,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 3,
     "name": "Gauntlets",
@@ -5950,6 +6375,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 5,
     "name": "Vambrace",
@@ -5964,6 +6390,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 7,
     "name": "Long Gauntlets",
@@ -5978,6 +6405,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 8,
     "name": "Meshed Gauntlets",
@@ -5992,6 +6420,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 10,
     "name": "Moonlight Gauntlets",
@@ -6006,6 +6435,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 12,
     "name": "Chainmail Gauntlets",
@@ -6020,6 +6450,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 15,
     "name": "Jagged Gauntlets",
@@ -6034,6 +6465,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 16,
     "name": "Lord's Gauntlets",
@@ -6048,6 +6480,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Gauntlets",
     "level": 17,
     "name": "Hand Hook",
@@ -6062,6 +6495,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 19,
     "name": "Steel Vambrace",
@@ -6076,6 +6510,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 20,
     "name": "Frozen Grip",
@@ -6090,6 +6525,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 23,
     "name": "Silver Gauntlets",
@@ -6104,6 +6540,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 25,
     "name": "King's Gauntlets",
@@ -6118,6 +6555,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 27,
     "name": "Bloodlust Gauntlets",
@@ -6132,6 +6570,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 30,
     "name": "Dark Vambrace",
@@ -6146,6 +6585,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 31,
     "name": "Protector Gauntlets",
@@ -6160,6 +6600,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 32,
     "name": "Shockers",
@@ -6174,6 +6615,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Gauntlets",
     "level": 32,
     "name": "Hallowed Grip",
@@ -6188,6 +6630,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Gauntlets",
     "level": 34,
     "name": "Fireproof Mitts",
@@ -6202,6 +6645,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 35,
     "name": "Giga-Brace",
@@ -6216,6 +6660,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 37,
     "name": "Fire Smashers",
@@ -6230,6 +6675,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 38,
     "name": "Dragonscale Gauntlets",
@@ -6244,6 +6690,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 39,
     "name": "Twilight Fists",
@@ -6258,6 +6705,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Gauntlets",
     "level": 40,
     "name": "Adamantium Fists",
@@ -6272,6 +6720,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Gauntlets",
     "level": 43,
     "name": "Golden Gauntlets",
@@ -6286,6 +6735,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Gauntlets",
     "level": 45,
     "name": "Frostfire Gauntlets",
@@ -6300,6 +6750,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Gauntlets",
     "level": 45,
     "name": "Abyssal Gauntlets",
@@ -6314,6 +6765,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Gauntlets",
     "level": 46,
     "name": "Berserker Gauntlets",
@@ -6328,6 +6780,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Gauntlets",
     "level": 47,
     "name": "Valkyrie's Grip",
@@ -6342,6 +6795,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Gauntlets",
     "level": 49,
     "name": "Volcanic Smashers",
@@ -6356,6 +6810,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Gauntlets",
     "level": 55,
     "name": "Runic Gauntlets",
@@ -6370,6 +6825,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 1,
     "name": "Heavy Boots",
@@ -6384,6 +6840,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 3,
     "name": "Rider's Boots",
@@ -6398,6 +6855,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 4,
     "name": "Chain Greaves",
@@ -6412,6 +6870,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 6,
     "name": "Plated Boots",
@@ -6426,6 +6885,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 8,
     "name": "Traveling Boots",
@@ -6440,6 +6900,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 9,
     "name": "Moon Boots",
@@ -6454,6 +6915,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 10,
     "name": "Red Boots",
@@ -6468,6 +6930,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 12,
     "name": "Lion Boots",
@@ -6482,6 +6945,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 13,
     "name": "Explorer Boots",
@@ -6496,6 +6960,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Boots",
     "level": 14,
     "name": "Valkyrie Boots",
@@ -6510,6 +6975,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 15,
     "name": "Sabaton",
@@ -6524,6 +6990,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 18,
     "name": "Warrior's Greaves",
@@ -6538,6 +7005,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 21,
     "name": "Knight Riders",
@@ -6552,6 +7020,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Boots",
     "level": 24,
     "name": "Adventurer's Boots",
@@ -6566,6 +7035,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 25,
     "name": "Silvered Greaves",
@@ -6580,6 +7050,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Boots",
     "level": 26,
     "name": "Jungle Boots",
@@ -6594,6 +7065,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 27,
     "name": "Flame Greaves",
@@ -6608,6 +7080,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 29,
     "name": "Lord's Boots",
@@ -6622,6 +7095,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 30,
     "name": "Magic Riders",
@@ -6636,6 +7110,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 32,
     "name": "Frost Sabatons",
@@ -6650,6 +7125,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Boots",
     "level": 33,
     "name": "Hallowed Stomper",
@@ -6664,6 +7140,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 34,
     "name": "Earthshakers",
@@ -6678,6 +7155,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 37,
     "name": "King's Boots",
@@ -6692,6 +7170,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Boots",
     "level": 38,
     "name": "Skull Stompers",
@@ -6706,6 +7185,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Boots",
     "level": 39,
     "name": "Draconic Greaves",
@@ -6720,6 +7200,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Boots",
     "level": 40,
     "name": "Adamantium Boots",
@@ -6734,6 +7215,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Boots",
     "level": 43,
     "name": "Royal Greaves",
@@ -6748,6 +7230,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Boots",
     "level": 45,
     "name": "Azure Boots",
@@ -6762,6 +7245,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Boots",
     "level": 47,
     "name": "Obsidian Greaves",
@@ -6776,6 +7260,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Boots",
     "level": 50,
     "name": "Titan's Feet",
@@ -6790,6 +7275,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Boots",
     "level": 52,
     "name": "Wildling Boots",
@@ -6804,6 +7290,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Boots",
     "level": 54,
     "name": "Starfrost Skates",
@@ -6818,6 +7305,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 1,
     "name": "Tunic",
@@ -6832,6 +7320,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 2,
     "name": "Cloak",
@@ -6846,6 +7335,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 4,
     "name": "Mantle",
@@ -6860,6 +7350,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 5,
     "name": "Red Tunic",
@@ -6874,6 +7365,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 7,
     "name": "Robe",
@@ -6888,6 +7380,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 9,
     "name": "Doublet",
@@ -6902,6 +7395,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 11,
     "name": "Apprentice Robes",
@@ -6916,6 +7410,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 13,
     "name": "Ice Cloak",
@@ -6930,6 +7425,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 15,
     "name": "Magician's Cloak",
@@ -6944,6 +7440,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 17,
     "name": "Silk Robe",
@@ -6958,6 +7455,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 18,
     "name": "Heart Robe",
@@ -6972,6 +7470,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 19,
     "name": "Mage Robe",
@@ -6986,6 +7485,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 21,
     "name": "Sacred Tunic",
@@ -7000,6 +7500,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 23,
     "name": "Royal Uniform",
@@ -7014,6 +7515,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 25,
     "name": "Imperial Mantle",
@@ -7028,6 +7530,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 27,
     "name": "Gaia's Mantle",
@@ -7042,6 +7545,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 28,
     "name": "Stealth Apparel",
@@ -7056,6 +7560,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 29,
     "name": "Storm Apparel",
@@ -7070,6 +7575,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 31,
     "name": "Night Walker",
@@ -7084,6 +7590,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 32,
     "name": "Sorcerer Robe",
@@ -7098,6 +7605,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 33,
     "name": "Nightmare Cape",
@@ -7112,6 +7620,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 34,
     "name": "Sage's Robe",
@@ -7126,6 +7635,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 36,
     "name": "Shimmering Robe",
@@ -7140,6 +7650,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 37,
     "name": "Life Vest",
@@ -7154,6 +7665,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 38,
     "name": "Plasmic Robe",
@@ -7168,6 +7680,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 39,
     "name": "Archwizard Robe",
@@ -7182,6 +7695,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 40,
     "name": "Twilight Robe",
@@ -7196,6 +7710,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 42,
     "name": "Sakura Kimono",
@@ -7210,6 +7725,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Clothes",
     "level": 43,
     "name": "King's Mantle",
@@ -7224,6 +7740,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Clothes",
     "level": 45,
     "name": "Twilight Doublet",
@@ -7238,6 +7755,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 46,
     "name": "Patriot's Jacket",
@@ -7252,6 +7770,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 47,
     "name": "Mage Doublet",
@@ -7266,6 +7785,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 50,
     "name": "Holy Tunic",
@@ -7280,6 +7800,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 51,
     "name": "Baking Apron",
@@ -7294,6 +7815,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Clothes",
     "level": 52,
     "name": "Sunrise Robe",
@@ -7308,6 +7830,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 53,
     "name": "Ugly Sweater",
@@ -7322,6 +7845,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Clothes",
     "level": 55,
     "name": "Celtic Coat",
@@ -7336,6 +7860,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 2,
     "name": "Targe",
@@ -7350,6 +7875,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 3,
     "name": "Buckler",
@@ -7364,6 +7890,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 5,
     "name": "Small Shield",
@@ -7378,6 +7905,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 6,
     "name": "Heater Shield",
@@ -7392,6 +7920,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 8,
     "name": "Protector",
@@ -7406,6 +7935,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 8,
     "name": "Meat Shield",
@@ -7420,6 +7950,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 9,
     "name": "Kite Shield",
@@ -7434,6 +7965,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 11,
     "name": "Tower Shield",
@@ -7448,6 +7980,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 12,
     "name": "Chimalli",
@@ -7462,6 +7995,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 14,
     "name": "Moonlight Shield",
@@ -7476,6 +8010,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 16,
     "name": "Bagua Mirror",
@@ -7490,6 +8025,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 17,
     "name": "Knight Shield",
@@ -7504,6 +8040,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 18,
     "name": "Fire Proof",
@@ -7518,6 +8055,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 18,
     "name": "Macaron Shield",
@@ -7532,6 +8070,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 19,
     "name": "Scarab Shield",
@@ -7546,6 +8085,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 20,
     "name": "Venomous Buckler",
@@ -7560,6 +8100,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 21,
     "name": "Aegis",
@@ -7574,6 +8115,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 22,
     "name": "Bulwark",
@@ -7588,6 +8130,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 23,
     "name": "Reflective Shield",
@@ -7602,6 +8145,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 25,
     "name": "Skeleton Shield",
@@ -7616,6 +8160,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 27,
     "name": "Spiked Shield",
@@ -7630,6 +8175,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 28,
     "name": "Starry Shield",
@@ -7644,6 +8190,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 29,
     "name": "Ember Shield",
@@ -7658,6 +8205,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 30,
     "name": "Crystal Shield",
@@ -7672,6 +8220,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 31,
     "name": "Argus' Shield",
@@ -7686,6 +8235,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 32,
     "name": "Bunny Shield",
@@ -7700,6 +8250,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 34,
     "name": "Blessed Aegis",
@@ -7714,6 +8265,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 35,
     "name": "Demon Shield",
@@ -7728,6 +8280,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 37,
     "name": "Dragon Skull",
@@ -7742,6 +8295,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 38,
     "name": "Hawk Shield",
@@ -7756,6 +8310,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Shields",
     "level": 39,
     "name": "Giantshield",
@@ -7770,6 +8325,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 40,
     "name": "Adventurer's Shield",
@@ -7784,6 +8340,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Shields",
     "level": 41,
     "name": "Twilight Aegis",
@@ -7798,6 +8355,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 43,
     "name": "Shark Bite",
@@ -7812,6 +8370,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Shields",
     "level": 47,
     "name": "Medusa Buckler",
@@ -7826,6 +8385,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Shields",
     "level": 48,
     "name": "Gaia's Shield",
@@ -7840,6 +8400,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 48,
     "name": "Sunflower Shield",
@@ -7854,6 +8415,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Shields",
     "level": 50,
     "name": "Oracle Shield",
@@ -7868,6 +8430,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Shields",
     "level": 53,
     "name": "Halfmoon Shield",
@@ -7882,6 +8445,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Shields",
     "level": 55,
     "name": "Celtic Shield",
@@ -7896,6 +8460,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 1,
     "name": "Circlet",
@@ -7910,6 +8475,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 2,
     "name": "Hood",
@@ -7924,6 +8490,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 3,
     "name": "Monk's Hat",
@@ -7938,6 +8505,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 6,
     "name": "Buckle Hat",
@@ -7952,6 +8520,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 8,
     "name": "Robin's Hood",
@@ -7966,6 +8535,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 8,
     "name": "Plumed Hat",
@@ -7980,6 +8550,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 8,
     "name": "Pumpkinhead",
@@ -7994,6 +8565,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 9,
     "name": "Thief's Hood",
@@ -8008,6 +8580,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 11,
     "name": "Noble Tiara",
@@ -8022,6 +8595,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 13,
     "name": "Light Visage",
@@ -8036,6 +8610,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 13,
     "name": "Jeweled Hat",
@@ -8050,6 +8625,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 15,
     "name": "Scarlet Coif",
@@ -8064,6 +8640,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 18,
     "name": "Skadi's Tiara",
@@ -8078,6 +8655,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 19,
     "name": "Magic Top",
@@ -8092,6 +8670,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 21,
     "name": "Silver Crown",
@@ -8106,6 +8685,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 24,
     "name": "Elven Coif",
@@ -8120,6 +8700,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 25,
     "name": "Golden Crown",
@@ -8134,6 +8715,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 26,
     "name": "Cowboy Hat",
@@ -8148,6 +8730,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 27,
     "name": "Wise Cap",
@@ -8162,6 +8745,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 28,
     "name": "Dark Visage",
@@ -8176,6 +8760,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 30,
     "name": "Safari Hat",
@@ -8190,6 +8775,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 31,
     "name": "Shadowhood",
@@ -8204,6 +8790,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 32,
     "name": "Death Veil",
@@ -8218,6 +8805,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 33,
     "name": "Archwizard's Hat",
@@ -8232,6 +8820,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 34,
     "name": "Runic Tiara",
@@ -8246,6 +8835,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 36,
     "name": "Thunder Crown",
@@ -8260,6 +8850,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 36,
     "name": "Runic Coif",
@@ -8274,6 +8865,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 37,
     "name": "Snake Headdress",
@@ -8288,6 +8880,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 38,
     "name": "Jorou's Crown",
@@ -8302,6 +8895,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 39,
     "name": "Demonic Visage",
@@ -8316,6 +8910,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 40,
     "name": "Jade Visage",
@@ -8330,6 +8925,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 42,
     "name": "Celestial Hat",
@@ -8344,6 +8940,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 44,
     "name": "Oni Mask",
@@ -8358,6 +8955,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 46,
     "name": "Jaguar Helm",
@@ -8372,6 +8970,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Hats",
     "level": 47,
     "name": "Cultist's Hood",
@@ -8386,6 +8985,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 48,
     "name": "Loki's Mask",
@@ -8400,6 +9000,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 50,
     "name": "Royal Tiara",
@@ -8414,6 +9015,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Hats",
     "level": 53,
     "name": "Nether Crown",
@@ -8428,6 +9030,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Hats",
     "level": 55,
     "name": "Crab Hat",
@@ -8442,6 +9045,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 1,
     "name": "Leather Bracers",
@@ -8456,6 +9060,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 2,
     "name": "Gloves",
@@ -8470,6 +9075,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 3,
     "name": "Wrist Guards",
@@ -8484,6 +9090,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 5,
     "name": "Padded Gloves",
@@ -8498,6 +9105,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 6,
     "name": "Mystic Gloves",
@@ -8512,6 +9120,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 7,
     "name": "Fur Gloves",
@@ -8526,6 +9135,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 9,
     "name": "Venomous Hands",
@@ -8540,6 +9150,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 10,
     "name": "Woven Bracers",
@@ -8554,6 +9165,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 12,
     "name": "Dexterous Gloves",
@@ -8568,6 +9180,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 13,
     "name": "Guardian Protector",
@@ -8582,6 +9195,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 14,
     "name": "Elemental Bracers",
@@ -8596,6 +9210,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 14,
     "name": "Wisdom Gloves",
@@ -8610,6 +9225,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 15,
     "name": "Grandmaster Gloves",
@@ -8624,6 +9240,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 16,
     "name": "Flaming Hands",
@@ -8638,6 +9255,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 18,
     "name": "Shadowed Gloves",
@@ -8652,6 +9270,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 20,
     "name": "Royal Bracers",
@@ -8666,6 +9285,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 22,
     "name": "Alchemist Gloves",
@@ -8680,6 +9300,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 24,
     "name": "Mage Bracers",
@@ -8694,6 +9315,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 26,
     "name": "Sorcerer's Bracers",
@@ -8708,6 +9330,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 28,
     "name": "Ehecatl's Gloves",
@@ -8722,6 +9345,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 30,
     "name": "Shield Bracers",
@@ -8736,6 +9360,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 32,
     "name": "Santa's Gloves",
@@ -8750,6 +9375,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 35,
     "name": "Angel Gloves",
@@ -8764,6 +9390,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bracers",
     "level": 36,
     "name": "Freezing Bracers",
@@ -8778,6 +9405,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 37,
     "name": "Runic Bracers",
@@ -8792,6 +9420,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 38,
     "name": "Celtic Bracer",
@@ -8806,6 +9435,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bracers",
     "level": 38,
     "name": "Nightstalker Gloves",
@@ -8820,6 +9450,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bracers",
     "level": 39,
     "name": "Death Grip",
@@ -8834,6 +9465,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 40,
     "name": "Midas' Gloves",
@@ -8848,6 +9480,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 41,
     "name": "Cindari Gloves",
@@ -8862,6 +9495,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Bracers",
     "level": 43,
     "name": "Ogre Bracers",
@@ -8876,6 +9510,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bracers",
     "level": 45,
     "name": "Frostfire Gloves",
@@ -8890,6 +9525,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 46,
     "name": "Starry Gloves",
@@ -8904,6 +9540,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Bracers",
     "level": 49,
     "name": "Archangel Gloves",
@@ -8918,6 +9555,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Bracers",
     "level": 52,
     "name": "Nether Gloves",
@@ -8932,6 +9570,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Bracers",
     "level": 56,
     "name": "Mummy Hands",
@@ -8946,6 +9585,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 1,
     "name": "Sandals",
@@ -8960,6 +9600,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 2,
     "name": "Shoes",
@@ -8974,6 +9615,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 3,
     "name": "Druidic Shoes",
@@ -8988,6 +9630,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 4,
     "name": "Leather Shoes",
@@ -9002,6 +9645,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 6,
     "name": "Fur Loafers",
@@ -9016,6 +9660,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 7,
     "name": "Light Boots",
@@ -9030,6 +9675,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 8,
     "name": "Elven Boots",
@@ -9044,6 +9690,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 9,
     "name": "Dancer Shoes",
@@ -9058,6 +9705,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 11,
     "name": "Legion Sandals",
@@ -9072,6 +9720,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 14,
     "name": "Horned Shoes",
@@ -9086,6 +9735,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 15,
     "name": "Moon Walkers",
@@ -9100,6 +9750,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 17,
     "name": "Golden Shoes",
@@ -9114,6 +9765,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 21,
     "name": "Plumed Loafers",
@@ -9128,6 +9780,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 22,
     "name": "Winged Sandals",
@@ -9142,6 +9795,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 25,
     "name": "Imperial Sandals",
@@ -9156,6 +9810,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 27,
     "name": "Patriot's Boots",
@@ -9170,6 +9825,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 28,
     "name": "Genji Getas",
@@ -9184,6 +9840,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 29,
     "name": "Path Finders",
@@ -9198,6 +9855,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 31,
     "name": "Floating Slippers",
@@ -9212,6 +9870,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 33,
     "name": "Harvest Shoes",
@@ -9226,6 +9885,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 34,
     "name": "Sakura Boots",
@@ -9240,6 +9900,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 35,
     "name": "Wind Walkers",
@@ -9254,6 +9915,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 36,
     "name": "Pirate Boots",
@@ -9268,6 +9930,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 37,
     "name": "Arcane Sandals",
@@ -9282,6 +9945,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 38,
     "name": "Planeswalkers",
@@ -9296,6 +9960,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 39,
     "name": "Adamantium Shoes",
@@ -9310,6 +9975,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 40,
     "name": "Draconic Boots",
@@ -9324,6 +9990,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Footwear",
     "level": 43,
     "name": "Jade Shoes",
@@ -9338,6 +10005,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 44,
     "name": "Hopping Shoes",
@@ -9352,6 +10020,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 45,
     "name": "Frostfire Shoes",
@@ -9366,6 +10035,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Footwear",
     "level": 47,
     "name": "Noble Shoes",
@@ -9380,6 +10050,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 49,
     "name": "Firewalkers",
@@ -9394,6 +10065,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 52,
     "name": "Demon Trackers",
@@ -9408,6 +10080,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Footwear",
     "level": 55,
     "name": "Ice Walkers",
@@ -9422,6 +10095,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Footwear",
     "level": 56,
     "name": "Swimming Fins",
@@ -9436,6 +10110,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 1,
     "name": "Healing Herbs",
@@ -9450,6 +10125,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 2,
     "name": "Antidote",
@@ -9464,6 +10140,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 3,
     "name": "Fungi Brew",
@@ -9478,6 +10155,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 6,
     "name": "Elderflower",
@@ -9492,6 +10170,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 7,
     "name": "Healing Mix",
@@ -9506,6 +10185,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 8,
     "name": "Colored Powder",
@@ -9520,6 +10200,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 9,
     "name": "Fire Moss",
@@ -9534,6 +10215,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 10,
     "name": "Mistletoe",
@@ -9548,6 +10230,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 11,
     "name": "Sleeping Shrooms",
@@ -9562,6 +10245,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 13,
     "name": "Bark Tea",
@@ -9576,6 +10260,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 15,
     "name": "Fairy Sprinkle",
@@ -9590,6 +10275,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 16,
     "name": "Starfrost Bloom",
@@ -9604,6 +10290,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 17,
     "name": "Sakura Mochi",
@@ -9618,6 +10305,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 19,
     "name": "Anti-Venom",
@@ -9632,6 +10320,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 21,
     "name": "Protection Dust",
@@ -9646,6 +10335,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 23,
     "name": "Swift Seed",
@@ -9660,6 +10350,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 24,
     "name": "Elven Cure",
@@ -9674,6 +10365,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 26,
     "name": "Rejuvenating Tea",
@@ -9688,6 +10380,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 28,
     "name": "Angel Dust",
@@ -9702,6 +10395,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 31,
     "name": "Coldfire Dust",
@@ -9716,6 +10410,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 32,
     "name": "Unicorn Essence",
@@ -9730,6 +10425,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 33,
     "name": "Cornucopia",
@@ -9744,6 +10440,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 34,
     "name": "Clown Dust",
@@ -9758,6 +10455,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 34,
     "name": "Strength Seed",
@@ -9772,6 +10470,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 35,
     "name": "Phoenix Dust",
@@ -9786,6 +10485,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 36,
     "name": "Sugar Rush Tea",
@@ -9800,6 +10500,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 37,
     "name": "Panacea",
@@ -9814,6 +10515,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 38,
     "name": "Lucky Clover",
@@ -9828,6 +10530,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 39,
     "name": "Mystic Flower",
@@ -9842,6 +10545,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 40,
     "name": "Magic Seed",
@@ -9856,6 +10560,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Remedies",
     "level": 41,
     "name": "Albizia",
@@ -9870,6 +10575,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Remedies",
     "level": 44,
     "name": "Dragon Dust",
@@ -9884,6 +10590,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 44,
     "name": "Gingerbread Man",
@@ -9898,6 +10605,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 46,
     "name": "Magic Beans",
@@ -9912,6 +10620,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 47,
     "name": "Devil Dust",
@@ -9926,6 +10635,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Remedies",
     "level": 48,
     "name": "Teonanacatl",
@@ -9940,6 +10650,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 50,
     "name": "Draconic Tea",
@@ -9954,6 +10665,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Remedies",
     "level": 54,
     "name": "Seed of Power",
@@ -9968,6 +10680,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 3,
     "name": "Health Vial",
@@ -9982,6 +10695,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 4,
     "name": "Mana Vial",
@@ -9996,6 +10710,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 5,
     "name": "Speed Potion",
@@ -10010,6 +10725,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 6,
     "name": "Love Splash",
@@ -10024,6 +10740,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 7,
     "name": "Healing Potion",
@@ -10038,6 +10755,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 8,
     "name": "Toxic Vial",
@@ -10052,6 +10770,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 9,
     "name": "Energizing Potion",
@@ -10066,6 +10785,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 9,
     "name": "Elixir Drops",
@@ -10080,6 +10800,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 10,
     "name": "Health Drink",
@@ -10094,6 +10815,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 12,
     "name": "Chalice",
@@ -10108,6 +10830,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 13,
     "name": "Strength Potion",
@@ -10122,6 +10845,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 14,
     "name": "Eggnog Potion",
@@ -10136,6 +10860,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 15,
     "name": "Warming Spray",
@@ -10150,6 +10875,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 17,
     "name": "Acidic Splash",
@@ -10164,6 +10890,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 20,
     "name": "Health Potion",
@@ -10178,6 +10905,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 22,
     "name": "Wisdom Potion",
@@ -10192,6 +10920,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 22,
     "name": "Mana Potion",
@@ -10206,6 +10935,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 24,
     "name": "Demon's Blood",
@@ -10220,6 +10950,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 24,
     "name": "Elven Sunblock",
@@ -10234,6 +10965,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 26,
     "name": "Elixir",
@@ -10248,6 +10980,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 28,
     "name": "Golden Potion",
@@ -10262,6 +10995,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 31,
     "name": "Life Potion",
@@ -10276,6 +11010,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 32,
     "name": "Mystic Potion",
@@ -10290,6 +11025,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 33,
     "name": "Invincibility Potion",
@@ -10304,6 +11040,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 34,
     "name": "Dragon's Blood",
@@ -10318,6 +11055,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 36,
     "name": "Megalixir",
@@ -10332,6 +11070,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 37,
     "name": "Twilight Potion",
@@ -10346,6 +11085,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 39,
     "name": "Gods' Essence",
@@ -10360,6 +11100,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 40,
     "name": "Clarity Potion",
@@ -10374,6 +11115,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 43,
     "name": "Emergency Water",
@@ -10388,6 +11130,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 43,
     "name": "Vial of Rebirth",
@@ -10402,6 +11145,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 44,
     "name": "Jack's Brew",
@@ -10416,6 +11160,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 46,
     "name": "Maple Potion",
@@ -10430,6 +11175,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 47,
     "name": "Obsidian Potion",
@@ -10444,6 +11190,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Potions",
     "level": 48,
     "name": "Pirate's Brew",
@@ -10458,6 +11205,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Potions",
     "level": 49,
     "name": "Dragonfire Potion",
@@ -10472,6 +11220,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 50,
     "name": "Gaia's Essence",
@@ -10486,6 +11235,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Potions",
     "level": 55,
     "name": "Unholy Potion",
@@ -10500,6 +11250,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 5,
     "name": "Shielding Seal",
@@ -10514,6 +11265,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 7,
     "name": "Fireball Scroll",
@@ -10528,6 +11280,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 8,
     "name": "Poison Scroll",
@@ -10542,6 +11295,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 9,
     "name": "Lightning Scroll",
@@ -10556,6 +11310,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 11,
     "name": "Sleeping Totem",
@@ -10570,6 +11325,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 12,
     "name": "Firewall Scroll",
@@ -10584,6 +11340,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 13,
     "name": "Pain Totem",
@@ -10598,6 +11355,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 14,
     "name": "Charming Scroll",
@@ -10612,6 +11370,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 14,
     "name": "Deflection Seal",
@@ -10626,6 +11385,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 15,
     "name": "The Art of War",
@@ -10640,6 +11400,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 16,
     "name": "Freezing Scroll",
@@ -10654,6 +11415,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 17,
     "name": "Imperial Edict",
@@ -10668,6 +11430,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 18,
     "name": "Invisibility Scroll",
@@ -10682,6 +11445,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 19,
     "name": "Talisman",
@@ -10696,6 +11460,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 20,
     "name": "Celtic Slate",
@@ -10710,6 +11475,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 21,
     "name": "Teleportation Scroll",
@@ -10724,6 +11490,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 23,
     "name": "Magical Codex",
@@ -10738,6 +11505,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 24,
     "name": "Paralysis Totem",
@@ -10752,6 +11520,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 25,
     "name": "Mystic Scroll",
@@ -10766,6 +11535,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 26,
     "name": "Evil Seal",
@@ -10780,6 +11550,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 28,
     "name": "Possession Scroll",
@@ -10794,6 +11565,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 29,
     "name": "Tiger Seal",
@@ -10808,6 +11580,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 30,
     "name": "Power Seal",
@@ -10822,6 +11595,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 30,
     "name": "Njord",
@@ -10836,6 +11610,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 32,
     "name": "Gloom Totem",
@@ -10850,6 +11625,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 33,
     "name": "Arcane Compendium",
@@ -10864,6 +11640,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 35,
     "name": "Disintegration Scroll",
@@ -10878,6 +11655,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 37,
     "name": "Return Scroll",
@@ -10892,6 +11670,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 38,
     "name": "Hawk Totem",
@@ -10906,6 +11685,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 40,
     "name": "Divine Tome",
@@ -10920,6 +11700,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Spells",
     "level": 41,
     "name": "Twilight Seal",
@@ -10934,6 +11715,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Spells",
     "level": 45,
     "name": "Dragon Totem",
@@ -10948,6 +11730,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 45,
     "name": "Santa's List",
@@ -10962,6 +11745,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 47,
     "name": "Haunted Scroll",
@@ -10976,6 +11760,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 49,
     "name": "Primal Compendium",
@@ -10990,6 +11775,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 50,
     "name": "Guardian Seal",
@@ -11004,6 +11790,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Spells",
     "level": 53,
     "name": "Blood Scroll",
@@ -11018,6 +11805,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Spells",
     "level": 54,
     "name": "Deception Scroll",
@@ -11032,6 +11820,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 2,
     "name": "Darts",
@@ -11046,6 +11835,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 3,
     "name": "Sling",
@@ -11060,6 +11850,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 4,
     "name": "Boomerang",
@@ -11074,6 +11865,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 6,
     "name": "Kunai",
@@ -11088,6 +11880,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 7,
     "name": "Poison Darts",
@@ -11102,6 +11895,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 8,
     "name": "Fireworks",
@@ -11116,6 +11910,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 9,
     "name": "Smoke Bomb",
@@ -11130,6 +11925,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 10,
     "name": "Poison Needles",
@@ -11144,6 +11940,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 11,
     "name": "Metal Boomerang",
@@ -11158,6 +11955,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 12,
     "name": "Toxic Bomb",
@@ -11172,6 +11970,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 13,
     "name": "Sleeping Bomb",
@@ -11186,6 +11985,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 14,
     "name": "Festive Bombs",
@@ -11200,6 +12000,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 15,
     "name": "Shock Darts",
@@ -11214,6 +12015,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 18,
     "name": "Shuriken",
@@ -11228,6 +12030,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 20,
     "name": "Elasti-Sling",
@@ -11242,6 +12045,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 22,
     "name": "Chakram",
@@ -11256,6 +12060,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 22,
     "name": "Bladed Feather",
@@ -11270,6 +12075,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 24,
     "name": "Magic Shuriken",
@@ -11284,6 +12090,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Projectiles",
     "level": 26,
     "name": "Singing Chakram",
@@ -11298,6 +12105,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 28,
     "name": "Steelarang",
@@ -11312,6 +12120,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 28,
     "name": "Heart Seeker",
@@ -11326,6 +12135,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 29,
     "name": "Spirit Fire",
@@ -11340,6 +12150,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 30,
     "name": "Seeking Kunai",
@@ -11354,6 +12165,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 33,
     "name": "Shredder",
@@ -11368,6 +12180,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 35,
     "name": "Exploding Darts",
@@ -11382,6 +12195,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Projectiles",
     "level": 36,
     "name": "Heart Piercer",
@@ -11396,6 +12210,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 37,
     "name": "Light Boomerang",
@@ -11410,6 +12225,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Projectiles",
     "level": 38,
     "name": "Thunder Clap",
@@ -11424,6 +12240,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 39,
     "name": "Dragon Darts",
@@ -11438,6 +12255,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 42,
     "name": "Wind Slicer",
@@ -11452,6 +12270,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 45,
     "name": "Frostfire Kunai",
@@ -11466,6 +12285,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 47,
     "name": "Squash Bomb",
@@ -11480,6 +12300,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 48,
     "name": "Eggsplosives",
@@ -11494,6 +12315,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Projectiles",
     "level": 49,
     "name": "Hell Bomb",
@@ -11508,6 +12330,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 53,
     "name": "Cookie Cutter",
@@ -11522,6 +12345,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Projectiles",
     "level": 53,
     "name": "Flying Guillotine",
@@ -11536,6 +12360,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Projectiles",
     "level": 58,
     "name": "Quicksilver",
@@ -11550,6 +12375,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 2,
     "name": "Iron Band",
@@ -11564,6 +12390,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 4,
     "name": "Rabbit Ring",
@@ -11578,6 +12405,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 5,
     "name": "Jewel Ring",
@@ -11592,6 +12420,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 6,
     "name": "Shadow Mark",
@@ -11606,6 +12435,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 7,
     "name": "Crescent Ring",
@@ -11620,6 +12450,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 8,
     "name": "Starry Ring",
@@ -11634,6 +12465,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 9,
     "name": "Moonstone Ring",
@@ -11648,6 +12480,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 11,
     "name": "Luck Band",
@@ -11662,6 +12495,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 12,
     "name": "Gold Digger",
@@ -11676,6 +12510,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 13,
     "name": "Soldier's Mark",
@@ -11690,6 +12525,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 14,
     "name": "Nimble Ring",
@@ -11704,6 +12540,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 16,
     "name": "Fire Band",
@@ -11718,6 +12555,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 19,
     "name": "Sight Band",
@@ -11732,6 +12570,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 20,
     "name": "Horseshoe Ring",
@@ -11746,6 +12585,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 21,
     "name": "Undead Ring",
@@ -11760,6 +12600,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 23,
     "name": "Power Ring",
@@ -11774,6 +12615,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 24,
     "name": "Infinity Ring",
@@ -11788,6 +12630,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 25,
     "name": "Crusader Ring",
@@ -11802,6 +12645,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 26,
     "name": "Dragon Signet",
@@ -11816,6 +12660,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 27,
     "name": "Prayer Ring",
@@ -11830,6 +12675,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 28,
     "name": "Wisdom Mark",
@@ -11844,6 +12690,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 31,
     "name": "Resistance Band",
@@ -11858,6 +12705,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 32,
     "name": "Dynamic Ring",
@@ -11872,6 +12720,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 33,
     "name": "Truth Ring",
@@ -11886,6 +12735,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 34,
     "name": "Divine Mark",
@@ -11900,6 +12750,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 36,
     "name": "Royal Ring",
@@ -11914,6 +12765,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 37,
     "name": "Fallen Angel Ring",
@@ -11928,6 +12780,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 39,
     "name": "Oracle",
@@ -11942,6 +12795,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 40,
     "name": "Mystic Ring",
@@ -11956,6 +12810,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 41,
     "name": "Lich Ring",
@@ -11970,6 +12825,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 42,
     "name": "Wedding Ring",
@@ -11984,6 +12840,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 43,
     "name": "Grotesque Ring",
@@ -11998,6 +12855,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Rings",
     "level": 44,
     "name": "Ouroboros",
@@ -12012,6 +12870,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 45,
     "name": "Azure Ring",
@@ -12026,6 +12885,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 46,
     "name": "Wedding Band",
@@ -12040,6 +12900,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 48,
     "name": "Heart Ring",
@@ -12054,6 +12915,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 50,
     "name": "Antimagic Band",
@@ -12068,6 +12930,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Rings",
     "level": 53,
     "name": "Midas Ring",
@@ -12082,6 +12945,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Rings",
     "level": 55,
     "name": "Snow Bunny",
@@ -12096,6 +12960,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 3,
     "name": "Shiny Pendant",
@@ -12110,6 +12975,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 5,
     "name": "Opal Necklace",
@@ -12124,6 +12990,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 6,
     "name": "Scarlet Drop",
@@ -12138,6 +13005,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 8,
     "name": "Protection Pendant",
@@ -12152,6 +13020,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 10,
     "name": "Luna Charm",
@@ -12166,6 +13035,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 11,
     "name": "Wind Charm",
@@ -12180,6 +13050,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 12,
     "name": "Skeleton Ward",
@@ -12194,6 +13065,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 13,
     "name": "Bunny Pendant",
@@ -12208,6 +13080,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 14,
     "name": "Hanging Journal",
@@ -12222,6 +13095,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 16,
     "name": "Fiery Talisman",
@@ -12236,6 +13110,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 18,
     "name": "Azure Beads",
@@ -12250,6 +13125,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 18,
     "name": "Timeless Locket",
@@ -12264,6 +13140,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 19,
     "name": "Starfrost Pendant",
@@ -12278,6 +13155,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 20,
     "name": "Jade Amulet",
@@ -12292,6 +13170,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 22,
     "name": "Obelisk Charm",
@@ -12306,6 +13185,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 24,
     "name": "Turning Token",
@@ -12320,6 +13200,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 25,
     "name": "Light Amulet",
@@ -12334,6 +13215,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 27,
     "name": "Shielding Ward",
@@ -12348,6 +13230,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 29,
     "name": "Phoenix Talon",
@@ -12362,6 +13245,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 31,
     "name": "Freezing Ward",
@@ -12376,6 +13260,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 32,
     "name": "Heart Pendant",
@@ -12390,6 +13275,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 33,
     "name": "Ankh Amulet",
@@ -12404,6 +13290,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 34,
     "name": "Cat's Eye",
@@ -12418,6 +13305,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 35,
     "name": "Skadi's Charm",
@@ -12432,6 +13320,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 35,
     "name": "Lich's Heart",
@@ -12446,6 +13335,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 36,
     "name": "Draconic Amulet",
@@ -12460,6 +13350,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 37,
     "name": "Trine Charm",
@@ -12474,6 +13365,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 38,
     "name": "Goddess' Tear",
@@ -12488,6 +13380,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 41,
     "name": "Ancient Amulet",
@@ -12502,6 +13395,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 44,
     "name": "Family Heirloom",
@@ -12516,6 +13410,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Pendants",
     "level": 45,
     "name": "Draconic Charm",
@@ -12530,6 +13425,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 45,
     "name": "Champion's Medal",
@@ -12544,6 +13440,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 47,
     "name": "Frostfire Talisman",
@@ -12558,6 +13455,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 50,
     "name": "Gaia's Heart",
@@ -12572,6 +13470,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Pendants",
     "level": 51,
     "name": "Bundle Up",
@@ -12586,6 +13485,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Pendants",
     "level": 53,
     "name": "Primal Charm",
@@ -12600,6 +13500,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Pendants",
     "level": 55,
     "name": "Ominous Charm",
@@ -12614,6 +13515,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 3,
     "name": "Wood Flute",
@@ -12628,6 +13530,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 4,
     "name": "Small Drum",
@@ -12642,6 +13545,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 7,
     "name": "Pan Flute",
@@ -12656,6 +13560,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 8,
     "name": "Hand Drum",
@@ -12670,6 +13575,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 9,
     "name": "Horn",
@@ -12684,6 +13590,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 11,
     "name": "Harp",
@@ -12698,6 +13605,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 12,
     "name": "Iron Flute",
@@ -12712,6 +13620,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 15,
     "name": "Lute",
@@ -12726,6 +13635,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 16,
     "name": "Frozen Harp",
@@ -12740,6 +13650,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 17,
     "name": "Royal Trumpet",
@@ -12754,6 +13665,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 18,
     "name": "Long Flute",
@@ -12768,6 +13680,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 20,
     "name": "Oud",
@@ -12782,6 +13695,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 22,
     "name": "Nordic Lute",
@@ -12796,6 +13710,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 25,
     "name": "Military Tap",
@@ -12810,6 +13725,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Instruments",
     "level": 26,
     "name": "Ygg Flute",
@@ -12824,6 +13740,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 28,
     "name": "Silvered Flute",
@@ -12838,6 +13755,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 29,
     "name": "Chinese Drum",
@@ -12852,6 +13770,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 30,
     "name": "Soothing Harp",
@@ -12866,6 +13785,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Instruments",
     "level": 31,
     "name": "Wyrm Horn",
@@ -12880,6 +13800,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 32,
     "name": "Golden String",
@@ -12894,6 +13815,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 33,
     "name": "Hell Hound",
@@ -12908,6 +13830,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 34,
     "name": "Gu Zheng",
@@ -12922,6 +13845,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 35,
     "name": "Draconian Sound",
@@ -12936,6 +13860,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Instruments",
     "level": 38,
     "name": "Draconic Heartbeat",
@@ -12950,6 +13875,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 39,
     "name": "Twilight Flute",
@@ -12964,6 +13890,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Instruments",
     "level": 40,
     "name": "Angelic Strings",
@@ -12978,6 +13905,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 41,
     "name": "Ancient Horn",
@@ -12992,6 +13920,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 42,
     "name": "Bunny Harp",
@@ -13006,6 +13935,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 43,
     "name": "Ceremonial Er-hu",
@@ -13020,6 +13950,7 @@
     }
   },
   {
+    "craft": 1,
     "klass": "Instruments",
     "level": 45,
     "name": "Winged Harp",
@@ -13034,6 +13965,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 45,
     "name": "Frostfire Harp",
@@ -13048,6 +13980,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 46,
     "name": "Angelic Bell",
@@ -13062,6 +13995,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 47,
     "name": "Wisdom Ocarina",
@@ -13076,6 +14010,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 48,
     "name": "Harvest Flute",
@@ -13090,6 +14025,7 @@
     }
   },
   {
+    "craft": 0,
     "klass": "Instruments",
     "level": 49,
     "name": "Gaia's Flute",
@@ -13104,6 +14040,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 52,
     "name": "Ritual Djembe",
@@ -13118,6 +14055,7 @@
     }
   },
   {
+    "craft": 3,
     "klass": "Instruments",
     "level": 54,
     "name": "Shamisen",
@@ -13132,6 +14070,7 @@
     }
   },
   {
+    "craft": 2,
     "klass": "Instruments",
     "level": 55,
     "name": "Summoning Flute",

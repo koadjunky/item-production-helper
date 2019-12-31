@@ -143,7 +143,7 @@ class ShopHeroesDataSpreadsheet:
 
 if __name__ == '__main__':
     ts = ShopHeroesDataSpreadsheet()
-    with open(os.path.join(libdir, 'resources', 'items.json'), "w") as file:
+    with open(os.path.join(libdir, 'resources', 'items-template.json'), "w") as file:
         file.write(jsons.dumps(ts.get_items(), jdkwargs={"indent": 2}))
     with open(os.path.join(libdir, 'resources', 'heroes.json'), "w") as file:
         file.write(jsons.dumps(ts.get_heroes(), jdkwargs={"indent": 2}))

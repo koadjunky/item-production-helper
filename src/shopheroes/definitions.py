@@ -28,12 +28,30 @@ class Quality(IntEnum):
         return [1, 0.75, 0.5, 0.3, 0.15, 0.05, 0.04][self.value]
 
 
+class Craft(IntEnum):
+    AVAILABLE = 0
+    COMMON = 1
+    BLUEPRINT = 2
+    PREMIUM = 3
+    TRADE_WAR = 4
+
+    # Library jsons serializes Availability.AVAILABLE as "0". To deserialize, we need following method:
+    @classmethod
+    def _missing_(cls, value):
+        try:
+            if int(value) in cls._value2member_map_:
+                return cls._value2member_map_[int(value)]
+        except:
+            raise ValueError("%r is not a valid %s" % (value, cls.__name__))
+
+
 class ItemDef:
 
     def __init__(self, name, level, klass, power : Dict[Quality, int]):
         self.name = name
         self.level = level
         self.klass = klass
+        self.craft = Craft.AVAILABLE
         self.power = power
 
     def __repr__(self):

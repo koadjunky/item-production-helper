@@ -62,5 +62,5 @@ def probe_item(item : Item):
 
 
 if __name__ == '__main__':
-    item = Item.new("Blaster", Quality.epic)
+    item = Item.new("Shredder", Quality.mythical)
     probe_item(item)
