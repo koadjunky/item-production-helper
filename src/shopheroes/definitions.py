@@ -27,6 +27,9 @@ class Quality(IntEnum):
     def modifier(self):
         return [1, 0.75, 0.5, 0.3, 0.15, 0.05, 0.04][self.value]
 
+    def __str__(self):
+        return ['Regular', 'Good', 'Great', 'Flawless', 'Epic', 'Legendary', 'Mythical'][self.value]
+
 
 class Craft(IntEnum):
     AVAILABLE = 0
@@ -56,6 +59,9 @@ class ItemDef:
 
     def __repr__(self):
         return "{}({})".format(self.__class__.__name__, ", ".join(["{}={}".format(k, v) for k, v in vars(self).items()]))
+
+
+types = ['Weapon', 'Chest', 'Head', 'Arm', 'Leg', 'Accessory', 'Valuable']
 
 
 class EqDef:

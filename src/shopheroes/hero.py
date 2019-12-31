@@ -15,7 +15,7 @@ class Item:
         return cls(item_def, quality)
 
     def __str__(self):
-        return "{}({}) - {}".format(self.item_def.name, self.item_def.level, self.item_def.klass)
+        return "{} {}({}) - {}".format(str(self.quality), self.item_def.name, self.item_def.level, self.item_def.klass)
 
     def __repr__(self):
         return "{}({})".format(self.__class__.__name__, ", ".join(["{}={}".format(k, v) for k, v in vars(self).items()]))
