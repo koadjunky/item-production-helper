@@ -50,15 +50,18 @@ class Craft(IntEnum):
 
 class ItemDef:
 
-    def __init__(self, name, level, klass, power : Dict[Quality, int]):
+    def __init__(self, name, level, klass, power_dict : Dict[Quality, int]):
         self.name = name
         self.level = level
         self.klass = klass
         self.craft = Craft.AVAILABLE
-        self.power = power
+        self.power_dict = power_dict
 
     def __repr__(self):
         return "{}({})".format(self.__class__.__name__, ", ".join(["{}={}".format(k, v) for k, v in vars(self).items()]))
+
+    def power(self, quality : Quality):
+        return self.power_dict[quality]
 
 
 types = ['Weapon', 'Chest', 'Head', 'Arm', 'Leg', 'Accessory', 'Valuable']
@@ -99,10 +102,17 @@ class HeroDef:
                 return eq_def.affinity
         raise ValueError("Item '{}' cannot be equipped by {}".format(item_def.name, self.name))
 
+    def get_eq_defs(self, type):
+        return [eq_def for eq_def in self.eq_defs if eq_def.type == type]
 
 with open(os.path.join(libdir, 'resources', 'items.json'), "r") as file:
     items_list = jsons.loads(file.read(), List[ItemDef])
+
 items_dict = {item.name: item for item in items_list}
+
+items_klass = {}
+for item in items_list:
+    items_klass.setdefault(item.klass, []).append(item)
 
 with open(os.path.join(libdir, 'resources', 'heroes.json'), "r") as file:
     heroes_list = jsons.loads(file.read(), List[HeroDef])

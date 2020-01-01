@@ -1,4 +1,4 @@
-from shopheroes.definitions import heroes_dict, items_dict, Quality, ItemDef, HeroDef
+from shopheroes.definitions import heroes_dict, items_dict, Quality, ItemDef, HeroDef, types, items_klass, Craft
 
 
 class Item:
@@ -35,6 +35,9 @@ class Item:
         break_chance = self.quality.modifier() * max(base_break_chance, 0.03)
         return break_chance if break_chance >= 0.005 else 0.0
 
+    def power(self, quality : Quality):
+        return self.item_def.power(quality)
+
     def number_of_levels_until_unbreakable(self, hero):
         for i in range(60 - hero.level):
             if self.break_chance(hero, level=hero.level+i) == 0.0:
@@ -68,6 +71,24 @@ class Hero:
 
     def affinity(self, item):
         return self.hero_def.affinity(item.item_def)
+
+    def ideal_set(self, quality : Quality):
+        result = {}
+        for type in types:
+            result[type] = []
+            for eq_def in self.hero_def.get_eq_defs(type):
+                item_defs = [item_def for item_def in items_klass[eq_def.klass]
+                             if item_def.craft <= Craft.COMMON
+                             and self.hero_def.can_equip(item_def)]
+                for item_def in item_defs:
+                    for q in range(quality+1):
+                        item = Item(item_def, Quality(q))
+                        break_chance = item.break_chance(self)
+                        power = item.power(Quality(q))
+                        result[type].append((item, break_chance, power))
+            result[type].sort(key=lambda x: 100000000 * x[1] - x[2])
+        return result
+
 
 
 if __name__ == '__main__':

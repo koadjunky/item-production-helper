@@ -4,7 +4,7 @@
     "klass": "Swords",
     "level": 2,
     "name": "Shortsword",
-    "power": {
+    "power_dict": {
       "0": 26,
       "1": 29,
       "2": 32,
@@ -19,7 +19,7 @@
     "klass": "Swords",
     "level": 3,
     "name": "Longsword",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -34,7 +34,7 @@
     "klass": "Swords",
     "level": 5,
     "name": "Broadsword",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -49,7 +49,7 @@
     "klass": "Swords",
     "level": 6,
     "name": "Midnight Sword",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -64,7 +64,7 @@
     "klass": "Swords",
     "level": 7,
     "name": "Rapier",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -79,7 +79,7 @@
     "klass": "Swords",
     "level": 8,
     "name": "Claymore",
-    "power": {
+    "power_dict": {
       "0": 170,
       "1": 187,
       "2": 204,
@@ -94,7 +94,7 @@
     "klass": "Swords",
     "level": 9,
     "name": "Jaded Blade",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -109,7 +109,7 @@
     "klass": "Swords",
     "level": 10,
     "name": "Fire Blade",
-    "power": {
+    "power_dict": {
       "0": 290,
       "1": 319,
       "2": 348,
@@ -124,7 +124,7 @@
     "klass": "Swords",
     "level": 12,
     "name": "Zweihander",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -139,7 +139,7 @@
     "klass": "Swords",
     "level": 13,
     "name": "Macuahuitl",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -154,7 +154,7 @@
     "klass": "Swords",
     "level": 14,
     "name": "Bastard Sword",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -169,7 +169,7 @@
     "klass": "Swords",
     "level": 16,
     "name": "Sabre",
-    "power": {
+    "power_dict": {
       "0": 430,
       "1": 473,
       "2": 516,
@@ -184,7 +184,7 @@
     "klass": "Swords",
     "level": 19,
     "name": "Wakizashi",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -199,7 +199,7 @@
     "klass": "Swords",
     "level": 20,
     "name": "Vorpal Sword",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -214,7 +214,7 @@
     "klass": "Swords",
     "level": 23,
     "name": "Scimitar",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -229,7 +229,7 @@
     "klass": "Swords",
     "level": 25,
     "name": "Coldsteel",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -244,7 +244,7 @@
     "klass": "Swords",
     "level": 26,
     "name": "Shinai",
-    "power": {
+    "power_dict": {
       "0": 1040,
       "1": 1144,
       "2": 1248,
@@ -259,7 +259,7 @@
     "klass": "Swords",
     "level": 27,
     "name": "Masamune",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -274,7 +274,7 @@
     "klass": "Swords",
     "level": 29,
     "name": "Soul Eater",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -289,7 +289,7 @@
     "klass": "Swords",
     "level": 30,
     "name": "Relic Blade",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -304,7 +304,7 @@
     "klass": "Swords",
     "level": 30,
     "name": "Sawblade",
-    "power": {
+    "power_dict": {
       "0": 1025,
       "1": 1128,
       "2": 1230,
@@ -319,7 +319,7 @@
     "klass": "Swords",
     "level": 31,
     "name": "Heaven's Will",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -334,7 +334,7 @@
     "klass": "Swords",
     "level": 32,
     "name": "Abyssal Brand",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -349,7 +349,7 @@
     "klass": "Swords",
     "level": 34,
     "name": "Bacon Blade",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -364,7 +364,7 @@
     "klass": "Swords",
     "level": 35,
     "name": "Slashing Tiger",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -379,7 +379,7 @@
     "klass": "Swords",
     "level": 37,
     "name": "Excalibur",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -394,7 +394,7 @@
     "klass": "Swords",
     "level": 38,
     "name": "Stormbringer",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -409,7 +409,7 @@
     "klass": "Swords",
     "level": 39,
     "name": "Twilight Scimitar",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -424,7 +424,7 @@
     "klass": "Swords",
     "level": 40,
     "name": "Balmung",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -439,7 +439,7 @@
     "klass": "Swords",
     "level": 41,
     "name": "Dragonslayer",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -454,7 +454,7 @@
     "klass": "Swords",
     "level": 43,
     "name": "Unholy Fangs",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -469,7 +469,7 @@
     "klass": "Swords",
     "level": 46,
     "name": "Frostfire Blade",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -483,8 +483,8 @@
     "craft": 0,
     "klass": "Swords",
     "level": 47,
-    "name": "Blade of Power",
-    "power": {
+    "name": "Blade of power_dict",
+    "power_dict": {
       "0": 1850,
       "1": 2035,
       "2": 2220,
@@ -499,7 +499,7 @@
     "klass": "Swords",
     "level": 48,
     "name": "Naughty and Nice",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -514,7 +514,7 @@
     "klass": "Swords",
     "level": 50,
     "name": "Durandal",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -529,7 +529,7 @@
     "klass": "Swords",
     "level": 52,
     "name": "Subzero 3000",
-    "power": {
+    "power_dict": {
       "0": 3500,
       "1": 3850,
       "2": 4200,
@@ -544,7 +544,7 @@
     "klass": "Swords",
     "level": 55,
     "name": "Skofnung",
-    "power": {
+    "power_dict": {
       "0": 3450,
       "1": 3795,
       "2": 4140,
@@ -559,7 +559,7 @@
     "klass": "Swords",
     "level": 60,
     "name": "Sinister Gaze",
-    "power": {
+    "power_dict": {
       "0": 6666,
       "1": 7333,
       "2": 8000,
@@ -574,7 +574,7 @@
     "klass": "Swords",
     "level": 60,
     "name": "Sinister Gaze (2nd Skill)",
-    "power": {
+    "power_dict": {
       "0": 6666,
       "1": 7333,
       "2": 8000,
@@ -589,7 +589,7 @@
     "klass": "Daggers",
     "level": 1,
     "name": "Knife",
-    "power": {
+    "power_dict": {
       "0": 10,
       "1": 11,
       "2": 12,
@@ -604,7 +604,7 @@
     "klass": "Daggers",
     "level": 2,
     "name": "Pocket Knife",
-    "power": {
+    "power_dict": {
       "0": 26,
       "1": 29,
       "2": 32,
@@ -619,7 +619,7 @@
     "klass": "Daggers",
     "level": 3,
     "name": "Kris",
-    "power": {
+    "power_dict": {
       "0": 68,
       "1": 75,
       "2": 82,
@@ -634,7 +634,7 @@
     "klass": "Daggers",
     "level": 3,
     "name": "Dirk",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -649,7 +649,7 @@
     "klass": "Daggers",
     "level": 5,
     "name": "Parrying Dagger",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -664,7 +664,7 @@
     "klass": "Daggers",
     "level": 7,
     "name": "Stiletto",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -679,7 +679,7 @@
     "klass": "Daggers",
     "level": 8,
     "name": "Bronze Dagger",
-    "power": {
+    "power_dict": {
       "0": 260,
       "1": 286,
       "2": 312,
@@ -694,7 +694,7 @@
     "klass": "Daggers",
     "level": 9,
     "name": "White Dagger",
-    "power": {
+    "power_dict": {
       "0": 250,
       "1": 275,
       "2": 300,
@@ -709,7 +709,7 @@
     "klass": "Daggers",
     "level": 10,
     "name": "Broad Blade",
-    "power": {
+    "power_dict": {
       "0": 230,
       "1": 253,
       "2": 276,
@@ -724,7 +724,7 @@
     "klass": "Daggers",
     "level": 12,
     "name": "Gutting Knife",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -739,7 +739,7 @@
     "klass": "Daggers",
     "level": 13,
     "name": "Hunting Knife",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -754,7 +754,7 @@
     "klass": "Daggers",
     "level": 14,
     "name": "Carver",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -769,7 +769,7 @@
     "klass": "Daggers",
     "level": 15,
     "name": "Crimson Heart",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -784,7 +784,7 @@
     "klass": "Daggers",
     "level": 16,
     "name": "Mail Breaker",
-    "power": {
+    "power_dict": {
       "0": 430,
       "1": 473,
       "2": 516,
@@ -799,7 +799,7 @@
     "klass": "Daggers",
     "level": 18,
     "name": "Phantom Katar",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -814,7 +814,7 @@
     "klass": "Daggers",
     "level": 18,
     "name": "Sweet Surprise",
-    "power": {
+    "power_dict": {
       "0": 790,
       "1": 869,
       "2": 948,
@@ -829,7 +829,7 @@
     "klass": "Daggers",
     "level": 20,
     "name": "Switch Blade",
-    "power": {
+    "power_dict": {
       "0": 575,
       "1": 633,
       "2": 690,
@@ -844,7 +844,7 @@
     "klass": "Daggers",
     "level": 22,
     "name": "Life Stealer",
-    "power": {
+    "power_dict": {
       "0": 675,
       "1": 743,
       "2": 810,
@@ -859,7 +859,7 @@
     "klass": "Daggers",
     "level": 25,
     "name": "Night Shiv",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -874,7 +874,7 @@
     "klass": "Daggers",
     "level": 27,
     "name": "Shadowripper",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -889,7 +889,7 @@
     "klass": "Daggers",
     "level": 30,
     "name": "Wing Blade",
-    "power": {
+    "power_dict": {
       "0": 1025,
       "1": 1128,
       "2": 1230,
@@ -904,7 +904,7 @@
     "klass": "Daggers",
     "level": 33,
     "name": "Starfrost Impaler",
-    "power": {
+    "power_dict": {
       "0": 1730,
       "1": 1903,
       "2": 2076,
@@ -919,7 +919,7 @@
     "klass": "Daggers",
     "level": 35,
     "name": "Dark Hand",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -934,7 +934,7 @@
     "klass": "Daggers",
     "level": 36,
     "name": "Betrayer",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -949,7 +949,7 @@
     "klass": "Daggers",
     "level": 37,
     "name": "Royal Dirk",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -964,7 +964,7 @@
     "klass": "Daggers",
     "level": 38,
     "name": "Seven Stars",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -979,7 +979,7 @@
     "klass": "Daggers",
     "level": 39,
     "name": "Dragon Fang",
-    "power": {
+    "power_dict": {
       "0": 2175,
       "1": 2393,
       "2": 2610,
@@ -994,7 +994,7 @@
     "klass": "Daggers",
     "level": 41,
     "name": "Traitorous Blade",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -1009,7 +1009,7 @@
     "klass": "Daggers",
     "level": 44,
     "name": "Jagged Spike",
-    "power": {
+    "power_dict": {
       "0": 1700,
       "1": 1870,
       "2": 2040,
@@ -1024,7 +1024,7 @@
     "klass": "Daggers",
     "level": 44,
     "name": "Tecpatl",
-    "power": {
+    "power_dict": {
       "0": 2550,
       "1": 2805,
       "2": 3060,
@@ -1039,7 +1039,7 @@
     "klass": "Daggers",
     "level": 46,
     "name": "Obsidian Dagger",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -1054,7 +1054,7 @@
     "klass": "Daggers",
     "level": 49,
     "name": "Aphotic Shiv",
-    "power": {
+    "power_dict": {
       "0": 2950,
       "1": 3245,
       "2": 3540,
@@ -1069,7 +1069,7 @@
     "klass": "Daggers",
     "level": 50,
     "name": "Primal Dagger",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -1084,7 +1084,7 @@
     "klass": "Daggers",
     "level": 52,
     "name": "Kaiken",
-    "power": {
+    "power_dict": {
       "0": 3300,
       "1": 3630,
       "2": 3960,
@@ -1099,7 +1099,7 @@
     "klass": "Daggers",
     "level": 53,
     "name": "Vine Slasher",
-    "power": {
+    "power_dict": {
       "0": 3670,
       "1": 4037,
       "2": 4404,
@@ -1114,7 +1114,7 @@
     "klass": "Daggers",
     "level": 55,
     "name": "Mistilteinn",
-    "power": {
+    "power_dict": {
       "0": 3450,
       "1": 3795,
       "2": 4140,
@@ -1129,7 +1129,7 @@
     "klass": "Axes",
     "level": 2,
     "name": "Hand Axe",
-    "power": {
+    "power_dict": {
       "0": 26,
       "1": 29,
       "2": 32,
@@ -1144,7 +1144,7 @@
     "klass": "Axes",
     "level": 3,
     "name": "Iron Axe",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -1159,7 +1159,7 @@
     "klass": "Axes",
     "level": 4,
     "name": "Broad Axe",
-    "power": {
+    "power_dict": {
       "0": 68,
       "1": 75,
       "2": 82,
@@ -1174,7 +1174,7 @@
     "klass": "Axes",
     "level": 5,
     "name": "Halberd",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -1189,7 +1189,7 @@
     "klass": "Axes",
     "level": 6,
     "name": "Druidic Axe",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -1204,7 +1204,7 @@
     "klass": "Axes",
     "level": 6,
     "name": "Hunting Axe",
-    "power": {
+    "power_dict": {
       "0": 115,
       "1": 127,
       "2": 138,
@@ -1219,7 +1219,7 @@
     "klass": "Axes",
     "level": 9,
     "name": "Pole Axe",
-    "power": {
+    "power_dict": {
       "0": 200,
       "1": 220,
       "2": 240,
@@ -1234,7 +1234,7 @@
     "klass": "Axes",
     "level": 10,
     "name": "Tiamat",
-    "power": {
+    "power_dict": {
       "0": 290,
       "1": 319,
       "2": 348,
@@ -1249,7 +1249,7 @@
     "klass": "Axes",
     "level": 12,
     "name": "Labrys",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -1264,7 +1264,7 @@
     "klass": "Axes",
     "level": 13,
     "name": "Hoe",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -1279,7 +1279,7 @@
     "klass": "Axes",
     "level": 14,
     "name": "Steel Axe",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -1294,7 +1294,7 @@
     "klass": "Axes",
     "level": 15,
     "name": "Challenger's Hatchet",
-    "power": {
+    "power_dict": {
       "0": 540,
       "1": 594,
       "2": 648,
@@ -1309,7 +1309,7 @@
     "klass": "Axes",
     "level": 16,
     "name": "Hawk",
-    "power": {
+    "power_dict": {
       "0": 430,
       "1": 473,
       "2": 516,
@@ -1324,7 +1324,7 @@
     "klass": "Axes",
     "level": 19,
     "name": "Initiate's Reaver",
-    "power": {
+    "power_dict": {
       "0": 710,
       "1": 781,
       "2": 852,
@@ -1339,7 +1339,7 @@
     "klass": "Axes",
     "level": 20,
     "name": "Lava Axe",
-    "power": {
+    "power_dict": {
       "0": 575,
       "1": 633,
       "2": 690,
@@ -1354,7 +1354,7 @@
     "klass": "Axes",
     "level": 21,
     "name": "Frenzy Axe",
-    "power": {
+    "power_dict": {
       "0": 750,
       "1": 825,
       "2": 900,
@@ -1369,7 +1369,7 @@
     "klass": "Axes",
     "level": 22,
     "name": "Reaper",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -1384,7 +1384,7 @@
     "klass": "Axes",
     "level": 23,
     "name": "Berserker's Axe",
-    "power": {
+    "power_dict": {
       "0": 1075,
       "1": 1183,
       "2": 1290,
@@ -1399,7 +1399,7 @@
     "klass": "Axes",
     "level": 24,
     "name": "Bone Reaver",
-    "power": {
+    "power_dict": {
       "0": 750,
       "1": 825,
       "2": 900,
@@ -1414,7 +1414,7 @@
     "klass": "Axes",
     "level": 25,
     "name": "Sharp Tusk",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -1429,7 +1429,7 @@
     "klass": "Axes",
     "level": 26,
     "name": "Itztopilli",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -1444,7 +1444,7 @@
     "klass": "Axes",
     "level": 27,
     "name": "Dominator's Reaver",
-    "power": {
+    "power_dict": {
       "0": 1240,
       "1": 1364,
       "2": 1488,
@@ -1459,7 +1459,7 @@
     "klass": "Axes",
     "level": 28,
     "name": "Crystal Asunder",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -1474,7 +1474,7 @@
     "klass": "Axes",
     "level": 31,
     "name": "Shining Axe",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -1489,7 +1489,7 @@
     "klass": "Axes",
     "level": 32,
     "name": "Widow Maker",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -1504,7 +1504,7 @@
     "klass": "Axes",
     "level": 33,
     "name": "Nocturne Axe",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -1519,7 +1519,7 @@
     "klass": "Axes",
     "level": 35,
     "name": "Tactician's Splitter",
-    "power": {
+    "power_dict": {
       "0": 1680,
       "1": 1848,
       "2": 2016,
@@ -1534,7 +1534,7 @@
     "klass": "Axes",
     "level": 36,
     "name": "Storm Splitter",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -1549,7 +1549,7 @@
     "klass": "Axes",
     "level": 38,
     "name": "Infernal Rage",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -1564,7 +1564,7 @@
     "klass": "Axes",
     "level": 39,
     "name": "Eagle",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -1579,7 +1579,7 @@
     "klass": "Axes",
     "level": 40,
     "name": "Ragnarok's Edge",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -1594,7 +1594,7 @@
     "klass": "Axes",
     "level": 42,
     "name": "Retribution",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -1609,7 +1609,7 @@
     "klass": "Axes",
     "level": 44,
     "name": "Devastating Sunder",
-    "power": {
+    "power_dict": {
       "0": 2320,
       "1": 2552,
       "2": 2784,
@@ -1624,7 +1624,7 @@
     "klass": "Axes",
     "level": 45,
     "name": "Wyvern Axe",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -1639,7 +1639,7 @@
     "klass": "Axes",
     "level": 47,
     "name": "Heartstopper Axe",
-    "power": {
+    "power_dict": {
       "0": 2800,
       "1": 3080,
       "2": 3360,
@@ -1654,7 +1654,7 @@
     "klass": "Axes",
     "level": 48,
     "name": "Frenzied Axe",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -1669,7 +1669,7 @@
     "klass": "Axes",
     "level": 50,
     "name": "Umbral Axe",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -1684,7 +1684,7 @@
     "klass": "Axes",
     "level": 53,
     "name": "Forseti's Axe",
-    "power": {
+    "power_dict": {
       "0": 3275,
       "1": 3603,
       "2": 3930,
@@ -1699,7 +1699,7 @@
     "klass": "Axes",
     "level": 54,
     "name": "Starfrost Divider",
-    "power": {
+    "power_dict": {
       "0": 3380,
       "1": 3718,
       "2": 4056,
@@ -1714,7 +1714,7 @@
     "klass": "Axes",
     "level": 57,
     "name": "Ruinous Tusk",
-    "power": {
+    "power_dict": {
       "0": 3840,
       "1": 4224,
       "2": 4608,
@@ -1729,7 +1729,7 @@
     "klass": "Spears",
     "level": 1,
     "name": "Wooden Spear",
-    "power": {
+    "power_dict": {
       "0": 10,
       "1": 11,
       "2": 12,
@@ -1744,7 +1744,7 @@
     "klass": "Spears",
     "level": 3,
     "name": "Iron Spear",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -1759,7 +1759,7 @@
     "klass": "Spears",
     "level": 4,
     "name": "Half Pike",
-    "power": {
+    "power_dict": {
       "0": 68,
       "1": 75,
       "2": 82,
@@ -1774,7 +1774,7 @@
     "klass": "Spears",
     "level": 5,
     "name": "Trident",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -1789,7 +1789,7 @@
     "klass": "Spears",
     "level": 7,
     "name": "Maple Spear",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -1804,7 +1804,7 @@
     "klass": "Spears",
     "level": 8,
     "name": "Pike",
-    "power": {
+    "power_dict": {
       "0": 170,
       "1": 187,
       "2": 204,
@@ -1819,7 +1819,7 @@
     "klass": "Spears",
     "level": 9,
     "name": "Gaia's Javelin",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -1834,7 +1834,7 @@
     "klass": "Spears",
     "level": 10,
     "name": "Spade",
-    "power": {
+    "power_dict": {
       "0": 230,
       "1": 253,
       "2": 276,
@@ -1849,7 +1849,7 @@
     "klass": "Spears",
     "level": 11,
     "name": "Pitchfork",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -1864,7 +1864,7 @@
     "klass": "Spears",
     "level": 12,
     "name": "Seeking Tip",
-    "power": {
+    "power_dict": {
       "0": 370,
       "1": 407,
       "2": 444,
@@ -1879,7 +1879,7 @@
     "klass": "Spears",
     "level": 13,
     "name": "Lance",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -1894,7 +1894,7 @@
     "klass": "Spears",
     "level": 14,
     "name": "Champion's Javelin",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -1909,7 +1909,7 @@
     "klass": "Spears",
     "level": 15,
     "name": "Knight's Lance",
-    "power": {
+    "power_dict": {
       "0": 400,
       "1": 440,
       "2": 480,
@@ -1924,7 +1924,7 @@
     "klass": "Spears",
     "level": 16,
     "name": "Challenger's Spear",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -1939,7 +1939,7 @@
     "klass": "Spears",
     "level": 18,
     "name": "Valkyrie",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -1954,7 +1954,7 @@
     "klass": "Spears",
     "level": 19,
     "name": "Poison Tip",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -1969,7 +1969,7 @@
     "klass": "Spears",
     "level": 21,
     "name": "Bone Spear",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -1984,7 +1984,7 @@
     "klass": "Spears",
     "level": 22,
     "name": "Fishing Spear",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -1999,7 +1999,7 @@
     "klass": "Spears",
     "level": 23,
     "name": "Frenzy Tip",
-    "power": {
+    "power_dict": {
       "0": 1080,
       "1": 1188,
       "2": 1296,
@@ -2014,7 +2014,7 @@
     "klass": "Spears",
     "level": 23,
     "name": "Initiate's Lance",
-    "power": {
+    "power_dict": {
       "0": 990,
       "1": 1089,
       "2": 1188,
@@ -2029,7 +2029,7 @@
     "klass": "Spears",
     "level": 25,
     "name": "Winged Spear",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -2044,7 +2044,7 @@
     "klass": "Spears",
     "level": 26,
     "name": "Silver Fork",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -2059,7 +2059,7 @@
     "klass": "Spears",
     "level": 28,
     "name": "Dominator's Impaler",
-    "power": {
+    "power_dict": {
       "0": 1320,
       "1": 1452,
       "2": 1584,
@@ -2074,7 +2074,7 @@
     "klass": "Spears",
     "level": 29,
     "name": "Lion's Tail",
-    "power": {
+    "power_dict": {
       "0": 975,
       "1": 1073,
       "2": 1170,
@@ -2089,7 +2089,7 @@
     "klass": "Spears",
     "level": 30,
     "name": "Moon Voulge",
-    "power": {
+    "power_dict": {
       "0": 1525,
       "1": 1678,
       "2": 1830,
@@ -2104,7 +2104,7 @@
     "klass": "Spears",
     "level": 30,
     "name": "Tepoztopilli",
-    "power": {
+    "power_dict": {
       "0": 1525,
       "1": 1678,
       "2": 1830,
@@ -2119,7 +2119,7 @@
     "klass": "Spears",
     "level": 32,
     "name": "Impaler",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -2134,7 +2134,7 @@
     "klass": "Spears",
     "level": 32,
     "name": "Obsidian Spear",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -2149,7 +2149,7 @@
     "klass": "Spears",
     "level": 34,
     "name": "Twisted Pike",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -2164,7 +2164,7 @@
     "klass": "Spears",
     "level": 36,
     "name": "Titanic Lance",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -2179,7 +2179,7 @@
     "klass": "Spears",
     "level": 37,
     "name": "Tactician's Voulge",
-    "power": {
+    "power_dict": {
       "0": 1860,
       "1": 2046,
       "2": 2232,
@@ -2194,7 +2194,7 @@
     "klass": "Spears",
     "level": 38,
     "name": "Night Spike",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -2209,7 +2209,7 @@
     "klass": "Spears",
     "level": 39,
     "name": "Divine Ray",
-    "power": {
+    "power_dict": {
       "0": 2175,
       "1": 2393,
       "2": 2610,
@@ -2224,7 +2224,7 @@
     "klass": "Spears",
     "level": 40,
     "name": "Mystic Spear",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -2239,7 +2239,7 @@
     "klass": "Spears",
     "level": 42,
     "name": "Umbrella Demon",
-    "power": {
+    "power_dict": {
       "0": 2020,
       "1": 2222,
       "2": 2424,
@@ -2254,7 +2254,7 @@
     "klass": "Spears",
     "level": 43,
     "name": "Twilight Spear",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -2269,7 +2269,7 @@
     "klass": "Spears",
     "level": 44,
     "name": "Fangtian Pike",
-    "power": {
+    "power_dict": {
       "0": 2100,
       "1": 2310,
       "2": 2520,
@@ -2284,7 +2284,7 @@
     "klass": "Spears",
     "level": 45,
     "name": "Ascalon",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -2299,7 +2299,7 @@
     "klass": "Spears",
     "level": 46,
     "name": "Devastating Pike",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -2314,7 +2314,7 @@
     "klass": "Spears",
     "level": 47,
     "name": "Obsidian Voulge",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -2329,7 +2329,7 @@
     "klass": "Spears",
     "level": 48,
     "name": "Green Dragon",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -2344,7 +2344,7 @@
     "klass": "Spears",
     "level": 50,
     "name": "Primordial Trident",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -2359,7 +2359,7 @@
     "klass": "Spears",
     "level": 52,
     "name": "Gungnir",
-    "power": {
+    "power_dict": {
       "0": 3200,
       "1": 3520,
       "2": 3840,
@@ -2374,7 +2374,7 @@
     "klass": "Spears",
     "level": 54,
     "name": "Rebellion",
-    "power": {
+    "power_dict": {
       "0": 3375,
       "1": 3713,
       "2": 4050,
@@ -2389,7 +2389,7 @@
     "klass": "Spears",
     "level": 57,
     "name": "Ruinous Lance",
-    "power": {
+    "power_dict": {
       "0": 3840,
       "1": 4224,
       "2": 4608,
@@ -2404,7 +2404,7 @@
     "klass": "Spears",
     "level": 57,
     "name": "Scorpion Tail",
-    "power": {
+    "power_dict": {
       "0": 3690,
       "1": 4059,
       "2": 4428,
@@ -2419,7 +2419,7 @@
     "klass": "Spears",
     "level": 60,
     "name": "Rising Tempest",
-    "power": {
+    "power_dict": {
       "0": 4000,
       "1": 4400,
       "2": 4800,
@@ -2434,7 +2434,7 @@
     "klass": "Spears",
     "level": 60,
     "name": "Rising Tempest (2nd Skill)",
-    "power": {
+    "power_dict": {
       "0": 4000,
       "1": 4400,
       "2": 4800,
@@ -2449,7 +2449,7 @@
     "klass": "Maces",
     "level": 1,
     "name": "Club",
-    "power": {
+    "power_dict": {
       "0": 10,
       "1": 11,
       "2": 12,
@@ -2464,7 +2464,7 @@
     "klass": "Maces",
     "level": 2,
     "name": "Spiked Club",
-    "power": {
+    "power_dict": {
       "0": 26,
       "1": 29,
       "2": 32,
@@ -2479,7 +2479,7 @@
     "klass": "Maces",
     "level": 3,
     "name": "Shieldbreaker",
-    "power": {
+    "power_dict": {
       "0": 68,
       "1": 75,
       "2": 82,
@@ -2494,7 +2494,7 @@
     "klass": "Maces",
     "level": 4,
     "name": "Maul",
-    "power": {
+    "power_dict": {
       "0": 68,
       "1": 75,
       "2": 82,
@@ -2509,7 +2509,7 @@
     "klass": "Maces",
     "level": 5,
     "name": "Sledgehammer",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -2524,7 +2524,7 @@
     "klass": "Maces",
     "level": 7,
     "name": "Mace",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -2539,7 +2539,7 @@
     "klass": "Maces",
     "level": 8,
     "name": "Morning Star",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -2554,7 +2554,7 @@
     "klass": "Maces",
     "level": 9,
     "name": "Heavy Mace",
-    "power": {
+    "power_dict": {
       "0": 200,
       "1": 220,
       "2": 240,
@@ -2569,7 +2569,7 @@
     "klass": "Maces",
     "level": 10,
     "name": "Challenger's Maul",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -2584,7 +2584,7 @@
     "klass": "Maces",
     "level": 11,
     "name": "Battle Mace",
-    "power": {
+    "power_dict": {
       "0": 260,
       "1": 286,
       "2": 312,
@@ -2599,7 +2599,7 @@
     "klass": "Maces",
     "level": 13,
     "name": "Pumpkin Smasher",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -2614,7 +2614,7 @@
     "klass": "Maces",
     "level": 14,
     "name": "Steeled Club",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -2629,7 +2629,7 @@
     "klass": "Maces",
     "level": 15,
     "name": "Tree Trunk",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -2644,7 +2644,7 @@
     "klass": "Maces",
     "level": 17,
     "name": "War Gavel",
-    "power": {
+    "power_dict": {
       "0": 470,
       "1": 517,
       "2": 564,
@@ -2659,7 +2659,7 @@
     "klass": "Maces",
     "level": 21,
     "name": "Journey Mace",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -2674,7 +2674,7 @@
     "klass": "Maces",
     "level": 22,
     "name": "Hammer Fist",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -2689,7 +2689,7 @@
     "klass": "Maces",
     "level": 23,
     "name": "Dominator's Mace",
-    "power": {
+    "power_dict": {
       "0": 1080,
       "1": 1188,
       "2": 1296,
@@ -2704,7 +2704,7 @@
     "klass": "Maces",
     "level": 24,
     "name": "Initiate's Smasher",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -2719,7 +2719,7 @@
     "klass": "Maces",
     "level": 25,
     "name": "Demolisher",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -2734,7 +2734,7 @@
     "klass": "Maces",
     "level": 25,
     "name": "Giant's Hammer",
-    "power": {
+    "power_dict": {
       "0": 1190,
       "1": 1309,
       "2": 1428,
@@ -2749,7 +2749,7 @@
     "klass": "Maces",
     "level": 26,
     "name": "Frenzy Club",
-    "power": {
+    "power_dict": {
       "0": 1330,
       "1": 1463,
       "2": 1596,
@@ -2764,7 +2764,7 @@
     "klass": "Maces",
     "level": 27,
     "name": "Royal Scepter",
-    "power": {
+    "power_dict": {
       "0": 1180,
       "1": 1298,
       "2": 1416,
@@ -2779,7 +2779,7 @@
     "klass": "Maces",
     "level": 28,
     "name": "Fury Club",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -2794,7 +2794,7 @@
     "klass": "Maces",
     "level": 30,
     "name": "Relic Hammer",
-    "power": {
+    "power_dict": {
       "0": 1025,
       "1": 1128,
       "2": 1230,
@@ -2809,7 +2809,7 @@
     "klass": "Maces",
     "level": 31,
     "name": "Earthquake",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -2824,7 +2824,7 @@
     "klass": "Maces",
     "level": 32,
     "name": "Apocalyptus",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -2839,7 +2839,7 @@
     "klass": "Maces",
     "level": 35,
     "name": "Pulverizer",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -2854,7 +2854,7 @@
     "klass": "Maces",
     "level": 36,
     "name": "Tactician's Gavel",
-    "power": {
+    "power_dict": {
       "0": 2080,
       "1": 2288,
       "2": 2496,
@@ -2869,7 +2869,7 @@
     "klass": "Maces",
     "level": 37,
     "name": "Tide Maker",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -2884,7 +2884,7 @@
     "klass": "Maces",
     "level": 38,
     "name": "Evening Star",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -2899,7 +2899,7 @@
     "klass": "Maces",
     "level": 39,
     "name": "Destroyer",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -2914,7 +2914,7 @@
     "klass": "Maces",
     "level": 40,
     "name": "Hundred Ton",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -2929,7 +2929,7 @@
     "klass": "Maces",
     "level": 43,
     "name": "Storm Basher",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -2944,7 +2944,7 @@
     "klass": "Maces",
     "level": 45,
     "name": "Devastating Basher",
-    "power": {
+    "power_dict": {
       "0": 2740,
       "1": 3014,
       "2": 3288,
@@ -2959,7 +2959,7 @@
     "klass": "Maces",
     "level": 48,
     "name": "Crusher",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -2974,7 +2974,7 @@
     "klass": "Maces",
     "level": 48,
     "name": "Lion Mace",
-    "power": {
+    "power_dict": {
       "0": 2870,
       "1": 3157,
       "2": 3444,
@@ -2989,7 +2989,7 @@
     "klass": "Maces",
     "level": 49,
     "name": "Primal Smasher",
-    "power": {
+    "power_dict": {
       "0": 1975,
       "1": 2173,
       "2": 2370,
@@ -3004,7 +3004,7 @@
     "klass": "Maces",
     "level": 50,
     "name": "Tenderizer",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -3019,7 +3019,7 @@
     "klass": "Maces",
     "level": 54,
     "name": "Shattering Core",
-    "power": {
+    "power_dict": {
       "0": 3375,
       "1": 3713,
       "2": 4050,
@@ -3034,7 +3034,7 @@
     "klass": "Maces",
     "level": 55,
     "name": "Pharaoh Flail",
-    "power": {
+    "power_dict": {
       "0": 3500,
       "1": 3850,
       "2": 4200,
@@ -3049,7 +3049,7 @@
     "klass": "Maces",
     "level": 57,
     "name": "Ruinous Crusher",
-    "power": {
+    "power_dict": {
       "0": 3840,
       "1": 4224,
       "2": 4608,
@@ -3064,7 +3064,7 @@
     "klass": "Staves",
     "level": 1,
     "name": "Walking Stick",
-    "power": {
+    "power_dict": {
       "0": 10,
       "1": 11,
       "2": 12,
@@ -3079,7 +3079,7 @@
     "klass": "Staves",
     "level": 3,
     "name": "Crow Stick",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -3094,7 +3094,7 @@
     "klass": "Staves",
     "level": 5,
     "name": "Druidic Rod",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -3109,7 +3109,7 @@
     "klass": "Staves",
     "level": 6,
     "name": "Battle Staff",
-    "power": {
+    "power_dict": {
       "0": 115,
       "1": 127,
       "2": 138,
@@ -3124,7 +3124,7 @@
     "klass": "Staves",
     "level": 7,
     "name": "Deception Staff",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -3139,7 +3139,7 @@
     "klass": "Staves",
     "level": 8,
     "name": "Muted Caster",
-    "power": {
+    "power_dict": {
       "0": 170,
       "1": 187,
       "2": 204,
@@ -3154,7 +3154,7 @@
     "klass": "Staves",
     "level": 9,
     "name": "Bishop Staff",
-    "power": {
+    "power_dict": {
       "0": 250,
       "1": 275,
       "2": 300,
@@ -3169,7 +3169,7 @@
     "klass": "Staves",
     "level": 9,
     "name": "Sprout Staff",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -3184,7 +3184,7 @@
     "klass": "Staves",
     "level": 10,
     "name": "Healing Rod",
-    "power": {
+    "power_dict": {
       "0": 230,
       "1": 253,
       "2": 276,
@@ -3199,7 +3199,7 @@
     "klass": "Staves",
     "level": 11,
     "name": "Challenger's Rod",
-    "power": {
+    "power_dict": {
       "0": 480,
       "1": 528,
       "2": 576,
@@ -3214,7 +3214,7 @@
     "klass": "Staves",
     "level": 12,
     "name": "Forest Wand",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -3229,7 +3229,7 @@
     "klass": "Staves",
     "level": 13,
     "name": "Fire Rod",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -3244,7 +3244,7 @@
     "klass": "Staves",
     "level": 14,
     "name": "Mystic Staff",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -3259,7 +3259,7 @@
     "klass": "Staves",
     "level": 15,
     "name": "Blood Staff",
-    "power": {
+    "power_dict": {
       "0": 400,
       "1": 440,
       "2": 480,
@@ -3274,7 +3274,7 @@
     "klass": "Staves",
     "level": 16,
     "name": "Pharaoh Crook",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -3289,7 +3289,7 @@
     "klass": "Staves",
     "level": 17,
     "name": "Luna Rod",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -3304,7 +3304,7 @@
     "klass": "Staves",
     "level": 18,
     "name": "Initiate's Staff",
-    "power": {
+    "power_dict": {
       "0": 720,
       "1": 792,
       "2": 864,
@@ -3319,7 +3319,7 @@
     "klass": "Staves",
     "level": 19,
     "name": "Whispering Wand",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -3334,7 +3334,7 @@
     "klass": "Staves",
     "level": 20,
     "name": "Spatula",
-    "power": {
+    "power_dict": {
       "0": 480,
       "1": 528,
       "2": 576,
@@ -3349,7 +3349,7 @@
     "klass": "Staves",
     "level": 23,
     "name": "Rebirth Rod",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -3364,7 +3364,7 @@
     "klass": "Staves",
     "level": 24,
     "name": "Dominator's Wand",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -3379,7 +3379,7 @@
     "klass": "Staves",
     "level": 26,
     "name": "Ice Staff",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -3394,7 +3394,7 @@
     "klass": "Staves",
     "level": 27,
     "name": "Death Stick",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -3409,7 +3409,7 @@
     "klass": "Staves",
     "level": 28,
     "name": "Sacred Scepter",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -3424,7 +3424,7 @@
     "klass": "Staves",
     "level": 28,
     "name": "Candy Cane Staff",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -3439,7 +3439,7 @@
     "klass": "Staves",
     "level": 29,
     "name": "Frenzy Wand",
-    "power": {
+    "power_dict": {
       "0": 1440,
       "1": 1584,
       "2": 1728,
@@ -3454,7 +3454,7 @@
     "klass": "Staves",
     "level": 30,
     "name": "Soul Stealer",
-    "power": {
+    "power_dict": {
       "0": 1025,
       "1": 1128,
       "2": 1230,
@@ -3469,7 +3469,7 @@
     "klass": "Staves",
     "level": 32,
     "name": "Champion's Torch",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -3484,7 +3484,7 @@
     "klass": "Staves",
     "level": 33,
     "name": "Staff of Ages",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -3499,7 +3499,7 @@
     "klass": "Staves",
     "level": 34,
     "name": "Maple Staff",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -3514,7 +3514,7 @@
     "klass": "Staves",
     "level": 35,
     "name": "Star Wand",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -3529,7 +3529,7 @@
     "klass": "Staves",
     "level": 36,
     "name": "Eagle Rod",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -3544,7 +3544,7 @@
     "klass": "Staves",
     "level": 37,
     "name": "Tactician's Caster",
-    "power": {
+    "power_dict": {
       "0": 2160,
       "1": 2376,
       "2": 2592,
@@ -3559,7 +3559,7 @@
     "klass": "Staves",
     "level": 38,
     "name": "Emperor Wand",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -3574,7 +3574,7 @@
     "klass": "Staves",
     "level": 39,
     "name": "Cultist Staff",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -3589,7 +3589,7 @@
     "klass": "Staves",
     "level": 40,
     "name": "Valkyrie's Wisdom",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -3604,7 +3604,7 @@
     "klass": "Staves",
     "level": 41,
     "name": "Sun King",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -3619,7 +3619,7 @@
     "klass": "Staves",
     "level": 42,
     "name": "Draconic Scepter",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -3634,7 +3634,7 @@
     "klass": "Staves",
     "level": 42,
     "name": "Fairy's Mount",
-    "power": {
+    "power_dict": {
       "0": 2150,
       "1": 2365,
       "2": 2580,
@@ -3649,7 +3649,7 @@
     "klass": "Staves",
     "level": 44,
     "name": "Devastating Staff",
-    "power": {
+    "power_dict": {
       "0": 2640,
       "1": 2904,
       "2": 3168,
@@ -3664,7 +3664,7 @@
     "klass": "Staves",
     "level": 45,
     "name": "Keeper of Souls",
-    "power": {
+    "power_dict": {
       "0": 2200,
       "1": 2420,
       "2": 2640,
@@ -3679,7 +3679,7 @@
     "klass": "Staves",
     "level": 45,
     "name": "Affection",
-    "power": {
+    "power_dict": {
       "0": 2625,
       "1": 2888,
       "2": 3150,
@@ -3694,7 +3694,7 @@
     "klass": "Staves",
     "level": 50,
     "name": "Shattered Wand",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -3709,7 +3709,7 @@
     "klass": "Staves",
     "level": 53,
     "name": "Necro Staff",
-    "power": {
+    "power_dict": {
       "0": 3275,
       "1": 3603,
       "2": 3930,
@@ -3724,7 +3724,7 @@
     "klass": "Staves",
     "level": 57,
     "name": "Ruinous Scepter",
-    "power": {
+    "power_dict": {
       "0": 3840,
       "1": 4224,
       "2": 4608,
@@ -3739,7 +3739,7 @@
     "klass": "Bows",
     "level": 2,
     "name": "Short Bow",
-    "power": {
+    "power_dict": {
       "0": 26,
       "1": 29,
       "2": 32,
@@ -3754,7 +3754,7 @@
     "klass": "Bows",
     "level": 3,
     "name": "Long Bow",
-    "power": {
+    "power_dict": {
       "0": 46,
       "1": 51,
       "2": 56,
@@ -3769,7 +3769,7 @@
     "klass": "Bows",
     "level": 5,
     "name": "Faery's String",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -3784,7 +3784,7 @@
     "klass": "Bows",
     "level": 6,
     "name": "Sunsetter",
-    "power": {
+    "power_dict": {
       "0": 240,
       "1": 264,
       "2": 288,
@@ -3799,7 +3799,7 @@
     "klass": "Bows",
     "level": 7,
     "name": "Double String",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -3814,7 +3814,7 @@
     "klass": "Bows",
     "level": 8,
     "name": "Falcon Eye",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -3829,7 +3829,7 @@
     "klass": "Bows",
     "level": 9,
     "name": "Composite Bow",
-    "power": {
+    "power_dict": {
       "0": 200,
       "1": 220,
       "2": 240,
@@ -3844,7 +3844,7 @@
     "klass": "Bows",
     "level": 11,
     "name": "Crossbow",
-    "power": {
+    "power_dict": {
       "0": 260,
       "1": 286,
       "2": 312,
@@ -3859,7 +3859,7 @@
     "klass": "Bows",
     "level": 13,
     "name": "Hallowed Striker",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -3874,7 +3874,7 @@
     "klass": "Bows",
     "level": 14,
     "name": "Recurved Bow",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -3889,7 +3889,7 @@
     "klass": "Bows",
     "level": 17,
     "name": "Heavy Crossbow",
-    "power": {
+    "power_dict": {
       "0": 470,
       "1": 517,
       "2": 564,
@@ -3904,7 +3904,7 @@
     "klass": "Bows",
     "level": 18,
     "name": "Self-Loader",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -3919,7 +3919,7 @@
     "klass": "Bows",
     "level": 20,
     "name": "Forester",
-    "power": {
+    "power_dict": {
       "0": 575,
       "1": 633,
       "2": 690,
@@ -3934,7 +3934,7 @@
     "klass": "Bows",
     "level": 21,
     "name": "Eagle Eye",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -3949,7 +3949,7 @@
     "klass": "Bows",
     "level": 23,
     "name": "Transfixer",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -3964,7 +3964,7 @@
     "klass": "Bows",
     "level": 25,
     "name": "Silent Arbalest",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -3979,7 +3979,7 @@
     "klass": "Bows",
     "level": 27,
     "name": "Wind Striker",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -3994,7 +3994,7 @@
     "klass": "Bows",
     "level": 29,
     "name": "Bow of Light",
-    "power": {
+    "power_dict": {
       "0": 975,
       "1": 1073,
       "2": 1170,
@@ -4009,7 +4009,7 @@
     "klass": "Bows",
     "level": 30,
     "name": "Valkyrie's Touch",
-    "power": {
+    "power_dict": {
       "0": 1525,
       "1": 1678,
       "2": 1830,
@@ -4024,7 +4024,7 @@
     "klass": "Bows",
     "level": 31,
     "name": "Spider",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -4039,7 +4039,7 @@
     "klass": "Bows",
     "level": 32,
     "name": "Harvester Bow",
-    "power": {
+    "power_dict": {
       "0": 1650,
       "1": 1815,
       "2": 1980,
@@ -4054,7 +4054,7 @@
     "klass": "Bows",
     "level": 34,
     "name": "Chimera Wings",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -4069,7 +4069,7 @@
     "klass": "Bows",
     "level": 35,
     "name": "Evelyn",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -4084,7 +4084,7 @@
     "klass": "Bows",
     "level": 37,
     "name": "Dragon Eye",
-    "power": {
+    "power_dict": {
       "0": 1675,
       "1": 1843,
       "2": 2010,
@@ -4099,7 +4099,7 @@
     "klass": "Bows",
     "level": 38,
     "name": "Lovestruck",
-    "power": {
+    "power_dict": {
       "0": 2100,
       "1": 2310,
       "2": 2520,
@@ -4114,7 +4114,7 @@
     "klass": "Bows",
     "level": 38,
     "name": "Griffin Wings",
-    "power": {
+    "power_dict": {
       "0": 1400,
       "1": 1540,
       "2": 1680,
@@ -4129,7 +4129,7 @@
     "klass": "Bows",
     "level": 39,
     "name": "Adamantium Crossbow",
-    "power": {
+    "power_dict": {
       "0": 2175,
       "1": 2393,
       "2": 2610,
@@ -4144,7 +4144,7 @@
     "klass": "Bows",
     "level": 40,
     "name": "Twilight Shot",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -4159,7 +4159,7 @@
     "klass": "Bows",
     "level": 42,
     "name": "Repeater Crossbow",
-    "power": {
+    "power_dict": {
       "0": 1960,
       "1": 2156,
       "2": 2352,
@@ -4174,7 +4174,7 @@
     "klass": "Bows",
     "level": 43,
     "name": "Elven Bow",
-    "power": {
+    "power_dict": {
       "0": 2050,
       "1": 2255,
       "2": 2460,
@@ -4189,7 +4189,7 @@
     "klass": "Bows",
     "level": 44,
     "name": "Serpentshooter",
-    "power": {
+    "power_dict": {
       "0": 1700,
       "1": 1870,
       "2": 2040,
@@ -4204,7 +4204,7 @@
     "klass": "Bows",
     "level": 48,
     "name": "Wind Piercer",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -4219,7 +4219,7 @@
     "klass": "Bows",
     "level": 50,
     "name": "Lycan Slayer",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -4234,7 +4234,7 @@
     "klass": "Bows",
     "level": 54,
     "name": "Artemis' Bow",
-    "power": {
+    "power_dict": {
       "0": 3375,
       "1": 3713,
       "2": 4050,
@@ -4249,7 +4249,7 @@
     "klass": "Guns",
     "level": 5,
     "name": "Pistol",
-    "power": {
+    "power_dict": {
       "0": 90,
       "1": 99,
       "2": 108,
@@ -4264,7 +4264,7 @@
     "klass": "Guns",
     "level": 6,
     "name": "Musket",
-    "power": {
+    "power_dict": {
       "0": 115,
       "1": 127,
       "2": 138,
@@ -4279,7 +4279,7 @@
     "klass": "Guns",
     "level": 7,
     "name": "Arquebuse",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -4294,7 +4294,7 @@
     "klass": "Guns",
     "level": 8,
     "name": "Pocket Pistol",
-    "power": {
+    "power_dict": {
       "0": 170,
       "1": 187,
       "2": 204,
@@ -4309,7 +4309,7 @@
     "klass": "Guns",
     "level": 9,
     "name": "Long Musket",
-    "power": {
+    "power_dict": {
       "0": 200,
       "1": 220,
       "2": 240,
@@ -4324,7 +4324,7 @@
     "klass": "Guns",
     "level": 11,
     "name": "Falconer",
-    "power": {
+    "power_dict": {
       "0": 260,
       "1": 286,
       "2": 312,
@@ -4339,7 +4339,7 @@
     "klass": "Guns",
     "level": 12,
     "name": "Six Shooter",
-    "power": {
+    "power_dict": {
       "0": 440,
       "1": 484,
       "2": 528,
@@ -4354,7 +4354,7 @@
     "klass": "Guns",
     "level": 13,
     "name": "Rifle",
-    "power": {
+    "power_dict": {
       "0": 410,
       "1": 451,
       "2": 492,
@@ -4369,7 +4369,7 @@
     "klass": "Guns",
     "level": 14,
     "name": "Axe Pistol",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -4384,7 +4384,7 @@
     "klass": "Guns",
     "level": 17,
     "name": "Flintlock",
-    "power": {
+    "power_dict": {
       "0": 470,
       "1": 517,
       "2": 564,
@@ -4399,7 +4399,7 @@
     "klass": "Guns",
     "level": 18,
     "name": "Black Stock",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -4414,7 +4414,7 @@
     "klass": "Guns",
     "level": 18,
     "name": "Tribarrel",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -4429,7 +4429,7 @@
     "klass": "Guns",
     "level": 19,
     "name": "Double Barrel",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -4444,7 +4444,7 @@
     "klass": "Guns",
     "level": 21,
     "name": "Fire Gun",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -4459,7 +4459,7 @@
     "klass": "Guns",
     "level": 22,
     "name": "Conqueror",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -4474,7 +4474,7 @@
     "klass": "Guns",
     "level": 24,
     "name": "War Axe Pistol",
-    "power": {
+    "power_dict": {
       "0": 750,
       "1": 825,
       "2": 900,
@@ -4489,7 +4489,7 @@
     "klass": "Guns",
     "level": 26,
     "name": "Thunder Shot",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -4504,7 +4504,7 @@
     "klass": "Guns",
     "level": 27,
     "name": "Candy Cane Pistol",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -4519,7 +4519,7 @@
     "klass": "Guns",
     "level": 28,
     "name": "Dragon's Breath",
-    "power": {
+    "power_dict": {
       "0": 1010,
       "1": 1111,
       "2": 1212,
@@ -4534,7 +4534,7 @@
     "klass": "Guns",
     "level": 29,
     "name": "Death Missive",
-    "power": {
+    "power_dict": {
       "0": 975,
       "1": 1073,
       "2": 1170,
@@ -4549,7 +4549,7 @@
     "klass": "Guns",
     "level": 30,
     "name": "Relic Arquebus",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -4564,7 +4564,7 @@
     "klass": "Guns",
     "level": 31,
     "name": "Heart Shooter",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -4579,7 +4579,7 @@
     "klass": "Guns",
     "level": 33,
     "name": "Rising Sun",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -4594,7 +4594,7 @@
     "klass": "Guns",
     "level": 33,
     "name": "Silent but Deadly",
-    "power": {
+    "power_dict": {
       "0": 1490,
       "1": 1639,
       "2": 1788,
@@ -4609,7 +4609,7 @@
     "klass": "Guns",
     "level": 35,
     "name": "One-Shot",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -4624,7 +4624,7 @@
     "klass": "Guns",
     "level": 36,
     "name": "Judgement",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -4639,7 +4639,7 @@
     "klass": "Guns",
     "level": 37,
     "name": "Bomb Launcher",
-    "power": {
+    "power_dict": {
       "0": 1675,
       "1": 1843,
       "2": 2010,
@@ -4654,7 +4654,7 @@
     "klass": "Guns",
     "level": 38,
     "name": "Solar Flare",
-    "power": {
+    "power_dict": {
       "0": 1400,
       "1": 1540,
       "2": 1680,
@@ -4669,7 +4669,7 @@
     "klass": "Guns",
     "level": 39,
     "name": "Nordic Warfare",
-    "power": {
+    "power_dict": {
       "0": 2175,
       "1": 2393,
       "2": 2610,
@@ -4684,7 +4684,7 @@
     "klass": "Guns",
     "level": 41,
     "name": "Harpoon Gun",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -4699,7 +4699,7 @@
     "klass": "Guns",
     "level": 44,
     "name": "Blaster",
-    "power": {
+    "power_dict": {
       "0": 1700,
       "1": 1870,
       "2": 2040,
@@ -4714,7 +4714,7 @@
     "klass": "Guns",
     "level": 47,
     "name": "Pirate Pistol",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -4729,7 +4729,7 @@
     "klass": "Guns",
     "level": 48,
     "name": "G.F.G.",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -4744,7 +4744,7 @@
     "klass": "Guns",
     "level": 49,
     "name": "Stake Shooter",
-    "power": {
+    "power_dict": {
       "0": 2950,
       "1": 3245,
       "2": 3540,
@@ -4759,7 +4759,7 @@
     "klass": "Guns",
     "level": 50,
     "name": "Demonic Blast",
-    "power": {
+    "power_dict": {
       "0": 3025,
       "1": 3328,
       "2": 3630,
@@ -4774,7 +4774,7 @@
     "klass": "Guns",
     "level": 53,
     "name": "Dragon Fire",
-    "power": {
+    "power_dict": {
       "0": 3275,
       "1": 3603,
       "2": 3930,
@@ -4789,7 +4789,7 @@
     "klass": "Guns",
     "level": 55,
     "name": "Pirate Gun",
-    "power": {
+    "power_dict": {
       "0": 3060,
       "1": 3366,
       "2": 3672,
@@ -4804,7 +4804,7 @@
     "klass": "Armor",
     "level": 1,
     "name": "Cuirass",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -4819,7 +4819,7 @@
     "klass": "Armor",
     "level": 3,
     "name": "Banded Mail",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -4834,7 +4834,7 @@
     "klass": "Armor",
     "level": 4,
     "name": "Scale Mail",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -4849,7 +4849,7 @@
     "klass": "Armor",
     "level": 5,
     "name": "Ring Mail",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -4864,7 +4864,7 @@
     "klass": "Armor",
     "level": 8,
     "name": "Chainmail",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -4879,7 +4879,7 @@
     "klass": "Armor",
     "level": 9,
     "name": "Half Plate",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -4894,7 +4894,7 @@
     "klass": "Armor",
     "level": 10,
     "name": "Tlahuiztli",
-    "power": {
+    "power_dict": {
       "0": 290,
       "1": 319,
       "2": 348,
@@ -4909,7 +4909,7 @@
     "klass": "Armor",
     "level": 10,
     "name": "Moonplate",
-    "power": {
+    "power_dict": {
       "0": 240,
       "1": 264,
       "2": 288,
@@ -4924,7 +4924,7 @@
     "klass": "Armor",
     "level": 11,
     "name": "Steel Cuirass",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -4939,7 +4939,7 @@
     "klass": "Armor",
     "level": 14,
     "name": "Full Plate",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -4954,7 +4954,7 @@
     "klass": "Armor",
     "level": 17,
     "name": "Longmail",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -4969,7 +4969,7 @@
     "klass": "Armor",
     "level": 18,
     "name": "Noble Plate",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -4984,7 +4984,7 @@
     "klass": "Armor",
     "level": 19,
     "name": "Silvered Scales",
-    "power": {
+    "power_dict": {
       "0": 460,
       "1": 506,
       "2": 552,
@@ -4999,7 +4999,7 @@
     "klass": "Armor",
     "level": 22,
     "name": "Arcane Guard",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -5014,7 +5014,7 @@
     "klass": "Armor",
     "level": 23,
     "name": "Runic Mail",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -5029,7 +5029,7 @@
     "klass": "Armor",
     "level": 24,
     "name": "Honor Mail",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -5044,7 +5044,7 @@
     "klass": "Armor",
     "level": 25,
     "name": "Chaos Armor",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -5059,7 +5059,7 @@
     "klass": "Armor",
     "level": 27,
     "name": "Shining Armor",
-    "power": {
+    "power_dict": {
       "0": 725,
       "1": 798,
       "2": 870,
@@ -5074,7 +5074,7 @@
     "klass": "Armor",
     "level": 29,
     "name": "Starfrost Platemail",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -5089,7 +5089,7 @@
     "klass": "Armor",
     "level": 30,
     "name": "Valkyrie Armor",
-    "power": {
+    "power_dict": {
       "0": 1275,
       "1": 1403,
       "2": 1530,
@@ -5104,7 +5104,7 @@
     "klass": "Armor",
     "level": 32,
     "name": "White Fullplate",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -5119,7 +5119,7 @@
     "klass": "Armor",
     "level": 35,
     "name": "Eldritch Mail",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -5134,7 +5134,7 @@
     "klass": "Armor",
     "level": 36,
     "name": "Golden Heart",
-    "power": {
+    "power_dict": {
       "0": 1075,
       "1": 1183,
       "2": 1290,
@@ -5149,7 +5149,7 @@
     "klass": "Armor",
     "level": 38,
     "name": "Gaia's Fortress",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -5164,7 +5164,7 @@
     "klass": "Armor",
     "level": 39,
     "name": "Draconic Plate",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -5179,7 +5179,7 @@
     "klass": "Armor",
     "level": 40,
     "name": "Twilight Cuirass",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -5194,7 +5194,7 @@
     "klass": "Armor",
     "level": 42,
     "name": "Crimson Plate",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -5209,7 +5209,7 @@
     "klass": "Armor",
     "level": 44,
     "name": "Dark Silver Armor",
-    "power": {
+    "power_dict": {
       "0": 1425,
       "1": 1568,
       "2": 1710,
@@ -5224,7 +5224,7 @@
     "klass": "Armor",
     "level": 46,
     "name": "Earthen Mail",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -5239,7 +5239,7 @@
     "klass": "Armor",
     "level": 48,
     "name": "Hallowed Casket",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -5254,7 +5254,7 @@
     "klass": "Armor",
     "level": 49,
     "name": "Oracle's Armor",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -5269,7 +5269,7 @@
     "klass": "Armor",
     "level": 53,
     "name": "Black Mail",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -5284,7 +5284,7 @@
     "klass": "Armor",
     "level": 58,
     "name": "Wyvern Plate",
-    "power": {
+    "power_dict": {
       "0": 3750,
       "1": 4125,
       "2": 4500,
@@ -5299,7 +5299,7 @@
     "klass": "Vests",
     "level": 1,
     "name": "Leather Vest",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -5314,7 +5314,7 @@
     "klass": "Vests",
     "level": 2,
     "name": "Hide Armor",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -5329,7 +5329,7 @@
     "klass": "Vests",
     "level": 4,
     "name": "Boiled Leather",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -5344,7 +5344,7 @@
     "klass": "Vests",
     "level": 6,
     "name": "Brigandine",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -5359,7 +5359,7 @@
     "klass": "Vests",
     "level": 7,
     "name": "Merchant's Armor",
-    "power": {
+    "power_dict": {
       "0": 180,
       "1": 198,
       "2": 216,
@@ -5374,7 +5374,7 @@
     "klass": "Vests",
     "level": 8,
     "name": "Leather Cuirass",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -5389,7 +5389,7 @@
     "klass": "Vests",
     "level": 11,
     "name": "Studded Leather",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -5404,7 +5404,7 @@
     "klass": "Vests",
     "level": 12,
     "name": "Raccoon Ranger",
-    "power": {
+    "power_dict": {
       "0": 310,
       "1": 341,
       "2": 372,
@@ -5419,7 +5419,7 @@
     "klass": "Vests",
     "level": 13,
     "name": "Poison Studs",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -5434,7 +5434,7 @@
     "klass": "Vests",
     "level": 16,
     "name": "Strapped Leather",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -5449,7 +5449,7 @@
     "klass": "Vests",
     "level": 17,
     "name": "Plated Tunic",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -5464,7 +5464,7 @@
     "klass": "Vests",
     "level": 17,
     "name": "Jacket",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -5479,7 +5479,7 @@
     "klass": "Vests",
     "level": 18,
     "name": "Plated Leather",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -5494,7 +5494,7 @@
     "klass": "Vests",
     "level": 21,
     "name": "Bear Armor",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -5509,7 +5509,7 @@
     "klass": "Vests",
     "level": 24,
     "name": "Nightingale",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -5524,7 +5524,7 @@
     "klass": "Vests",
     "level": 26,
     "name": "Genji Armor",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -5539,7 +5539,7 @@
     "klass": "Vests",
     "level": 28,
     "name": "Oiled Leather",
-    "power": {
+    "power_dict": {
       "0": 975,
       "1": 1073,
       "2": 1170,
@@ -5554,7 +5554,7 @@
     "klass": "Vests",
     "level": 29,
     "name": "Layered Armor",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -5569,7 +5569,7 @@
     "klass": "Vests",
     "level": 30,
     "name": "Oriental Vest",
-    "power": {
+    "power_dict": {
       "0": 1275,
       "1": 1403,
       "2": 1530,
@@ -5584,7 +5584,7 @@
     "klass": "Vests",
     "level": 32,
     "name": "Gold Stitch",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -5599,7 +5599,7 @@
     "klass": "Vests",
     "level": 33,
     "name": "Wyrm Hide",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -5614,7 +5614,7 @@
     "klass": "Vests",
     "level": 36,
     "name": "White Crow",
-    "power": {
+    "power_dict": {
       "0": 1075,
       "1": 1183,
       "2": 1290,
@@ -5629,7 +5629,7 @@
     "klass": "Vests",
     "level": 37,
     "name": "Pirate Leathers",
-    "power": {
+    "power_dict": {
       "0": 1360,
       "1": 1496,
       "2": 1632,
@@ -5644,7 +5644,7 @@
     "klass": "Vests",
     "level": 38,
     "name": "Shadow Lurker",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -5659,7 +5659,7 @@
     "klass": "Vests",
     "level": 39,
     "name": "Moonscale Armor",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -5674,7 +5674,7 @@
     "klass": "Vests",
     "level": 40,
     "name": "Valkyrie's Embrace",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -5689,7 +5689,7 @@
     "klass": "Vests",
     "level": 41,
     "name": "Dragon Skin",
-    "power": {
+    "power_dict": {
       "0": 1925,
       "1": 2118,
       "2": 2310,
@@ -5704,7 +5704,7 @@
     "klass": "Vests",
     "level": 42,
     "name": "Pirate Armor",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -5719,7 +5719,7 @@
     "klass": "Vests",
     "level": 44,
     "name": "Vampire Hunter",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -5734,7 +5734,7 @@
     "klass": "Vests",
     "level": 45,
     "name": "Cow Hide Vest",
-    "power": {
+    "power_dict": {
       "0": 2200,
       "1": 2420,
       "2": 2640,
@@ -5749,7 +5749,7 @@
     "klass": "Vests",
     "level": 47,
     "name": "Ocean Leather",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -5764,7 +5764,7 @@
     "klass": "Vests",
     "level": 48,
     "name": "Primal Leather",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -5779,7 +5779,7 @@
     "klass": "Vests",
     "level": 49,
     "name": "Mystic Vest",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -5794,7 +5794,7 @@
     "klass": "Vests",
     "level": 50,
     "name": "Black Crow",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -5809,7 +5809,7 @@
     "klass": "Vests",
     "level": 55,
     "name": "Royal Cuirass",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -5824,7 +5824,7 @@
     "klass": "Helmets",
     "level": 1,
     "name": "Hard Hat",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -5839,7 +5839,7 @@
     "klass": "Helmets",
     "level": 2,
     "name": "Iron Cap",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -5854,7 +5854,7 @@
     "klass": "Helmets",
     "level": 4,
     "name": "Iron Helmet",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -5869,7 +5869,7 @@
     "klass": "Helmets",
     "level": 5,
     "name": "Horned Helm",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -5884,7 +5884,7 @@
     "klass": "Helmets",
     "level": 6,
     "name": "Full Helm",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -5899,7 +5899,7 @@
     "klass": "Helmets",
     "level": 9,
     "name": "Warrior's Helmet",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -5914,7 +5914,7 @@
     "klass": "Helmets",
     "level": 10,
     "name": "Moonlight Cap",
-    "power": {
+    "power_dict": {
       "0": 240,
       "1": 264,
       "2": 288,
@@ -5929,7 +5929,7 @@
     "klass": "Helmets",
     "level": 11,
     "name": "Spangenhelm",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -5944,7 +5944,7 @@
     "klass": "Helmets",
     "level": 14,
     "name": "Scale Helmet",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -5959,7 +5959,7 @@
     "klass": "Helmets",
     "level": 15,
     "name": "Heart Helmet",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -5974,7 +5974,7 @@
     "klass": "Helmets",
     "level": 17,
     "name": "Knight's Helm",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -5989,7 +5989,7 @@
     "klass": "Helmets",
     "level": 19,
     "name": "Paladin's Helmet",
-    "power": {
+    "power_dict": {
       "0": 675,
       "1": 743,
       "2": 810,
@@ -6004,7 +6004,7 @@
     "klass": "Helmets",
     "level": 21,
     "name": "Great Helm",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -6019,7 +6019,7 @@
     "klass": "Helmets",
     "level": 23,
     "name": "Frozen Helm",
-    "power": {
+    "power_dict": {
       "0": 750,
       "1": 825,
       "2": 900,
@@ -6034,7 +6034,7 @@
     "klass": "Helmets",
     "level": 25,
     "name": "Silver Helm",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -6049,7 +6049,7 @@
     "klass": "Helmets",
     "level": 27,
     "name": "Infantry Helmet",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -6064,7 +6064,7 @@
     "klass": "Helmets",
     "level": 28,
     "name": "Dragoon's Casque",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -6079,7 +6079,7 @@
     "klass": "Helmets",
     "level": 29,
     "name": "Bunny Helmet",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -6094,7 +6094,7 @@
     "klass": "Helmets",
     "level": 31,
     "name": "Elir's Barbuta",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -6109,7 +6109,7 @@
     "klass": "Helmets",
     "level": 32,
     "name": "Adventurer's Helm",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -6124,7 +6124,7 @@
     "klass": "Helmets",
     "level": 33,
     "name": "Mercurial",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -6139,7 +6139,7 @@
     "klass": "Helmets",
     "level": 34,
     "name": "Phoenix Helmet",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -6154,7 +6154,7 @@
     "klass": "Helmets",
     "level": 35,
     "name": "Champion's Helm",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -6169,7 +6169,7 @@
     "klass": "Helmets",
     "level": 36,
     "name": "Lu Bu's War Helmet",
-    "power": {
+    "power_dict": {
       "0": 1740,
       "1": 1914,
       "2": 2088,
@@ -6184,7 +6184,7 @@
     "klass": "Helmets",
     "level": 38,
     "name": "Dragonscale Helmet",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -6199,7 +6199,7 @@
     "klass": "Helmets",
     "level": 39,
     "name": "Viking Helm",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -6214,7 +6214,7 @@
     "klass": "Helmets",
     "level": 40,
     "name": "Adamantium Helm",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -6229,7 +6229,7 @@
     "klass": "Helmets",
     "level": 41,
     "name": "Valkyrie Helm",
-    "power": {
+    "power_dict": {
       "0": 1925,
       "1": 2118,
       "2": 2310,
@@ -6244,7 +6244,7 @@
     "klass": "Helmets",
     "level": 42,
     "name": "Golden Helm",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -6259,7 +6259,7 @@
     "klass": "Helmets",
     "level": 45,
     "name": "Frostfire Barbuta",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -6274,7 +6274,7 @@
     "klass": "Helmets",
     "level": 46,
     "name": "Twilight Helm",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -6289,7 +6289,7 @@
     "klass": "Helmets",
     "level": 47,
     "name": "Hallowed Skull",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -6304,7 +6304,7 @@
     "klass": "Helmets",
     "level": 50,
     "name": "Jade Helm",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -6319,7 +6319,7 @@
     "klass": "Helmets",
     "level": 54,
     "name": "Viper Headdress",
-    "power": {
+    "power_dict": {
       "0": 3320,
       "1": 3652,
       "2": 3984,
@@ -6334,7 +6334,7 @@
     "klass": "Helmets",
     "level": 55,
     "name": "Jagged Crown",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -6349,7 +6349,7 @@
     "klass": "Gauntlets",
     "level": 2,
     "name": "Light Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -6364,7 +6364,7 @@
     "klass": "Gauntlets",
     "level": 3,
     "name": "Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -6379,7 +6379,7 @@
     "klass": "Gauntlets",
     "level": 5,
     "name": "Vambrace",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -6394,7 +6394,7 @@
     "klass": "Gauntlets",
     "level": 7,
     "name": "Long Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -6409,7 +6409,7 @@
     "klass": "Gauntlets",
     "level": 8,
     "name": "Meshed Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -6424,7 +6424,7 @@
     "klass": "Gauntlets",
     "level": 10,
     "name": "Moonlight Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 240,
       "1": 264,
       "2": 288,
@@ -6439,7 +6439,7 @@
     "klass": "Gauntlets",
     "level": 12,
     "name": "Chainmail Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 245,
       "1": 270,
       "2": 294,
@@ -6454,7 +6454,7 @@
     "klass": "Gauntlets",
     "level": 15,
     "name": "Jagged Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -6469,7 +6469,7 @@
     "klass": "Gauntlets",
     "level": 16,
     "name": "Lord's Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -6484,7 +6484,7 @@
     "klass": "Gauntlets",
     "level": 17,
     "name": "Hand Hook",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -6499,7 +6499,7 @@
     "klass": "Gauntlets",
     "level": 19,
     "name": "Steel Vambrace",
-    "power": {
+    "power_dict": {
       "0": 460,
       "1": 506,
       "2": 552,
@@ -6514,7 +6514,7 @@
     "klass": "Gauntlets",
     "level": 20,
     "name": "Frozen Grip",
-    "power": {
+    "power_dict": {
       "0": 725,
       "1": 798,
       "2": 870,
@@ -6529,7 +6529,7 @@
     "klass": "Gauntlets",
     "level": 23,
     "name": "Silver Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -6544,7 +6544,7 @@
     "klass": "Gauntlets",
     "level": 25,
     "name": "King's Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -6559,7 +6559,7 @@
     "klass": "Gauntlets",
     "level": 27,
     "name": "Bloodlust Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 725,
       "1": 798,
       "2": 870,
@@ -6574,7 +6574,7 @@
     "klass": "Gauntlets",
     "level": 30,
     "name": "Dark Vambrace",
-    "power": {
+    "power_dict": {
       "0": 850,
       "1": 935,
       "2": 1020,
@@ -6589,7 +6589,7 @@
     "klass": "Gauntlets",
     "level": 31,
     "name": "Protector Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -6604,7 +6604,7 @@
     "klass": "Gauntlets",
     "level": 32,
     "name": "Shockers",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -6619,7 +6619,7 @@
     "klass": "Gauntlets",
     "level": 32,
     "name": "Hallowed Grip",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -6634,7 +6634,7 @@
     "klass": "Gauntlets",
     "level": 34,
     "name": "Fireproof Mitts",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -6649,7 +6649,7 @@
     "klass": "Gauntlets",
     "level": 35,
     "name": "Giga-Brace",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -6664,7 +6664,7 @@
     "klass": "Gauntlets",
     "level": 37,
     "name": "Fire Smashers",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -6679,7 +6679,7 @@
     "klass": "Gauntlets",
     "level": 38,
     "name": "Dragonscale Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -6694,7 +6694,7 @@
     "klass": "Gauntlets",
     "level": 39,
     "name": "Twilight Fists",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -6709,7 +6709,7 @@
     "klass": "Gauntlets",
     "level": 40,
     "name": "Adamantium Fists",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -6724,7 +6724,7 @@
     "klass": "Gauntlets",
     "level": 43,
     "name": "Golden Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -6739,7 +6739,7 @@
     "klass": "Gauntlets",
     "level": 45,
     "name": "Frostfire Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 2200,
       "1": 2420,
       "2": 2640,
@@ -6754,7 +6754,7 @@
     "klass": "Gauntlets",
     "level": 45,
     "name": "Abyssal Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -6769,7 +6769,7 @@
     "klass": "Gauntlets",
     "level": 46,
     "name": "Berserker Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -6784,7 +6784,7 @@
     "klass": "Gauntlets",
     "level": 47,
     "name": "Valkyrie's Grip",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -6799,7 +6799,7 @@
     "klass": "Gauntlets",
     "level": 49,
     "name": "Volcanic Smashers",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -6814,7 +6814,7 @@
     "klass": "Gauntlets",
     "level": 55,
     "name": "Runic Gauntlets",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -6829,7 +6829,7 @@
     "klass": "Boots",
     "level": 1,
     "name": "Heavy Boots",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -6844,7 +6844,7 @@
     "klass": "Boots",
     "level": 3,
     "name": "Rider's Boots",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -6859,7 +6859,7 @@
     "klass": "Boots",
     "level": 4,
     "name": "Chain Greaves",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -6874,7 +6874,7 @@
     "klass": "Boots",
     "level": 6,
     "name": "Plated Boots",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -6889,7 +6889,7 @@
     "klass": "Boots",
     "level": 8,
     "name": "Traveling Boots",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -6904,7 +6904,7 @@
     "klass": "Boots",
     "level": 9,
     "name": "Moon Boots",
-    "power": {
+    "power_dict": {
       "0": 210,
       "1": 231,
       "2": 252,
@@ -6919,7 +6919,7 @@
     "klass": "Boots",
     "level": 10,
     "name": "Red Boots",
-    "power": {
+    "power_dict": {
       "0": 190,
       "1": 209,
       "2": 228,
@@ -6934,7 +6934,7 @@
     "klass": "Boots",
     "level": 12,
     "name": "Lion Boots",
-    "power": {
+    "power_dict": {
       "0": 370,
       "1": 407,
       "2": 444,
@@ -6949,7 +6949,7 @@
     "klass": "Boots",
     "level": 13,
     "name": "Explorer Boots",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -6964,7 +6964,7 @@
     "klass": "Boots",
     "level": 14,
     "name": "Valkyrie Boots",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -6979,7 +6979,7 @@
     "klass": "Boots",
     "level": 15,
     "name": "Sabaton",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -6994,7 +6994,7 @@
     "klass": "Boots",
     "level": 18,
     "name": "Warrior's Greaves",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -7009,7 +7009,7 @@
     "klass": "Boots",
     "level": 21,
     "name": "Knight Riders",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -7024,7 +7024,7 @@
     "klass": "Boots",
     "level": 24,
     "name": "Adventurer's Boots",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -7039,7 +7039,7 @@
     "klass": "Boots",
     "level": 25,
     "name": "Silvered Greaves",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -7054,7 +7054,7 @@
     "klass": "Boots",
     "level": 26,
     "name": "Jungle Boots",
-    "power": {
+    "power_dict": {
       "0": 720,
       "1": 792,
       "2": 864,
@@ -7069,7 +7069,7 @@
     "klass": "Boots",
     "level": 27,
     "name": "Flame Greaves",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -7084,7 +7084,7 @@
     "klass": "Boots",
     "level": 29,
     "name": "Lord's Boots",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -7099,7 +7099,7 @@
     "klass": "Boots",
     "level": 30,
     "name": "Magic Riders",
-    "power": {
+    "power_dict": {
       "0": 1275,
       "1": 1403,
       "2": 1530,
@@ -7114,7 +7114,7 @@
     "klass": "Boots",
     "level": 32,
     "name": "Frost Sabatons",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -7129,7 +7129,7 @@
     "klass": "Boots",
     "level": 33,
     "name": "Hallowed Stomper",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7144,7 +7144,7 @@
     "klass": "Boots",
     "level": 34,
     "name": "Earthshakers",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -7159,7 +7159,7 @@
     "klass": "Boots",
     "level": 37,
     "name": "King's Boots",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -7174,7 +7174,7 @@
     "klass": "Boots",
     "level": 38,
     "name": "Skull Stompers",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7189,7 +7189,7 @@
     "klass": "Boots",
     "level": 39,
     "name": "Draconic Greaves",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -7204,7 +7204,7 @@
     "klass": "Boots",
     "level": 40,
     "name": "Adamantium Boots",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -7219,7 +7219,7 @@
     "klass": "Boots",
     "level": 43,
     "name": "Royal Greaves",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -7234,7 +7234,7 @@
     "klass": "Boots",
     "level": 45,
     "name": "Azure Boots",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7249,7 +7249,7 @@
     "klass": "Boots",
     "level": 47,
     "name": "Obsidian Greaves",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -7264,7 +7264,7 @@
     "klass": "Boots",
     "level": 50,
     "name": "Titan's Feet",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -7279,7 +7279,7 @@
     "klass": "Boots",
     "level": 52,
     "name": "Wildling Boots",
-    "power": {
+    "power_dict": {
       "0": 2675,
       "1": 2943,
       "2": 3210,
@@ -7294,7 +7294,7 @@
     "klass": "Boots",
     "level": 54,
     "name": "Starfrost Skates",
-    "power": {
+    "power_dict": {
       "0": 3325,
       "1": 3658,
       "2": 3990,
@@ -7309,7 +7309,7 @@
     "klass": "Clothes",
     "level": 1,
     "name": "Tunic",
-    "power": {
+    "power_dict": {
       "0": 10,
       "1": 11,
       "2": 12,
@@ -7324,7 +7324,7 @@
     "klass": "Clothes",
     "level": 2,
     "name": "Cloak",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -7339,7 +7339,7 @@
     "klass": "Clothes",
     "level": 4,
     "name": "Mantle",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -7354,7 +7354,7 @@
     "klass": "Clothes",
     "level": 5,
     "name": "Red Tunic",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -7369,7 +7369,7 @@
     "klass": "Clothes",
     "level": 7,
     "name": "Robe",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -7384,7 +7384,7 @@
     "klass": "Clothes",
     "level": 9,
     "name": "Doublet",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -7399,7 +7399,7 @@
     "klass": "Clothes",
     "level": 11,
     "name": "Apprentice Robes",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -7414,7 +7414,7 @@
     "klass": "Clothes",
     "level": 13,
     "name": "Ice Cloak",
-    "power": {
+    "power_dict": {
       "0": 340,
       "1": 374,
       "2": 408,
@@ -7429,7 +7429,7 @@
     "klass": "Clothes",
     "level": 15,
     "name": "Magician's Cloak",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -7444,7 +7444,7 @@
     "klass": "Clothes",
     "level": 17,
     "name": "Silk Robe",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -7459,7 +7459,7 @@
     "klass": "Clothes",
     "level": 18,
     "name": "Heart Robe",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -7474,7 +7474,7 @@
     "klass": "Clothes",
     "level": 19,
     "name": "Mage Robe",
-    "power": {
+    "power_dict": {
       "0": 675,
       "1": 743,
       "2": 810,
@@ -7489,7 +7489,7 @@
     "klass": "Clothes",
     "level": 21,
     "name": "Sacred Tunic",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -7504,7 +7504,7 @@
     "klass": "Clothes",
     "level": 23,
     "name": "Royal Uniform",
-    "power": {
+    "power_dict": {
       "0": 900,
       "1": 990,
       "2": 1080,
@@ -7519,7 +7519,7 @@
     "klass": "Clothes",
     "level": 25,
     "name": "Imperial Mantle",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -7534,7 +7534,7 @@
     "klass": "Clothes",
     "level": 27,
     "name": "Gaia's Mantle",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -7549,7 +7549,7 @@
     "klass": "Clothes",
     "level": 28,
     "name": "Stealth Apparel",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -7564,7 +7564,7 @@
     "klass": "Clothes",
     "level": 29,
     "name": "Storm Apparel",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -7579,7 +7579,7 @@
     "klass": "Clothes",
     "level": 31,
     "name": "Night Walker",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -7594,7 +7594,7 @@
     "klass": "Clothes",
     "level": 32,
     "name": "Sorcerer Robe",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -7609,7 +7609,7 @@
     "klass": "Clothes",
     "level": 33,
     "name": "Nightmare Cape",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7624,7 +7624,7 @@
     "klass": "Clothes",
     "level": 34,
     "name": "Sage's Robe",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -7639,7 +7639,7 @@
     "klass": "Clothes",
     "level": 36,
     "name": "Shimmering Robe",
-    "power": {
+    "power_dict": {
       "0": 1075,
       "1": 1183,
       "2": 1290,
@@ -7654,7 +7654,7 @@
     "klass": "Clothes",
     "level": 37,
     "name": "Life Vest",
-    "power": {
+    "power_dict": {
       "0": 1340,
       "1": 1474,
       "2": 1608,
@@ -7669,7 +7669,7 @@
     "klass": "Clothes",
     "level": 38,
     "name": "Plasmic Robe",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7684,7 +7684,7 @@
     "klass": "Clothes",
     "level": 39,
     "name": "Archwizard Robe",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -7699,7 +7699,7 @@
     "klass": "Clothes",
     "level": 40,
     "name": "Twilight Robe",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -7714,7 +7714,7 @@
     "klass": "Clothes",
     "level": 42,
     "name": "Sakura Kimono",
-    "power": {
+    "power_dict": {
       "0": 2080,
       "1": 2288,
       "2": 2496,
@@ -7729,7 +7729,7 @@
     "klass": "Clothes",
     "level": 43,
     "name": "King's Mantle",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -7744,7 +7744,7 @@
     "klass": "Clothes",
     "level": 45,
     "name": "Twilight Doublet",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -7759,7 +7759,7 @@
     "klass": "Clothes",
     "level": 46,
     "name": "Patriot's Jacket",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -7774,7 +7774,7 @@
     "klass": "Clothes",
     "level": 47,
     "name": "Mage Doublet",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -7789,7 +7789,7 @@
     "klass": "Clothes",
     "level": 50,
     "name": "Holy Tunic",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -7804,7 +7804,7 @@
     "klass": "Clothes",
     "level": 51,
     "name": "Baking Apron",
-    "power": {
+    "power_dict": {
       "0": 3000,
       "1": 3300,
       "2": 3600,
@@ -7819,7 +7819,7 @@
     "klass": "Clothes",
     "level": 52,
     "name": "Sunrise Robe",
-    "power": {
+    "power_dict": {
       "0": 2675,
       "1": 2943,
       "2": 3210,
@@ -7834,7 +7834,7 @@
     "klass": "Clothes",
     "level": 53,
     "name": "Ugly Sweater",
-    "power": {
+    "power_dict": {
       "0": 2550,
       "1": 2805,
       "2": 3060,
@@ -7849,7 +7849,7 @@
     "klass": "Clothes",
     "level": 55,
     "name": "Celtic Coat",
-    "power": {
+    "power_dict": {
       "0": 3000,
       "1": 3300,
       "2": 3600,
@@ -7864,7 +7864,7 @@
     "klass": "Shields",
     "level": 2,
     "name": "Targe",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -7879,7 +7879,7 @@
     "klass": "Shields",
     "level": 3,
     "name": "Buckler",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -7894,7 +7894,7 @@
     "klass": "Shields",
     "level": 5,
     "name": "Small Shield",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -7909,7 +7909,7 @@
     "klass": "Shields",
     "level": 6,
     "name": "Heater Shield",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -7924,7 +7924,7 @@
     "klass": "Shields",
     "level": 8,
     "name": "Protector",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -7939,7 +7939,7 @@
     "klass": "Shields",
     "level": 8,
     "name": "Meat Shield",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -7954,7 +7954,7 @@
     "klass": "Shields",
     "level": 9,
     "name": "Kite Shield",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -7969,7 +7969,7 @@
     "klass": "Shields",
     "level": 11,
     "name": "Tower Shield",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -7984,7 +7984,7 @@
     "klass": "Shields",
     "level": 12,
     "name": "Chimalli",
-    "power": {
+    "power_dict": {
       "0": 370,
       "1": 407,
       "2": 444,
@@ -7999,7 +7999,7 @@
     "klass": "Shields",
     "level": 14,
     "name": "Moonlight Shield",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -8014,7 +8014,7 @@
     "klass": "Shields",
     "level": 16,
     "name": "Bagua Mirror",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -8029,7 +8029,7 @@
     "klass": "Shields",
     "level": 17,
     "name": "Knight Shield",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -8044,7 +8044,7 @@
     "klass": "Shields",
     "level": 18,
     "name": "Fire Proof",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -8059,7 +8059,7 @@
     "klass": "Shields",
     "level": 18,
     "name": "Macaron Shield",
-    "power": {
+    "power_dict": {
       "0": 660,
       "1": 726,
       "2": 792,
@@ -8074,7 +8074,7 @@
     "klass": "Shields",
     "level": 19,
     "name": "Scarab Shield",
-    "power": {
+    "power_dict": {
       "0": 685,
       "1": 754,
       "2": 822,
@@ -8089,7 +8089,7 @@
     "klass": "Shields",
     "level": 20,
     "name": "Venomous Buckler",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -8104,7 +8104,7 @@
     "klass": "Shields",
     "level": 21,
     "name": "Aegis",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -8119,7 +8119,7 @@
     "klass": "Shields",
     "level": 22,
     "name": "Bulwark",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -8134,7 +8134,7 @@
     "klass": "Shields",
     "level": 23,
     "name": "Reflective Shield",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -8149,7 +8149,7 @@
     "klass": "Shields",
     "level": 25,
     "name": "Skeleton Shield",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -8164,7 +8164,7 @@
     "klass": "Shields",
     "level": 27,
     "name": "Spiked Shield",
-    "power": {
+    "power_dict": {
       "0": 725,
       "1": 798,
       "2": 870,
@@ -8179,7 +8179,7 @@
     "klass": "Shields",
     "level": 28,
     "name": "Starry Shield",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -8194,7 +8194,7 @@
     "klass": "Shields",
     "level": 29,
     "name": "Ember Shield",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -8209,7 +8209,7 @@
     "klass": "Shields",
     "level": 30,
     "name": "Crystal Shield",
-    "power": {
+    "power_dict": {
       "0": 1275,
       "1": 1403,
       "2": 1530,
@@ -8224,7 +8224,7 @@
     "klass": "Shields",
     "level": 31,
     "name": "Argus' Shield",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -8239,7 +8239,7 @@
     "klass": "Shields",
     "level": 32,
     "name": "Bunny Shield",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -8254,7 +8254,7 @@
     "klass": "Shields",
     "level": 34,
     "name": "Blessed Aegis",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -8269,7 +8269,7 @@
     "klass": "Shields",
     "level": 35,
     "name": "Demon Shield",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -8284,7 +8284,7 @@
     "klass": "Shields",
     "level": 37,
     "name": "Dragon Skull",
-    "power": {
+    "power_dict": {
       "0": 1400,
       "1": 1540,
       "2": 1680,
@@ -8299,7 +8299,7 @@
     "klass": "Shields",
     "level": 38,
     "name": "Hawk Shield",
-    "power": {
+    "power_dict": {
       "0": 1175,
       "1": 1293,
       "2": 1410,
@@ -8314,7 +8314,7 @@
     "klass": "Shields",
     "level": 39,
     "name": "Giantshield",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -8329,7 +8329,7 @@
     "klass": "Shields",
     "level": 40,
     "name": "Adventurer's Shield",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -8344,7 +8344,7 @@
     "klass": "Shields",
     "level": 41,
     "name": "Twilight Aegis",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -8359,7 +8359,7 @@
     "klass": "Shields",
     "level": 43,
     "name": "Shark Bite",
-    "power": {
+    "power_dict": {
       "0": 2105,
       "1": 2316,
       "2": 2526,
@@ -8374,7 +8374,7 @@
     "klass": "Shields",
     "level": 47,
     "name": "Medusa Buckler",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -8389,7 +8389,7 @@
     "klass": "Shields",
     "level": 48,
     "name": "Gaia's Shield",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -8404,7 +8404,7 @@
     "klass": "Shields",
     "level": 48,
     "name": "Sunflower Shield",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -8419,7 +8419,7 @@
     "klass": "Shields",
     "level": 50,
     "name": "Oracle Shield",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -8434,7 +8434,7 @@
     "klass": "Shields",
     "level": 53,
     "name": "Halfmoon Shield",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -8449,7 +8449,7 @@
     "klass": "Shields",
     "level": 55,
     "name": "Celtic Shield",
-    "power": {
+    "power_dict": {
       "0": 3000,
       "1": 3300,
       "2": 3600,
@@ -8464,7 +8464,7 @@
     "klass": "Hats",
     "level": 1,
     "name": "Circlet",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -8479,7 +8479,7 @@
     "klass": "Hats",
     "level": 2,
     "name": "Hood",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -8494,7 +8494,7 @@
     "klass": "Hats",
     "level": 3,
     "name": "Monk's Hat",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -8509,7 +8509,7 @@
     "klass": "Hats",
     "level": 6,
     "name": "Buckle Hat",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -8524,7 +8524,7 @@
     "klass": "Hats",
     "level": 8,
     "name": "Robin's Hood",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -8539,7 +8539,7 @@
     "klass": "Hats",
     "level": 8,
     "name": "Plumed Hat",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -8554,7 +8554,7 @@
     "klass": "Hats",
     "level": 8,
     "name": "Pumpkinhead",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -8569,7 +8569,7 @@
     "klass": "Hats",
     "level": 9,
     "name": "Thief's Hood",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -8584,7 +8584,7 @@
     "klass": "Hats",
     "level": 11,
     "name": "Noble Tiara",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -8599,7 +8599,7 @@
     "klass": "Hats",
     "level": 13,
     "name": "Light Visage",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -8614,7 +8614,7 @@
     "klass": "Hats",
     "level": 13,
     "name": "Jeweled Hat",
-    "power": {
+    "power_dict": {
       "0": 410,
       "1": 451,
       "2": 492,
@@ -8629,7 +8629,7 @@
     "klass": "Hats",
     "level": 15,
     "name": "Scarlet Coif",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -8644,7 +8644,7 @@
     "klass": "Hats",
     "level": 18,
     "name": "Skadi's Tiara",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -8659,7 +8659,7 @@
     "klass": "Hats",
     "level": 19,
     "name": "Magic Top",
-    "power": {
+    "power_dict": {
       "0": 460,
       "1": 506,
       "2": 552,
@@ -8674,7 +8674,7 @@
     "klass": "Hats",
     "level": 21,
     "name": "Silver Crown",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -8689,7 +8689,7 @@
     "klass": "Hats",
     "level": 24,
     "name": "Elven Coif",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -8704,7 +8704,7 @@
     "klass": "Hats",
     "level": 25,
     "name": "Golden Crown",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -8719,7 +8719,7 @@
     "klass": "Hats",
     "level": 26,
     "name": "Cowboy Hat",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -8734,7 +8734,7 @@
     "klass": "Hats",
     "level": 27,
     "name": "Wise Cap",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -8749,7 +8749,7 @@
     "klass": "Hats",
     "level": 28,
     "name": "Dark Visage",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -8764,7 +8764,7 @@
     "klass": "Hats",
     "level": 30,
     "name": "Safari Hat",
-    "power": {
+    "power_dict": {
       "0": 820,
       "1": 902,
       "2": 984,
@@ -8779,7 +8779,7 @@
     "klass": "Hats",
     "level": 31,
     "name": "Shadowhood",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -8794,7 +8794,7 @@
     "klass": "Hats",
     "level": 32,
     "name": "Death Veil",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -8809,7 +8809,7 @@
     "klass": "Hats",
     "level": 33,
     "name": "Archwizard's Hat",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -8824,7 +8824,7 @@
     "klass": "Hats",
     "level": 34,
     "name": "Runic Tiara",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -8839,7 +8839,7 @@
     "klass": "Hats",
     "level": 36,
     "name": "Thunder Crown",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -8854,7 +8854,7 @@
     "klass": "Hats",
     "level": 36,
     "name": "Runic Coif",
-    "power": {
+    "power_dict": {
       "0": 1075,
       "1": 1183,
       "2": 1290,
@@ -8869,7 +8869,7 @@
     "klass": "Hats",
     "level": 37,
     "name": "Snake Headdress",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -8884,7 +8884,7 @@
     "klass": "Hats",
     "level": 38,
     "name": "Jorou's Crown",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -8899,7 +8899,7 @@
     "klass": "Hats",
     "level": 39,
     "name": "Demonic Visage",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -8914,7 +8914,7 @@
     "klass": "Hats",
     "level": 40,
     "name": "Jade Visage",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -8929,7 +8929,7 @@
     "klass": "Hats",
     "level": 42,
     "name": "Celestial Hat",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -8944,7 +8944,7 @@
     "klass": "Hats",
     "level": 44,
     "name": "Oni Mask",
-    "power": {
+    "power_dict": {
       "0": 2225,
       "1": 2448,
       "2": 2670,
@@ -8959,7 +8959,7 @@
     "klass": "Hats",
     "level": 46,
     "name": "Jaguar Helm",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -8974,7 +8974,7 @@
     "klass": "Hats",
     "level": 47,
     "name": "Cultist's Hood",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -8989,7 +8989,7 @@
     "klass": "Hats",
     "level": 48,
     "name": "Loki's Mask",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -9004,7 +9004,7 @@
     "klass": "Hats",
     "level": 50,
     "name": "Royal Tiara",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -9019,7 +9019,7 @@
     "klass": "Hats",
     "level": 53,
     "name": "Nether Crown",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -9034,7 +9034,7 @@
     "klass": "Hats",
     "level": 55,
     "name": "Crab Hat",
-    "power": {
+    "power_dict": {
       "0": 2929,
       "1": 3222,
       "2": 3515,
@@ -9049,7 +9049,7 @@
     "klass": "Bracers",
     "level": 1,
     "name": "Leather Bracers",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -9064,7 +9064,7 @@
     "klass": "Bracers",
     "level": 2,
     "name": "Gloves",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -9079,7 +9079,7 @@
     "klass": "Bracers",
     "level": 3,
     "name": "Wrist Guards",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -9094,7 +9094,7 @@
     "klass": "Bracers",
     "level": 5,
     "name": "Padded Gloves",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -9109,7 +9109,7 @@
     "klass": "Bracers",
     "level": 6,
     "name": "Mystic Gloves",
-    "power": {
+    "power_dict": {
       "0": 144,
       "1": 159,
       "2": 173,
@@ -9124,7 +9124,7 @@
     "klass": "Bracers",
     "level": 7,
     "name": "Fur Gloves",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -9139,7 +9139,7 @@
     "klass": "Bracers",
     "level": 9,
     "name": "Venomous Hands",
-    "power": {
+    "power_dict": {
       "0": 210,
       "1": 231,
       "2": 252,
@@ -9154,7 +9154,7 @@
     "klass": "Bracers",
     "level": 10,
     "name": "Woven Bracers",
-    "power": {
+    "power_dict": {
       "0": 190,
       "1": 209,
       "2": 228,
@@ -9169,7 +9169,7 @@
     "klass": "Bracers",
     "level": 12,
     "name": "Dexterous Gloves",
-    "power": {
+    "power_dict": {
       "0": 245,
       "1": 270,
       "2": 294,
@@ -9184,7 +9184,7 @@
     "klass": "Bracers",
     "level": 13,
     "name": "Guardian Protector",
-    "power": {
+    "power_dict": {
       "0": 275,
       "1": 303,
       "2": 330,
@@ -9199,7 +9199,7 @@
     "klass": "Bracers",
     "level": 14,
     "name": "Elemental Bracers",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -9214,7 +9214,7 @@
     "klass": "Bracers",
     "level": 14,
     "name": "Wisdom Gloves",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -9229,7 +9229,7 @@
     "klass": "Bracers",
     "level": 15,
     "name": "Grandmaster Gloves",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -9244,7 +9244,7 @@
     "klass": "Bracers",
     "level": 16,
     "name": "Flaming Hands",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -9259,7 +9259,7 @@
     "klass": "Bracers",
     "level": 18,
     "name": "Shadowed Gloves",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -9274,7 +9274,7 @@
     "klass": "Bracers",
     "level": 20,
     "name": "Royal Bracers",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -9289,7 +9289,7 @@
     "klass": "Bracers",
     "level": 22,
     "name": "Alchemist Gloves",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -9304,7 +9304,7 @@
     "klass": "Bracers",
     "level": 24,
     "name": "Mage Bracers",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -9319,7 +9319,7 @@
     "klass": "Bracers",
     "level": 26,
     "name": "Sorcerer's Bracers",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -9334,7 +9334,7 @@
     "klass": "Bracers",
     "level": 28,
     "name": "Ehecatl's Gloves",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -9349,7 +9349,7 @@
     "klass": "Bracers",
     "level": 30,
     "name": "Shield Bracers",
-    "power": {
+    "power_dict": {
       "0": 850,
       "1": 935,
       "2": 1020,
@@ -9364,7 +9364,7 @@
     "klass": "Bracers",
     "level": 32,
     "name": "Santa's Gloves",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -9379,7 +9379,7 @@
     "klass": "Bracers",
     "level": 35,
     "name": "Angel Gloves",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -9394,7 +9394,7 @@
     "klass": "Bracers",
     "level": 36,
     "name": "Freezing Bracers",
-    "power": {
+    "power_dict": {
       "0": 1625,
       "1": 1788,
       "2": 1950,
@@ -9409,7 +9409,7 @@
     "klass": "Bracers",
     "level": 37,
     "name": "Runic Bracers",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -9424,7 +9424,7 @@
     "klass": "Bracers",
     "level": 38,
     "name": "Celtic Bracer",
-    "power": {
+    "power_dict": {
       "0": 1480,
       "1": 1628,
       "2": 1776,
@@ -9439,7 +9439,7 @@
     "klass": "Bracers",
     "level": 38,
     "name": "Nightstalker Gloves",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -9454,7 +9454,7 @@
     "klass": "Bracers",
     "level": 39,
     "name": "Death Grip",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -9469,7 +9469,7 @@
     "klass": "Bracers",
     "level": 40,
     "name": "Midas' Gloves",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -9484,7 +9484,7 @@
     "klass": "Bracers",
     "level": 41,
     "name": "Cindari Gloves",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -9499,7 +9499,7 @@
     "klass": "Bracers",
     "level": 43,
     "name": "Ogre Bracers",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -9514,7 +9514,7 @@
     "klass": "Bracers",
     "level": 45,
     "name": "Frostfire Gloves",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -9529,7 +9529,7 @@
     "klass": "Bracers",
     "level": 46,
     "name": "Starry Gloves",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -9544,7 +9544,7 @@
     "klass": "Bracers",
     "level": 49,
     "name": "Archangel Gloves",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -9559,7 +9559,7 @@
     "klass": "Bracers",
     "level": 52,
     "name": "Nether Gloves",
-    "power": {
+    "power_dict": {
       "0": 2675,
       "1": 2943,
       "2": 3210,
@@ -9574,7 +9574,7 @@
     "klass": "Bracers",
     "level": 56,
     "name": "Mummy Hands",
-    "power": {
+    "power_dict": {
       "0": 2750,
       "1": 3025,
       "2": 3300,
@@ -9589,7 +9589,7 @@
     "klass": "Footwear",
     "level": 1,
     "name": "Sandals",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -9604,7 +9604,7 @@
     "klass": "Footwear",
     "level": 2,
     "name": "Shoes",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -9619,7 +9619,7 @@
     "klass": "Footwear",
     "level": 3,
     "name": "Druidic Shoes",
-    "power": {
+    "power_dict": {
       "0": 58,
       "1": 64,
       "2": 70,
@@ -9634,7 +9634,7 @@
     "klass": "Footwear",
     "level": 4,
     "name": "Leather Shoes",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -9649,7 +9649,7 @@
     "klass": "Footwear",
     "level": 6,
     "name": "Fur Loafers",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -9664,7 +9664,7 @@
     "klass": "Footwear",
     "level": 7,
     "name": "Light Boots",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -9679,7 +9679,7 @@
     "klass": "Footwear",
     "level": 8,
     "name": "Elven Boots",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -9694,7 +9694,7 @@
     "klass": "Footwear",
     "level": 9,
     "name": "Dancer Shoes",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -9709,7 +9709,7 @@
     "klass": "Footwear",
     "level": 11,
     "name": "Legion Sandals",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -9724,7 +9724,7 @@
     "klass": "Footwear",
     "level": 14,
     "name": "Horned Shoes",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -9739,7 +9739,7 @@
     "klass": "Footwear",
     "level": 15,
     "name": "Moon Walkers",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -9754,7 +9754,7 @@
     "klass": "Footwear",
     "level": 17,
     "name": "Golden Shoes",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -9769,7 +9769,7 @@
     "klass": "Footwear",
     "level": 21,
     "name": "Plumed Loafers",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -9784,7 +9784,7 @@
     "klass": "Footwear",
     "level": 22,
     "name": "Winged Sandals",
-    "power": {
+    "power_dict": {
       "0": 700,
       "1": 770,
       "2": 840,
@@ -9799,7 +9799,7 @@
     "klass": "Footwear",
     "level": 25,
     "name": "Imperial Sandals",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -9814,7 +9814,7 @@
     "klass": "Footwear",
     "level": 27,
     "name": "Patriot's Boots",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -9829,7 +9829,7 @@
     "klass": "Footwear",
     "level": 28,
     "name": "Genji Getas",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -9844,7 +9844,7 @@
     "klass": "Footwear",
     "level": 29,
     "name": "Path Finders",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -9859,7 +9859,7 @@
     "klass": "Footwear",
     "level": 31,
     "name": "Floating Slippers",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -9874,7 +9874,7 @@
     "klass": "Footwear",
     "level": 33,
     "name": "Harvest Shoes",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -9889,7 +9889,7 @@
     "klass": "Footwear",
     "level": 34,
     "name": "Sakura Boots",
-    "power": {
+    "power_dict": {
       "0": 1520,
       "1": 1672,
       "2": 1824,
@@ -9904,7 +9904,7 @@
     "klass": "Footwear",
     "level": 35,
     "name": "Wind Walkers",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -9919,7 +9919,7 @@
     "klass": "Footwear",
     "level": 36,
     "name": "Pirate Boots",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -9934,7 +9934,7 @@
     "klass": "Footwear",
     "level": 37,
     "name": "Arcane Sandals",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -9949,7 +9949,7 @@
     "klass": "Footwear",
     "level": 38,
     "name": "Planeswalkers",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -9964,7 +9964,7 @@
     "klass": "Footwear",
     "level": 39,
     "name": "Adamantium Shoes",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -9979,7 +9979,7 @@
     "klass": "Footwear",
     "level": 40,
     "name": "Draconic Boots",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -9994,7 +9994,7 @@
     "klass": "Footwear",
     "level": 43,
     "name": "Jade Shoes",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -10009,7 +10009,7 @@
     "klass": "Footwear",
     "level": 44,
     "name": "Hopping Shoes",
-    "power": {
+    "power_dict": {
       "0": 2125,
       "1": 2338,
       "2": 2550,
@@ -10024,7 +10024,7 @@
     "klass": "Footwear",
     "level": 45,
     "name": "Frostfire Shoes",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -10039,7 +10039,7 @@
     "klass": "Footwear",
     "level": 47,
     "name": "Noble Shoes",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -10054,7 +10054,7 @@
     "klass": "Footwear",
     "level": 49,
     "name": "Firewalkers",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -10069,7 +10069,7 @@
     "klass": "Footwear",
     "level": 52,
     "name": "Demon Trackers",
-    "power": {
+    "power_dict": {
       "0": 2675,
       "1": 2943,
       "2": 3210,
@@ -10084,7 +10084,7 @@
     "klass": "Footwear",
     "level": 55,
     "name": "Ice Walkers",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -10099,7 +10099,7 @@
     "klass": "Footwear",
     "level": 56,
     "name": "Swimming Fins",
-    "power": {
+    "power_dict": {
       "0": 3100,
       "1": 3410,
       "2": 3720,
@@ -10114,7 +10114,7 @@
     "klass": "Remedies",
     "level": 1,
     "name": "Healing Herbs",
-    "power": {
+    "power_dict": {
       "0": 9,
       "1": 10,
       "2": 11,
@@ -10129,7 +10129,7 @@
     "klass": "Remedies",
     "level": 2,
     "name": "Antidote",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -10144,7 +10144,7 @@
     "klass": "Remedies",
     "level": 3,
     "name": "Fungi Brew",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -10159,7 +10159,7 @@
     "klass": "Remedies",
     "level": 6,
     "name": "Elderflower",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -10174,7 +10174,7 @@
     "klass": "Remedies",
     "level": 7,
     "name": "Healing Mix",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -10189,7 +10189,7 @@
     "klass": "Remedies",
     "level": 8,
     "name": "Colored Powder",
-    "power": {
+    "power_dict": {
       "0": 175,
       "1": 193,
       "2": 210,
@@ -10204,7 +10204,7 @@
     "klass": "Remedies",
     "level": 9,
     "name": "Fire Moss",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -10219,7 +10219,7 @@
     "klass": "Remedies",
     "level": 10,
     "name": "Mistletoe",
-    "power": {
+    "power_dict": {
       "0": 290,
       "1": 319,
       "2": 348,
@@ -10234,7 +10234,7 @@
     "klass": "Remedies",
     "level": 11,
     "name": "Sleeping Shrooms",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -10249,7 +10249,7 @@
     "klass": "Remedies",
     "level": 13,
     "name": "Bark Tea",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -10264,7 +10264,7 @@
     "klass": "Remedies",
     "level": 15,
     "name": "Fairy Sprinkle",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -10279,7 +10279,7 @@
     "klass": "Remedies",
     "level": 16,
     "name": "Starfrost Bloom",
-    "power": {
+    "power_dict": {
       "0": 530,
       "1": 583,
       "2": 636,
@@ -10294,7 +10294,7 @@
     "klass": "Remedies",
     "level": 17,
     "name": "Sakura Mochi",
-    "power": {
+    "power_dict": {
       "0": 580,
       "1": 638,
       "2": 696,
@@ -10309,7 +10309,7 @@
     "klass": "Remedies",
     "level": 19,
     "name": "Anti-Venom",
-    "power": {
+    "power_dict": {
       "0": 460,
       "1": 506,
       "2": 552,
@@ -10324,7 +10324,7 @@
     "klass": "Remedies",
     "level": 21,
     "name": "Protection Dust",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -10339,7 +10339,7 @@
     "klass": "Remedies",
     "level": 23,
     "name": "Swift Seed",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -10354,7 +10354,7 @@
     "klass": "Remedies",
     "level": 24,
     "name": "Elven Cure",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -10369,7 +10369,7 @@
     "klass": "Remedies",
     "level": 26,
     "name": "Rejuvenating Tea",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -10384,7 +10384,7 @@
     "klass": "Remedies",
     "level": 28,
     "name": "Angel Dust",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -10399,7 +10399,7 @@
     "klass": "Remedies",
     "level": 31,
     "name": "Coldfire Dust",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -10414,7 +10414,7 @@
     "klass": "Remedies",
     "level": 32,
     "name": "Unicorn Essence",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -10429,7 +10429,7 @@
     "klass": "Remedies",
     "level": 33,
     "name": "Cornucopia",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -10444,7 +10444,7 @@
     "klass": "Remedies",
     "level": 34,
     "name": "Clown Dust",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -10459,7 +10459,7 @@
     "klass": "Remedies",
     "level": 34,
     "name": "Strength Seed",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -10474,7 +10474,7 @@
     "klass": "Remedies",
     "level": 35,
     "name": "Phoenix Dust",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -10489,7 +10489,7 @@
     "klass": "Remedies",
     "level": 36,
     "name": "Sugar Rush Tea",
-    "power": {
+    "power_dict": {
       "0": 1860,
       "1": 2046,
       "2": 2232,
@@ -10504,7 +10504,7 @@
     "klass": "Remedies",
     "level": 37,
     "name": "Panacea",
-    "power": {
+    "power_dict": {
       "0": 1400,
       "1": 1540,
       "2": 1680,
@@ -10519,7 +10519,7 @@
     "klass": "Remedies",
     "level": 38,
     "name": "Lucky Clover",
-    "power": {
+    "power_dict": {
       "0": 1600,
       "1": 1760,
       "2": 1920,
@@ -10534,7 +10534,7 @@
     "klass": "Remedies",
     "level": 39,
     "name": "Mystic Flower",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -10549,7 +10549,7 @@
     "klass": "Remedies",
     "level": 40,
     "name": "Magic Seed",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -10564,7 +10564,7 @@
     "klass": "Remedies",
     "level": 41,
     "name": "Albizia",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -10579,7 +10579,7 @@
     "klass": "Remedies",
     "level": 44,
     "name": "Dragon Dust",
-    "power": {
+    "power_dict": {
       "0": 1425,
       "1": 1568,
       "2": 1710,
@@ -10594,7 +10594,7 @@
     "klass": "Remedies",
     "level": 44,
     "name": "Gingerbread Man",
-    "power": {
+    "power_dict": {
       "0": 2390,
       "1": 2629,
       "2": 2868,
@@ -10609,7 +10609,7 @@
     "klass": "Remedies",
     "level": 46,
     "name": "Magic Beans",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -10624,7 +10624,7 @@
     "klass": "Remedies",
     "level": 47,
     "name": "Devil Dust",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -10639,7 +10639,7 @@
     "klass": "Remedies",
     "level": 48,
     "name": "Teonanacatl",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -10654,7 +10654,7 @@
     "klass": "Remedies",
     "level": 50,
     "name": "Draconic Tea",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -10668,8 +10668,8 @@
     "craft": 0,
     "klass": "Remedies",
     "level": 54,
-    "name": "Seed of Power",
-    "power": {
+    "name": "Seed of power_dict",
+    "power_dict": {
       "0": 2800,
       "1": 3080,
       "2": 3360,
@@ -10684,7 +10684,7 @@
     "klass": "Potions",
     "level": 3,
     "name": "Health Vial",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -10699,7 +10699,7 @@
     "klass": "Potions",
     "level": 4,
     "name": "Mana Vial",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -10714,7 +10714,7 @@
     "klass": "Potions",
     "level": 5,
     "name": "Speed Potion",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -10729,7 +10729,7 @@
     "klass": "Potions",
     "level": 6,
     "name": "Love Splash",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -10744,7 +10744,7 @@
     "klass": "Potions",
     "level": 7,
     "name": "Healing Potion",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -10759,7 +10759,7 @@
     "klass": "Potions",
     "level": 8,
     "name": "Toxic Vial",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -10774,7 +10774,7 @@
     "klass": "Potions",
     "level": 9,
     "name": "Energizing Potion",
-    "power": {
+    "power_dict": {
       "0": 250,
       "1": 275,
       "2": 300,
@@ -10789,7 +10789,7 @@
     "klass": "Potions",
     "level": 9,
     "name": "Elixir Drops",
-    "power": {
+    "power_dict": {
       "0": 210,
       "1": 231,
       "2": 252,
@@ -10804,7 +10804,7 @@
     "klass": "Potions",
     "level": 10,
     "name": "Health Drink",
-    "power": {
+    "power_dict": {
       "0": 190,
       "1": 209,
       "2": 228,
@@ -10819,7 +10819,7 @@
     "klass": "Potions",
     "level": 12,
     "name": "Chalice",
-    "power": {
+    "power_dict": {
       "0": 410,
       "1": 451,
       "2": 492,
@@ -10834,7 +10834,7 @@
     "klass": "Potions",
     "level": 13,
     "name": "Strength Potion",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -10849,7 +10849,7 @@
     "klass": "Potions",
     "level": 14,
     "name": "Eggnog Potion",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -10864,7 +10864,7 @@
     "klass": "Potions",
     "level": 15,
     "name": "Warming Spray",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -10879,7 +10879,7 @@
     "klass": "Potions",
     "level": 17,
     "name": "Acidic Splash",
-    "power": {
+    "power_dict": {
       "0": 390,
       "1": 429,
       "2": 468,
@@ -10894,7 +10894,7 @@
     "klass": "Potions",
     "level": 20,
     "name": "Health Potion",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -10909,7 +10909,7 @@
     "klass": "Potions",
     "level": 22,
     "name": "Wisdom Potion",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -10924,7 +10924,7 @@
     "klass": "Potions",
     "level": 22,
     "name": "Mana Potion",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -10939,7 +10939,7 @@
     "klass": "Potions",
     "level": 24,
     "name": "Demon's Blood",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -10954,7 +10954,7 @@
     "klass": "Potions",
     "level": 24,
     "name": "Elven Sunblock",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -10969,7 +10969,7 @@
     "klass": "Potions",
     "level": 26,
     "name": "Elixir",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -10984,7 +10984,7 @@
     "klass": "Potions",
     "level": 28,
     "name": "Golden Potion",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -10999,7 +10999,7 @@
     "klass": "Potions",
     "level": 31,
     "name": "Life Potion",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -11014,7 +11014,7 @@
     "klass": "Potions",
     "level": 32,
     "name": "Mystic Potion",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -11029,7 +11029,7 @@
     "klass": "Potions",
     "level": 33,
     "name": "Invincibility Potion",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -11044,7 +11044,7 @@
     "klass": "Potions",
     "level": 34,
     "name": "Dragon's Blood",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -11059,7 +11059,7 @@
     "klass": "Potions",
     "level": 36,
     "name": "Megalixir",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -11074,7 +11074,7 @@
     "klass": "Potions",
     "level": 37,
     "name": "Twilight Potion",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -11089,7 +11089,7 @@
     "klass": "Potions",
     "level": 39,
     "name": "Gods' Essence",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -11104,7 +11104,7 @@
     "klass": "Potions",
     "level": 40,
     "name": "Clarity Potion",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -11119,7 +11119,7 @@
     "klass": "Potions",
     "level": 43,
     "name": "Emergency Water",
-    "power": {
+    "power_dict": {
       "0": 1220,
       "1": 1342,
       "2": 1464,
@@ -11134,7 +11134,7 @@
     "klass": "Potions",
     "level": 43,
     "name": "Vial of Rebirth",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -11149,7 +11149,7 @@
     "klass": "Potions",
     "level": 44,
     "name": "Jack's Brew",
-    "power": {
+    "power_dict": {
       "0": 2125,
       "1": 2338,
       "2": 2550,
@@ -11164,7 +11164,7 @@
     "klass": "Potions",
     "level": 46,
     "name": "Maple Potion",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -11179,7 +11179,7 @@
     "klass": "Potions",
     "level": 47,
     "name": "Obsidian Potion",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -11194,7 +11194,7 @@
     "klass": "Potions",
     "level": 48,
     "name": "Pirate's Brew",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -11209,7 +11209,7 @@
     "klass": "Potions",
     "level": 49,
     "name": "Dragonfire Potion",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -11224,7 +11224,7 @@
     "klass": "Potions",
     "level": 50,
     "name": "Gaia's Essence",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -11239,7 +11239,7 @@
     "klass": "Potions",
     "level": 55,
     "name": "Unholy Potion",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
@@ -11254,7 +11254,7 @@
     "klass": "Spells",
     "level": 5,
     "name": "Shielding Seal",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -11269,7 +11269,7 @@
     "klass": "Spells",
     "level": 7,
     "name": "Fireball Scroll",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -11284,7 +11284,7 @@
     "klass": "Spells",
     "level": 8,
     "name": "Poison Scroll",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -11299,7 +11299,7 @@
     "klass": "Spells",
     "level": 9,
     "name": "Lightning Scroll",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -11314,7 +11314,7 @@
     "klass": "Spells",
     "level": 11,
     "name": "Sleeping Totem",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -11329,7 +11329,7 @@
     "klass": "Spells",
     "level": 12,
     "name": "Firewall Scroll",
-    "power": {
+    "power_dict": {
       "0": 245,
       "1": 270,
       "2": 294,
@@ -11344,7 +11344,7 @@
     "klass": "Spells",
     "level": 13,
     "name": "Pain Totem",
-    "power": {
+    "power_dict": {
       "0": 340,
       "1": 374,
       "2": 408,
@@ -11359,7 +11359,7 @@
     "klass": "Spells",
     "level": 14,
     "name": "Charming Scroll",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -11374,7 +11374,7 @@
     "klass": "Spells",
     "level": 14,
     "name": "Deflection Seal",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -11389,7 +11389,7 @@
     "klass": "Spells",
     "level": 15,
     "name": "The Art of War",
-    "power": {
+    "power_dict": {
       "0": 500,
       "1": 550,
       "2": 600,
@@ -11404,7 +11404,7 @@
     "klass": "Spells",
     "level": 16,
     "name": "Freezing Scroll",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -11419,7 +11419,7 @@
     "klass": "Spells",
     "level": 17,
     "name": "Imperial Edict",
-    "power": {
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -11434,7 +11434,7 @@
     "klass": "Spells",
     "level": 18,
     "name": "Invisibility Scroll",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -11449,7 +11449,7 @@
     "klass": "Spells",
     "level": 19,
     "name": "Talisman",
-    "power": {
+    "power_dict": {
       "0": 675,
       "1": 743,
       "2": 810,
@@ -11464,7 +11464,7 @@
     "klass": "Spells",
     "level": 20,
     "name": "Celtic Slate",
-    "power": {
+    "power_dict": {
       "0": 480,
       "1": 528,
       "2": 576,
@@ -11479,7 +11479,7 @@
     "klass": "Spells",
     "level": 21,
     "name": "Teleportation Scroll",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -11494,7 +11494,7 @@
     "klass": "Spells",
     "level": 23,
     "name": "Magical Codex",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -11509,7 +11509,7 @@
     "klass": "Spells",
     "level": 24,
     "name": "Paralysis Totem",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -11524,7 +11524,7 @@
     "klass": "Spells",
     "level": 25,
     "name": "Mystic Scroll",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -11539,7 +11539,7 @@
     "klass": "Spells",
     "level": 26,
     "name": "Evil Seal",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -11554,7 +11554,7 @@
     "klass": "Spells",
     "level": 28,
     "name": "Possession Scroll",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -11569,7 +11569,7 @@
     "klass": "Spells",
     "level": 29,
     "name": "Tiger Seal",
-    "power": {
+    "power_dict": {
       "0": 1220,
       "1": 1342,
       "2": 1464,
@@ -11583,8 +11583,8 @@
     "craft": 0,
     "klass": "Spells",
     "level": 30,
-    "name": "Power Seal",
-    "power": {
+    "name": "power_dict Seal",
+    "power_dict": {
       "0": 850,
       "1": 935,
       "2": 1020,
@@ -11599,7 +11599,7 @@
     "klass": "Spells",
     "level": 30,
     "name": "Njord",
-    "power": {
+    "power_dict": {
       "0": 1275,
       "1": 1403,
       "2": 1530,
@@ -11614,7 +11614,7 @@
     "klass": "Spells",
     "level": 32,
     "name": "Gloom Totem",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -11629,7 +11629,7 @@
     "klass": "Spells",
     "level": 33,
     "name": "Arcane Compendium",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -11644,7 +11644,7 @@
     "klass": "Spells",
     "level": 35,
     "name": "Disintegration Scroll",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -11659,7 +11659,7 @@
     "klass": "Spells",
     "level": 37,
     "name": "Return Scroll",
-    "power": {
+    "power_dict": {
       "0": 1400,
       "1": 1540,
       "2": 1680,
@@ -11674,7 +11674,7 @@
     "klass": "Spells",
     "level": 38,
     "name": "Hawk Totem",
-    "power": {
+    "power_dict": {
       "0": 1175,
       "1": 1293,
       "2": 1410,
@@ -11689,7 +11689,7 @@
     "klass": "Spells",
     "level": 40,
     "name": "Divine Tome",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -11704,7 +11704,7 @@
     "klass": "Spells",
     "level": 41,
     "name": "Twilight Seal",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -11719,7 +11719,7 @@
     "klass": "Spells",
     "level": 45,
     "name": "Dragon Totem",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -11734,7 +11734,7 @@
     "klass": "Spells",
     "level": 45,
     "name": "Santa's List",
-    "power": {
+    "power_dict": {
       "0": 2200,
       "1": 2420,
       "2": 2640,
@@ -11749,7 +11749,7 @@
     "klass": "Spells",
     "level": 47,
     "name": "Haunted Scroll",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -11764,7 +11764,7 @@
     "klass": "Spells",
     "level": 49,
     "name": "Primal Compendium",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -11779,7 +11779,7 @@
     "klass": "Spells",
     "level": 50,
     "name": "Guardian Seal",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -11794,7 +11794,7 @@
     "klass": "Spells",
     "level": 53,
     "name": "Blood Scroll",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -11809,7 +11809,7 @@
     "klass": "Spells",
     "level": 54,
     "name": "Deception Scroll",
-    "power": {
+    "power_dict": {
       "0": 2800,
       "1": 3080,
       "2": 3360,
@@ -11824,7 +11824,7 @@
     "klass": "Projectiles",
     "level": 2,
     "name": "Darts",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -11839,7 +11839,7 @@
     "klass": "Projectiles",
     "level": 3,
     "name": "Sling",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -11854,7 +11854,7 @@
     "klass": "Projectiles",
     "level": 4,
     "name": "Boomerang",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -11869,7 +11869,7 @@
     "klass": "Projectiles",
     "level": 6,
     "name": "Kunai",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -11884,7 +11884,7 @@
     "klass": "Projectiles",
     "level": 7,
     "name": "Poison Darts",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -11899,7 +11899,7 @@
     "klass": "Projectiles",
     "level": 8,
     "name": "Fireworks",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -11914,7 +11914,7 @@
     "klass": "Projectiles",
     "level": 9,
     "name": "Smoke Bomb",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -11929,7 +11929,7 @@
     "klass": "Projectiles",
     "level": 10,
     "name": "Poison Needles",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -11944,7 +11944,7 @@
     "klass": "Projectiles",
     "level": 11,
     "name": "Metal Boomerang",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -11959,7 +11959,7 @@
     "klass": "Projectiles",
     "level": 12,
     "name": "Toxic Bomb",
-    "power": {
+    "power_dict": {
       "0": 310,
       "1": 341,
       "2": 372,
@@ -11974,7 +11974,7 @@
     "klass": "Projectiles",
     "level": 13,
     "name": "Sleeping Bomb",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -11989,7 +11989,7 @@
     "klass": "Projectiles",
     "level": 14,
     "name": "Festive Bombs",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -12004,7 +12004,7 @@
     "klass": "Projectiles",
     "level": 15,
     "name": "Shock Darts",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -12019,7 +12019,7 @@
     "klass": "Projectiles",
     "level": 18,
     "name": "Shuriken",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -12034,7 +12034,7 @@
     "klass": "Projectiles",
     "level": 20,
     "name": "Elasti-Sling",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -12049,7 +12049,7 @@
     "klass": "Projectiles",
     "level": 22,
     "name": "Chakram",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -12064,7 +12064,7 @@
     "klass": "Projectiles",
     "level": 22,
     "name": "Bladed Feather",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -12079,7 +12079,7 @@
     "klass": "Projectiles",
     "level": 24,
     "name": "Magic Shuriken",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -12094,7 +12094,7 @@
     "klass": "Projectiles",
     "level": 26,
     "name": "Singing Chakram",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -12109,7 +12109,7 @@
     "klass": "Projectiles",
     "level": 28,
     "name": "Steelarang",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -12124,7 +12124,7 @@
     "klass": "Projectiles",
     "level": 28,
     "name": "Heart Seeker",
-    "power": {
+    "power_dict": {
       "0": 1150,
       "1": 1265,
       "2": 1380,
@@ -12139,7 +12139,7 @@
     "klass": "Projectiles",
     "level": 29,
     "name": "Spirit Fire",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -12154,7 +12154,7 @@
     "klass": "Projectiles",
     "level": 30,
     "name": "Seeking Kunai",
-    "power": {
+    "power_dict": {
       "0": 850,
       "1": 935,
       "2": 1020,
@@ -12169,7 +12169,7 @@
     "klass": "Projectiles",
     "level": 33,
     "name": "Shredder",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -12184,7 +12184,7 @@
     "klass": "Projectiles",
     "level": 35,
     "name": "Exploding Darts",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -12199,7 +12199,7 @@
     "klass": "Projectiles",
     "level": 36,
     "name": "Heart Piercer",
-    "power": {
+    "power_dict": {
       "0": 1625,
       "1": 1788,
       "2": 1950,
@@ -12214,7 +12214,7 @@
     "klass": "Projectiles",
     "level": 37,
     "name": "Light Boomerang",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -12229,7 +12229,7 @@
     "klass": "Projectiles",
     "level": 38,
     "name": "Thunder Clap",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -12244,7 +12244,7 @@
     "klass": "Projectiles",
     "level": 39,
     "name": "Dragon Darts",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -12259,7 +12259,7 @@
     "klass": "Projectiles",
     "level": 42,
     "name": "Wind Slicer",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -12274,7 +12274,7 @@
     "klass": "Projectiles",
     "level": 45,
     "name": "Frostfire Kunai",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -12289,7 +12289,7 @@
     "klass": "Projectiles",
     "level": 47,
     "name": "Squash Bomb",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -12304,7 +12304,7 @@
     "klass": "Projectiles",
     "level": 48,
     "name": "Eggsplosives",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -12319,7 +12319,7 @@
     "klass": "Projectiles",
     "level": 49,
     "name": "Hell Bomb",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -12334,7 +12334,7 @@
     "klass": "Projectiles",
     "level": 53,
     "name": "Cookie Cutter",
-    "power": {
+    "power_dict": {
       "0": 3080,
       "1": 3388,
       "2": 3696,
@@ -12349,7 +12349,7 @@
     "klass": "Projectiles",
     "level": 53,
     "name": "Flying Guillotine",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -12364,7 +12364,7 @@
     "klass": "Projectiles",
     "level": 58,
     "name": "Quicksilver",
-    "power": {
+    "power_dict": {
       "0": 2950,
       "1": 3245,
       "2": 3540,
@@ -12379,7 +12379,7 @@
     "klass": "Rings",
     "level": 2,
     "name": "Iron Band",
-    "power": {
+    "power_dict": {
       "0": 22,
       "1": 25,
       "2": 27,
@@ -12394,7 +12394,7 @@
     "klass": "Rings",
     "level": 4,
     "name": "Rabbit Ring",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -12409,7 +12409,7 @@
     "klass": "Rings",
     "level": 5,
     "name": "Jewel Ring",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -12424,7 +12424,7 @@
     "klass": "Rings",
     "level": 6,
     "name": "Shadow Mark",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -12439,7 +12439,7 @@
     "klass": "Rings",
     "level": 7,
     "name": "Crescent Ring",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -12454,7 +12454,7 @@
     "klass": "Rings",
     "level": 8,
     "name": "Starry Ring",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -12469,7 +12469,7 @@
     "klass": "Rings",
     "level": 9,
     "name": "Moonstone Ring",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -12484,7 +12484,7 @@
     "klass": "Rings",
     "level": 11,
     "name": "Luck Band",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -12499,7 +12499,7 @@
     "klass": "Rings",
     "level": 12,
     "name": "Gold Digger",
-    "power": {
+    "power_dict": {
       "0": 310,
       "1": 341,
       "2": 372,
@@ -12514,7 +12514,7 @@
     "klass": "Rings",
     "level": 13,
     "name": "Soldier's Mark",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -12529,7 +12529,7 @@
     "klass": "Rings",
     "level": 14,
     "name": "Nimble Ring",
-    "power": {
+    "power_dict": {
       "0": 450,
       "1": 495,
       "2": 540,
@@ -12544,7 +12544,7 @@
     "klass": "Rings",
     "level": 16,
     "name": "Fire Band",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -12559,7 +12559,7 @@
     "klass": "Rings",
     "level": 19,
     "name": "Sight Band",
-    "power": {
+    "power_dict": {
       "0": 460,
       "1": 506,
       "2": 552,
@@ -12574,7 +12574,7 @@
     "klass": "Rings",
     "level": 20,
     "name": "Horseshoe Ring",
-    "power": {
+    "power_dict": {
       "0": 485,
       "1": 534,
       "2": 582,
@@ -12589,7 +12589,7 @@
     "klass": "Rings",
     "level": 21,
     "name": "Undead Ring",
-    "power": {
+    "power_dict": {
       "0": 525,
       "1": 578,
       "2": 630,
@@ -12603,8 +12603,8 @@
     "craft": 0,
     "klass": "Rings",
     "level": 23,
-    "name": "Power Ring",
-    "power": {
+    "name": "power_dict Ring",
+    "power_dict": {
       "0": 600,
       "1": 660,
       "2": 720,
@@ -12619,7 +12619,7 @@
     "klass": "Rings",
     "level": 24,
     "name": "Infinity Ring",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -12634,7 +12634,7 @@
     "klass": "Rings",
     "level": 25,
     "name": "Crusader Ring",
-    "power": {
+    "power_dict": {
       "0": 825,
       "1": 908,
       "2": 990,
@@ -12649,7 +12649,7 @@
     "klass": "Rings",
     "level": 26,
     "name": "Dragon Signet",
-    "power": {
+    "power_dict": {
       "0": 1250,
       "1": 1375,
       "2": 1500,
@@ -12664,7 +12664,7 @@
     "klass": "Rings",
     "level": 27,
     "name": "Prayer Ring",
-    "power": {
+    "power_dict": {
       "0": 1100,
       "1": 1210,
       "2": 1320,
@@ -12679,7 +12679,7 @@
     "klass": "Rings",
     "level": 28,
     "name": "Wisdom Mark",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -12694,7 +12694,7 @@
     "klass": "Rings",
     "level": 31,
     "name": "Resistance Band",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -12709,7 +12709,7 @@
     "klass": "Rings",
     "level": 32,
     "name": "Dynamic Ring",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -12724,7 +12724,7 @@
     "klass": "Rings",
     "level": 33,
     "name": "Truth Ring",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -12739,7 +12739,7 @@
     "klass": "Rings",
     "level": 34,
     "name": "Divine Mark",
-    "power": {
+    "power_dict": {
       "0": 1500,
       "1": 1650,
       "2": 1800,
@@ -12754,7 +12754,7 @@
     "klass": "Rings",
     "level": 36,
     "name": "Royal Ring",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -12769,7 +12769,7 @@
     "klass": "Rings",
     "level": 37,
     "name": "Fallen Angel Ring",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -12784,7 +12784,7 @@
     "klass": "Rings",
     "level": 39,
     "name": "Oracle",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -12799,7 +12799,7 @@
     "klass": "Rings",
     "level": 40,
     "name": "Mystic Ring",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -12814,7 +12814,7 @@
     "klass": "Rings",
     "level": 41,
     "name": "Lich Ring",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -12829,7 +12829,7 @@
     "klass": "Rings",
     "level": 42,
     "name": "Wedding Ring",
-    "power": {
+    "power_dict": {
       "0": 2100,
       "1": 2310,
       "2": 2520,
@@ -12844,7 +12844,7 @@
     "klass": "Rings",
     "level": 43,
     "name": "Grotesque Ring",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -12859,7 +12859,7 @@
     "klass": "Rings",
     "level": 44,
     "name": "Ouroboros",
-    "power": {
+    "power_dict": {
       "0": 1425,
       "1": 1568,
       "2": 1710,
@@ -12874,7 +12874,7 @@
     "klass": "Rings",
     "level": 45,
     "name": "Azure Ring",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -12889,7 +12889,7 @@
     "klass": "Rings",
     "level": 46,
     "name": "Wedding Band",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -12904,7 +12904,7 @@
     "klass": "Rings",
     "level": 48,
     "name": "Heart Ring",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -12919,7 +12919,7 @@
     "klass": "Rings",
     "level": 50,
     "name": "Antimagic Band",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -12934,7 +12934,7 @@
     "klass": "Rings",
     "level": 53,
     "name": "Midas Ring",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -12949,7 +12949,7 @@
     "klass": "Rings",
     "level": 55,
     "name": "Snow Bunny",
-    "power": {
+    "power_dict": {
       "0": 3650,
       "1": 4015,
       "2": 4380,
@@ -12964,7 +12964,7 @@
     "klass": "Pendants",
     "level": 3,
     "name": "Shiny Pendant",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -12979,7 +12979,7 @@
     "klass": "Pendants",
     "level": 5,
     "name": "Opal Necklace",
-    "power": {
+    "power_dict": {
       "0": 76,
       "1": 84,
       "2": 92,
@@ -12994,7 +12994,7 @@
     "klass": "Pendants",
     "level": 6,
     "name": "Scarlet Drop",
-    "power": {
+    "power_dict": {
       "0": 96,
       "1": 106,
       "2": 116,
@@ -13009,7 +13009,7 @@
     "klass": "Pendants",
     "level": 8,
     "name": "Protection Pendant",
-    "power": {
+    "power_dict": {
       "0": 140,
       "1": 154,
       "2": 168,
@@ -13024,7 +13024,7 @@
     "klass": "Pendants",
     "level": 10,
     "name": "Luna Charm",
-    "power": {
+    "power_dict": {
       "0": 190,
       "1": 209,
       "2": 228,
@@ -13039,7 +13039,7 @@
     "klass": "Pendants",
     "level": 11,
     "name": "Wind Charm",
-    "power": {
+    "power_dict": {
       "0": 270,
       "1": 297,
       "2": 324,
@@ -13054,7 +13054,7 @@
     "klass": "Pendants",
     "level": 12,
     "name": "Skeleton Ward",
-    "power": {
+    "power_dict": {
       "0": 245,
       "1": 270,
       "2": 294,
@@ -13069,7 +13069,7 @@
     "klass": "Pendants",
     "level": 13,
     "name": "Bunny Pendant",
-    "power": {
+    "power_dict": {
       "0": 410,
       "1": 451,
       "2": 492,
@@ -13084,7 +13084,7 @@
     "klass": "Pendants",
     "level": 14,
     "name": "Hanging Journal",
-    "power": {
+    "power_dict": {
       "0": 300,
       "1": 330,
       "2": 360,
@@ -13099,7 +13099,7 @@
     "klass": "Pendants",
     "level": 16,
     "name": "Fiery Talisman",
-    "power": {
+    "power_dict": {
       "0": 360,
       "1": 396,
       "2": 432,
@@ -13114,7 +13114,7 @@
     "klass": "Pendants",
     "level": 18,
     "name": "Azure Beads",
-    "power": {
+    "power_dict": {
       "0": 625,
       "1": 688,
       "2": 750,
@@ -13129,7 +13129,7 @@
     "klass": "Pendants",
     "level": 18,
     "name": "Timeless Locket",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -13144,7 +13144,7 @@
     "klass": "Pendants",
     "level": 19,
     "name": "Starfrost Pendant",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -13159,7 +13159,7 @@
     "klass": "Pendants",
     "level": 20,
     "name": "Jade Amulet",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -13174,7 +13174,7 @@
     "klass": "Pendants",
     "level": 22,
     "name": "Obelisk Charm",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -13189,7 +13189,7 @@
     "klass": "Pendants",
     "level": 24,
     "name": "Turning Token",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -13204,7 +13204,7 @@
     "klass": "Pendants",
     "level": 25,
     "name": "Light Amulet",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -13219,7 +13219,7 @@
     "klass": "Pendants",
     "level": 27,
     "name": "Shielding Ward",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -13234,7 +13234,7 @@
     "klass": "Pendants",
     "level": 29,
     "name": "Phoenix Talon",
-    "power": {
+    "power_dict": {
       "0": 800,
       "1": 880,
       "2": 960,
@@ -13249,7 +13249,7 @@
     "klass": "Pendants",
     "level": 31,
     "name": "Freezing Ward",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -13264,7 +13264,7 @@
     "klass": "Pendants",
     "level": 32,
     "name": "Heart Pendant",
-    "power": {
+    "power_dict": {
       "0": 1375,
       "1": 1513,
       "2": 1650,
@@ -13279,7 +13279,7 @@
     "klass": "Pendants",
     "level": 33,
     "name": "Ankh Amulet",
-    "power": {
+    "power_dict": {
       "0": 1435,
       "1": 1579,
       "2": 1722,
@@ -13294,7 +13294,7 @@
     "klass": "Pendants",
     "level": 34,
     "name": "Cat's Eye",
-    "power": {
+    "power_dict": {
       "0": 1000,
       "1": 1100,
       "2": 1200,
@@ -13309,7 +13309,7 @@
     "klass": "Pendants",
     "level": 35,
     "name": "Skadi's Charm",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -13324,7 +13324,7 @@
     "klass": "Pendants",
     "level": 35,
     "name": "Lich's Heart",
-    "power": {
+    "power_dict": {
       "0": 1550,
       "1": 1705,
       "2": 1860,
@@ -13339,7 +13339,7 @@
     "klass": "Pendants",
     "level": 36,
     "name": "Draconic Amulet",
-    "power": {
+    "power_dict": {
       "0": 1350,
       "1": 1485,
       "2": 1620,
@@ -13354,7 +13354,7 @@
     "klass": "Pendants",
     "level": 37,
     "name": "Trine Charm",
-    "power": {
+    "power_dict": {
       "0": 1125,
       "1": 1238,
       "2": 1350,
@@ -13369,7 +13369,7 @@
     "klass": "Pendants",
     "level": 38,
     "name": "Goddess' Tear",
-    "power": {
+    "power_dict": {
       "0": 1750,
       "1": 1925,
       "2": 2100,
@@ -13384,7 +13384,7 @@
     "klass": "Pendants",
     "level": 41,
     "name": "Ancient Amulet",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -13399,7 +13399,7 @@
     "klass": "Pendants",
     "level": 44,
     "name": "Family Heirloom",
-    "power": {
+    "power_dict": {
       "0": 2000,
       "1": 2200,
       "2": 2400,
@@ -13414,7 +13414,7 @@
     "klass": "Pendants",
     "level": 45,
     "name": "Draconic Charm",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -13429,7 +13429,7 @@
     "klass": "Pendants",
     "level": 45,
     "name": "Champion's Medal",
-    "power": {
+    "power_dict": {
       "0": 2200,
       "1": 2420,
       "2": 2640,
@@ -13444,7 +13444,7 @@
     "klass": "Pendants",
     "level": 47,
     "name": "Frostfire Talisman",
-    "power": {
+    "power_dict": {
       "0": 1950,
       "1": 2145,
       "2": 2340,
@@ -13459,7 +13459,7 @@
     "klass": "Pendants",
     "level": 50,
     "name": "Gaia's Heart",
-    "power": {
+    "power_dict": {
       "0": 2525,
       "1": 2778,
       "2": 3030,
@@ -13474,7 +13474,7 @@
     "klass": "Pendants",
     "level": 51,
     "name": "Bundle Up",
-    "power": {
+    "power_dict": {
       "0": 2500,
       "1": 2750,
       "2": 3000,
@@ -13489,7 +13489,7 @@
     "klass": "Pendants",
     "level": 53,
     "name": "Primal Charm",
-    "power": {
+    "power_dict": {
       "0": 2725,
       "1": 2998,
       "2": 3270,
@@ -13504,7 +13504,7 @@
     "klass": "Pendants",
     "level": 55,
     "name": "Ominous Charm",
-    "power": {
+    "power_dict": {
       "0": 2900,
       "1": 3190,
       "2": 3480,
@@ -13519,7 +13519,7 @@
     "klass": "Instruments",
     "level": 3,
     "name": "Wood Flute",
-    "power": {
+    "power_dict": {
       "0": 38,
       "1": 42,
       "2": 46,
@@ -13534,7 +13534,7 @@
     "klass": "Instruments",
     "level": 4,
     "name": "Small Drum",
-    "power": {
+    "power_dict": {
       "0": 56,
       "1": 62,
       "2": 68,
@@ -13549,7 +13549,7 @@
     "klass": "Instruments",
     "level": 7,
     "name": "Pan Flute",
-    "power": {
+    "power_dict": {
       "0": 120,
       "1": 132,
       "2": 144,
@@ -13564,7 +13564,7 @@
     "klass": "Instruments",
     "level": 8,
     "name": "Hand Drum",
-    "power": {
+    "power_dict": {
       "0": 215,
       "1": 237,
       "2": 258,
@@ -13579,7 +13579,7 @@
     "klass": "Instruments",
     "level": 9,
     "name": "Horn",
-    "power": {
+    "power_dict": {
       "0": 165,
       "1": 182,
       "2": 198,
@@ -13594,7 +13594,7 @@
     "klass": "Instruments",
     "level": 11,
     "name": "Harp",
-    "power": {
+    "power_dict": {
       "0": 220,
       "1": 242,
       "2": 264,
@@ -13609,7 +13609,7 @@
     "klass": "Instruments",
     "level": 12,
     "name": "Iron Flute",
-    "power": {
+    "power_dict": {
       "0": 310,
       "1": 341,
       "2": 372,
@@ -13624,7 +13624,7 @@
     "klass": "Instruments",
     "level": 15,
     "name": "Lute",
-    "power": {
+    "power_dict": {
       "0": 330,
       "1": 363,
       "2": 396,
@@ -13639,7 +13639,7 @@
     "klass": "Instruments",
     "level": 16,
     "name": "Frozen Harp",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -13654,7 +13654,7 @@
     "klass": "Instruments",
     "level": 17,
     "name": "Royal Trumpet",
-    "power": {
+    "power_dict": {
       "0": 630,
       "1": 693,
       "2": 756,
@@ -13669,7 +13669,7 @@
     "klass": "Instruments",
     "level": 18,
     "name": "Long Flute",
-    "power": {
+    "power_dict": {
       "0": 420,
       "1": 462,
       "2": 504,
@@ -13684,7 +13684,7 @@
     "klass": "Instruments",
     "level": 20,
     "name": "Oud",
-    "power": {
+    "power_dict": {
       "0": 490,
       "1": 539,
       "2": 588,
@@ -13699,7 +13699,7 @@
     "klass": "Instruments",
     "level": 22,
     "name": "Nordic Lute",
-    "power": {
+    "power_dict": {
       "0": 550,
       "1": 605,
       "2": 660,
@@ -13714,7 +13714,7 @@
     "klass": "Instruments",
     "level": 25,
     "name": "Military Tap",
-    "power": {
+    "power_dict": {
       "0": 650,
       "1": 715,
       "2": 780,
@@ -13729,7 +13729,7 @@
     "klass": "Instruments",
     "level": 26,
     "name": "Ygg Flute",
-    "power": {
+    "power_dict": {
       "0": 875,
       "1": 963,
       "2": 1050,
@@ -13744,7 +13744,7 @@
     "klass": "Instruments",
     "level": 28,
     "name": "Silvered Flute",
-    "power": {
+    "power_dict": {
       "0": 775,
       "1": 853,
       "2": 930,
@@ -13759,7 +13759,7 @@
     "klass": "Instruments",
     "level": 29,
     "name": "Chinese Drum",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -13774,7 +13774,7 @@
     "klass": "Instruments",
     "level": 30,
     "name": "Soothing Harp",
-    "power": {
+    "power_dict": {
       "0": 850,
       "1": 935,
       "2": 1020,
@@ -13789,7 +13789,7 @@
     "klass": "Instruments",
     "level": 31,
     "name": "Wyrm Horn",
-    "power": {
+    "power_dict": {
       "0": 1325,
       "1": 1458,
       "2": 1590,
@@ -13804,7 +13804,7 @@
     "klass": "Instruments",
     "level": 32,
     "name": "Golden String",
-    "power": {
+    "power_dict": {
       "0": 925,
       "1": 1018,
       "2": 1110,
@@ -13819,7 +13819,7 @@
     "klass": "Instruments",
     "level": 33,
     "name": "Hell Hound",
-    "power": {
+    "power_dict": {
       "0": 950,
       "1": 1045,
       "2": 1140,
@@ -13834,7 +13834,7 @@
     "klass": "Instruments",
     "level": 34,
     "name": "Gu Zheng",
-    "power": {
+    "power_dict": {
       "0": 1380,
       "1": 1518,
       "2": 1656,
@@ -13849,7 +13849,7 @@
     "klass": "Instruments",
     "level": 35,
     "name": "Draconian Sound",
-    "power": {
+    "power_dict": {
       "0": 1050,
       "1": 1155,
       "2": 1260,
@@ -13864,7 +13864,7 @@
     "klass": "Instruments",
     "level": 38,
     "name": "Draconic Heartbeat",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -13879,7 +13879,7 @@
     "klass": "Instruments",
     "level": 39,
     "name": "Twilight Flute",
-    "power": {
+    "power_dict": {
       "0": 1200,
       "1": 1320,
       "2": 1440,
@@ -13894,7 +13894,7 @@
     "klass": "Instruments",
     "level": 40,
     "name": "Angelic Strings",
-    "power": {
+    "power_dict": {
       "0": 1875,
       "1": 2063,
       "2": 2250,
@@ -13909,7 +13909,7 @@
     "klass": "Instruments",
     "level": 41,
     "name": "Ancient Horn",
-    "power": {
+    "power_dict": {
       "0": 1300,
       "1": 1430,
       "2": 1560,
@@ -13924,7 +13924,7 @@
     "klass": "Instruments",
     "level": 42,
     "name": "Bunny Harp",
-    "power": {
+    "power_dict": {
       "0": 2000,
       "1": 2200,
       "2": 2400,
@@ -13939,7 +13939,7 @@
     "klass": "Instruments",
     "level": 43,
     "name": "Ceremonial Er-hu",
-    "power": {
+    "power_dict": {
       "0": 1800,
       "1": 1980,
       "2": 2160,
@@ -13954,7 +13954,7 @@
     "klass": "Instruments",
     "level": 45,
     "name": "Winged Harp",
-    "power": {
+    "power_dict": {
       "0": 1450,
       "1": 1595,
       "2": 1740,
@@ -13969,7 +13969,7 @@
     "klass": "Instruments",
     "level": 45,
     "name": "Frostfire Harp",
-    "power": {
+    "power_dict": {
       "0": 1825,
       "1": 2008,
       "2": 2190,
@@ -13984,7 +13984,7 @@
     "klass": "Instruments",
     "level": 46,
     "name": "Angelic Bell",
-    "power": {
+    "power_dict": {
       "0": 2250,
       "1": 2475,
       "2": 2700,
@@ -13999,7 +13999,7 @@
     "klass": "Instruments",
     "level": 47,
     "name": "Wisdom Ocarina",
-    "power": {
+    "power_dict": {
       "0": 2325,
       "1": 2558,
       "2": 2790,
@@ -14014,7 +14014,7 @@
     "klass": "Instruments",
     "level": 48,
     "name": "Harvest Flute",
-    "power": {
+    "power_dict": {
       "0": 2400,
       "1": 2640,
       "2": 2880,
@@ -14029,7 +14029,7 @@
     "klass": "Instruments",
     "level": 49,
     "name": "Gaia's Flute",
-    "power": {
+    "power_dict": {
       "0": 2450,
       "1": 2695,
       "2": 2940,
@@ -14044,7 +14044,7 @@
     "klass": "Instruments",
     "level": 52,
     "name": "Ritual Djembe",
-    "power": {
+    "power_dict": {
       "0": 2675,
       "1": 2943,
       "2": 3210,
@@ -14059,7 +14059,7 @@
     "klass": "Instruments",
     "level": 54,
     "name": "Shamisen",
-    "power": {
+    "power_dict": {
       "0": 2800,
       "1": 3080,
       "2": 3360,
@@ -14074,7 +14074,7 @@
     "klass": "Instruments",
     "level": 55,
     "name": "Summoning Flute",
-    "power": {
+    "power_dict": {
       "0": 2875,
       "1": 3163,
       "2": 3450,
