@@ -35,7 +35,8 @@ heroes = {hero.hero_def.name: hero for hero in heroes_list}
 def probe_low_quality_item(item : Item):
     result = {}
     for hero in heroes_list:
-        result[hero] = item.break_chance(hero)
+        if hero.can_equip(item):
+            result[hero] = item.break_chance(hero)
     return result
 
 
@@ -62,5 +63,5 @@ def probe_item(item : Item):
 
 
 if __name__ == '__main__':
-    item = Item.new("Shredder", Quality.mythical)
+    item = Item.new("Luna Rod", Quality.flawless)
     probe_item(item)
