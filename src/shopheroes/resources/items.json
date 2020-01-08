@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Maces",
     "level": 38,
     "name": "Evening Star",
@@ -11490,7 +11490,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Spells",
     "level": 23,
     "name": "Magical Codex",
