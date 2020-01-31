@@ -465,7 +465,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Swords",
     "level": 46,
     "name": "Frostfire Blade",
@@ -2040,7 +2040,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Spears",
     "level": 26,
     "name": "Silver Fork",
@@ -5145,7 +5145,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Armor",
     "level": 38,
     "name": "Gaia's Fortress",
@@ -7560,7 +7560,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Clothes",
     "level": 29,
     "name": "Storm Apparel",
@@ -8730,7 +8730,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Hats",
     "level": 27,
     "name": "Wise Cap",
@@ -12090,7 +12090,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Projectiles",
     "level": 26,
     "name": "Singing Chakram",

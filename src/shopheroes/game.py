@@ -8,21 +8,21 @@ heroes_list = [
     Hero.new('Francesca', 40),
     Hero.new('Oneira', 40),
     Hero.new('Darthos', 39),
-    Hero.new('Nya', 39),
-    Hero.new('Louca', 38),
-    Hero.new('Kuro Shobi', 38),
-    Hero.new('Alicia', 38),
-    Hero.new('Kurul', 38),
+    Hero.new('Nya', 40),
+    Hero.new('Louca', 39),
+    Hero.new('Kuro Shobi', 39),
+    Hero.new('Alicia', 39),
+    Hero.new('Kurul', 39),
     Hero.new('Fiora', 38),
-    Hero.new('Odette', 38),
-    Hero.new('Irene', 38),
+    Hero.new('Odette', 39),
+    Hero.new('Irene', 39),
     Hero.new('Mila', 38),
-    Hero.new('Lancaster', 38),
+    Hero.new('Lancaster', 39),
     Hero.new('Minh', 38),
-    Hero.new('Clovis', 37),
-    Hero.new('Gauvin', 37),
-    Hero.new('Albert', 37),
-    Hero.new('Palash', 37),
+    Hero.new('Clovis', 38),
+    Hero.new('Gauvin', 38),
+    Hero.new('Albert', 38),
+    Hero.new('Palash', 38),
     Hero.new('Theor', 35),
     Hero.new('Garreth', 35),
     Hero.new('Karal', 30),
@@ -63,5 +63,5 @@ def probe_item(item : Item):
 
 
 if __name__ == '__main__':
-    item = Item.new("Luna Rod", Quality.flawless)
+    item = Item.new("Hell Hound", Quality.epic)
     probe_item(item)
