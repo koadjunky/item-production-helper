@@ -390,7 +390,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Swords",
     "level": 38,
     "name": "Stormbringer",
@@ -1575,7 +1575,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Axes",
     "level": 40,
     "name": "Ragnarok's Edge",
@@ -2205,7 +2205,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Spears",
     "level": 39,
     "name": "Divine Ray",
@@ -3405,7 +3405,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Staves",
     "level": 28,
     "name": "Sacred Scepter",
@@ -4710,7 +4710,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Guns",
     "level": 47,
     "name": "Pirate Pistol",
@@ -5160,7 +5160,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Armor",
     "level": 39,
     "name": "Draconic Plate",
@@ -6240,7 +6240,7 @@
     }
   },
   {
-    "craft": 1,
+    "craft": 0,
     "klass": "Helmets",
     "level": 42,
     "name": "Golden Helm",
@@ -6255,7 +6255,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Helmets",
     "level": 45,
     "name": "Frostfire Barbuta",
@@ -7170,7 +7170,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Boots",
     "level": 38,
     "name": "Skull Stompers",
@@ -7185,7 +7185,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Boots",
     "level": 39,
     "name": "Draconic Greaves",
@@ -7215,7 +7215,7 @@
     }
   },
   {
-    "craft": 1,
+    "craft": 0,
     "klass": "Boots",
     "level": 43,
     "name": "Royal Greaves",
@@ -7275,7 +7275,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Boots",
     "level": 52,
     "name": "Wildling Boots",
@@ -7740,7 +7740,7 @@
     }
   },
   {
-    "craft": 1,
+    "craft": 0,
     "klass": "Clothes",
     "level": 45,
     "name": "Twilight Doublet",
@@ -8310,7 +8310,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Shields",
     "level": 39,
     "name": "Giantshield",
@@ -8700,7 +8700,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Hats",
     "level": 25,
     "name": "Golden Crown",
@@ -9495,7 +9495,7 @@
     }
   },
   {
-    "craft": 1,
+    "craft": 0,
     "klass": "Bracers",
     "level": 43,
     "name": "Ogre Bracers",
@@ -11055,7 +11055,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Potions",
     "level": 36,
     "name": "Megalixir",
@@ -11715,7 +11715,7 @@
     }
   },
   {
-    "craft": 1,
+    "craft": 0,
     "klass": "Spells",
     "level": 45,
     "name": "Dragon Totem",
@@ -13365,7 +13365,7 @@
     }
   },
   {
-    "craft": 2,
+    "craft": 0,
     "klass": "Pendants",
     "level": 38,
     "name": "Goddess' Tear",
