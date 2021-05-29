@@ -3,8 +3,8 @@ from shopheroes.hero import Hero
 
 
 if __name__ == '__main__':
-    hero = Hero.new('Mojian', 40)
-    iset = hero.ideal_set(Quality.legendary)
+    hero = Hero.new('Kuro Shobi', 43)
+    iset = hero.ideal_set(Quality.mythical)
     for type, items in iset.items():
         print(type)
         for item in items:

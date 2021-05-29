@@ -78,7 +78,7 @@ class Hero:
             result[type] = []
             for eq_def in self.hero_def.get_eq_defs(type):
                 item_defs = [item_def for item_def in items_klass[eq_def.klass]
-                             if item_def.craft <= Craft.COMMON
+                             if item_def.craft <= Craft.BLUEPRINT
                              and self.hero_def.can_equip(item_def)]
                 for item_def in item_defs:
                     for q in range(quality+1):

@@ -2,27 +2,27 @@ from shopheroes.definitions import Quality
 from shopheroes.hero import Hero, Item
 
 heroes_list = [
-    Hero.new('Azula', 43),
-    Hero.new('Edward', 41),
-    Hero.new('Mojian', 41),
-    Hero.new('Francesca', 41),
-    Hero.new('Oneira', 40),
-    Hero.new('Darthos', 40),
-    Hero.new('Nya', 40),
-    Hero.new('Louca', 40),
-    Hero.new('Kuro Shobi', 39),
-    Hero.new('Alicia', 39),
-    Hero.new('Kurul', 40),
-    Hero.new('Fiora', 39),
-    Hero.new('Odette', 40),
-    Hero.new('Irene', 40),
-    Hero.new('Mila', 39),
-    Hero.new('Lancaster', 39),
+    Hero.new('Azula', 44),
+    Hero.new('Edward', 42),
+    Hero.new('Mojian', 42),
+    Hero.new('Francesca', 42),
+    Hero.new('Oneira', 42),
+    Hero.new('Darthos', 42),
+    Hero.new('Louca', 41),
+    Hero.new('Kuro Shobi', 41),
+    Hero.new('Alicia', 41),
+    Hero.new('Kurul', 41),
+    Hero.new('Fiora', 41),
+    Hero.new('Odette', 41),
+    Hero.new('Irene', 41),
+    Hero.new('Lancaster', 41),
+    Hero.new('Mila', 40),
     Hero.new('Minh', 40),
-    Hero.new('Clovis', 39),
-    Hero.new('Gauvin', 39),
-    Hero.new('Albert', 39),
-    Hero.new('Palash', 39),
+    Hero.new('Clovis', 40),
+    Hero.new('Albert', 40),
+    Hero.new('Palash', 40),
+    Hero.new('Gauvin', 40),
+    Hero.new('Nya', 40),
     Hero.new('Theor', 35),
     Hero.new('Garreth', 35),
     Hero.new('Karal', 30),
@@ -63,32 +63,13 @@ def probe_item(item : Item):
 
 
 if __name__ == '__main__':
-#    probe_item(Item.new("Frostfire Blade", Quality.epic))
-#    probe_item(Item.new("Skofnung", Quality.epic))
-#    probe_item(Item.new("Obsidian Voulge", Quality.epic))
-#    probe_item(Item.new("Ascalon", Quality.epic))
+#    probe_item(Item.new("Frostfire Blade", Quality.legendary))
 #    probe_item(Item.new("Shattering Core", Quality.mythical))
-#    probe_item(Item.new("Keeper of Souls", Quality.epic))
-#    probe_item(Item.new("Blaster", Quality.epic))
-#    probe_item(Item.new("Pirate Pistol", Quality.epic))
-#    probe_item(Item.new("Earthen Mail", Quality.epic))
-#    probe_item(Item.new("Earthen Mail", Quality.mythical))
-#    probe_item(Item.new("Ocean Leather", Quality.epic))
-#    probe_item(Item.new("Frostfire Barbuta", Quality.epic))
-#    probe_item(Item.new("Berserker Gauntlets", Quality.epic))
-#    probe_item(Item.new("Obsidian Greaves", Quality.epic))
-#    probe_item(Item.new("King's Mantle", Quality.epic))
-#    probe_item(Item.new("Hawk Shield", Quality.epic))
-#    probe_item(Item.new("Medusa Buckler", Quality.epic))
-#    probe_item(Item.new("Dragon Skull", Quality.legendary))
-#    probe_item(Item.new("Cultist's Hood", Quality.epic))
-#    probe_item(Item.new("Frostfire Shoes", Quality.epic))
-#    probe_item(Item.new("Draconic Tea", Quality.epic))
-#    probe_item(Item.new("Devil Dust", Quality.epic))
+#    probe_item(Item.new("Fire Smashers", Quality.legendary))    # Garbage
+#    probe_item(Item.new("Obsidian Greaves", Quality.legendary))
+#    probe_item(Item.new("Dragon Skull", Quality.legendary))     # Garbage
+#    probe_item(Item.new("Demonic Visage", Quality.legendary))
+#    probe_item(Item.new("Frostfire Shoes", Quality.legendary))
 #    probe_item(Item.new("Obsidian Potion", Quality.legendary))
-#    probe_item(Item.new("Obsidian Potion", Quality.epic))
-#    probe_item(Item.new("Unholy Potion", Quality.epic))
-#    probe_item(Item.new("Haunted Scroll", Quality.epic))
-#    probe_item(Item.new("Frostfire Kunai", Quality.epic))
-#    probe_item(Item.new("Frostfire Harp", Quality.epic))
-#    probe_item(Item.new("Wyrm Horn", Quality.epic))
+
+    probe_item(Item.new("Clarity Potion", Quality.legendary))
